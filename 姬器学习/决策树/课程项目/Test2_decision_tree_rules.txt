@@ -1,0 +1,34 @@
+|--- worst perimeter <= 104.95
+|   |--- worst compactness <= 0.41
+|   |   |--- smoothness error <= 0.00
+|   |   |   |--- class: 1
+|   |   |--- smoothness error >  0.00
+|   |   |   |--- area error <= 47.03
+|   |   |   |   |--- class: 1
+|   |   |   |--- area error >  47.03
+|   |   |   |   |--- class: 1
+|   |--- worst compactness >  0.41
+|   |   |--- area error <= 20.18
+|   |   |   |--- class: 1
+|   |   |--- area error >  20.18
+|   |   |   |--- class: 0
+|--- worst perimeter >  104.95
+|   |--- mean concave points <= 0.04
+|   |   |--- concavity error <= 0.02
+|   |   |   |--- class: 0
+|   |   |--- concavity error >  0.02
+|   |   |   |--- texture error <= 1.34
+|   |   |   |   |--- class: 1
+|   |   |   |--- texture error >  1.34
+|   |   |   |   |--- class: 1
+|   |--- mean concave points >  0.04
+|   |   |--- worst texture <= 20.88
+|   |   |   |--- worst perimeter <= 119.65
+|   |   |   |   |--- class: 1
+|   |   |   |--- worst perimeter >  119.65
+|   |   |   |   |--- class: 0
+|   |   |--- worst texture >  20.88
+|   |   |   |--- worst radius <= 15.82
+|   |   |   |   |--- class: 0
+|   |   |   |--- worst radius >  15.82
+|   |   |   |   |--- class: 0

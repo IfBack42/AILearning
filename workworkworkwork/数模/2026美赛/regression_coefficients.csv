@@ -1,0 +1,69 @@
+feature,coefficient,type
+age,-0.008192158967905882,judge_score
+gender,0.10435883790344067,judge_score
+dancer_ability,0.028245649771864785,judge_score
+dancer_popularity,0.020931582085403917,judge_score
+dancer_experience,2.853698925455197e-13,judge_score
+week_num,-0.05000625075625434,judge_score
+week_eliminated,-0.0005972673550063303,judge_score
+occupation_Athlete,-0.1325048599267893,judge_score
+occupation_Comedian,-0.08859096559023247,judge_score
+occupation_Entrepreneur,-0.05989184675740568,judge_score
+occupation_Model,-0.23208034197856708,judge_score
+occupation_News Anchor,-0.02530151484472054,judge_score
+occupation_Other,-0.04704781136268743,judge_score
+occupation_Politician,-0.24390455616877102,judge_score
+occupation_Racing Driver,0.0322485851243713,judge_score
+occupation_Singer/Rapper,-0.06165581432510287,judge_score
+occupation_TV Personality,-0.08532007510952282,judge_score
+region_Arizona,0.049552958196014844,judge_score
+region_California,-0.16252153585251694,judge_score
+region_Delaware,-0.09140124076506512,judge_score
+region_Florida,-0.07015839843624543,judge_score
+region_Illinois,-0.0647788257982282,judge_score
+region_Kentucky,-0.15238211766807136,judge_score
+region_Louisiana,0.0682988215332004,judge_score
+region_Maine,0.06332648890126191,judge_score
+region_Massachusetts,-0.15125994584419059,judge_score
+region_Michigan,0.021074822849708123,judge_score
+region_New Jersey,-0.13971118231106625,judge_score
+region_New York,-0.10725590333865562,judge_score
+region_Ohio,-0.1640779816719266,judge_score
+region_Other,-0.048914502459206616,judge_score
+region_South Carolina,-0.1945761665283351,judge_score
+region_Texas,-0.016732258467867977,judge_score
+region_Virginia,-0.022220350763057933,judge_score
+age,-0.0059259736772757,fan_vote
+gender,0.07887452197845886,fan_vote
+dancer_ability,-0.008116900562725973,fan_vote
+dancer_popularity,1.039516440193019,fan_vote
+dancer_experience,7.878674490687456e-14,fan_vote
+week_num,-0.027962499854619457,fan_vote
+week_eliminated,0.00338274464423511,fan_vote
+occupation_Athlete,-0.0925761697390694,fan_vote
+occupation_Comedian,-0.05283247585878761,fan_vote
+occupation_Entrepreneur,-0.08881678081013009,fan_vote
+occupation_Model,-0.2130206712465117,fan_vote
+occupation_News Anchor,-0.08527816288405413,fan_vote
+occupation_Other,-0.05546891824826555,fan_vote
+occupation_Politician,-0.15254698521433355,fan_vote
+occupation_Racing Driver,0.07155768647840195,fan_vote
+occupation_Singer/Rapper,-0.057821932604838096,fan_vote
+occupation_TV Personality,-0.04504834567530884,fan_vote
+region_Arizona,0.1100062641543265,fan_vote
+region_California,-0.13295019016089102,fan_vote
+region_Delaware,-0.17818072087483017,fan_vote
+region_Florida,-0.06861725577433693,fan_vote
+region_Illinois,-0.06578689543711852,fan_vote
+region_Kentucky,-0.055100997858741764,fan_vote
+region_Louisiana,0.08876661363820945,fan_vote
+region_Maine,0.09014184415740956,fan_vote
+region_Massachusetts,-0.17209726475021175,fan_vote
+region_Michigan,0.02618457670490785,fan_vote
+region_New Jersey,-0.08700949506712026,fan_vote
+region_New York,-0.0675675461024011,fan_vote
+region_Ohio,-0.15326530328043494,fan_vote
+region_Other,-0.025921345907483167,fan_vote
+region_South Carolina,-0.14780801596855264,fan_vote
+region_Texas,-0.009085457567577782,fan_vote
+region_Virginia,0.002173958098699726,fan_vote

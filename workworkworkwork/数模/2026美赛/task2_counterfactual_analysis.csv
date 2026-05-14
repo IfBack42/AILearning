@@ -1,0 +1,36 @@
+celebrity,season,week,actual_eliminated,survived_rank,survived_percent,controversy_source
+Jerry Rice,2,1,False,True,True,无争议
+Jerry Rice,2,2,False,True,True,无争议
+Jerry Rice,2,3,False,True,True,无争议
+Jerry Rice,2,4,False,True,True,无争议
+Jerry Rice,2,5,False,True,True,无争议
+Jerry Rice,2,6,False,True,True,无争议
+Jerry Rice,2,7,False,True,True,无争议
+Jerry Rice,2,8,True,True,True,历史结果
+Billy Ray Cyrus,4,2,False,True,True,无争议
+Billy Ray Cyrus,4,3,False,True,True,无争议
+Billy Ray Cyrus,4,4,False,True,True,无争议
+Billy Ray Cyrus,4,5,False,True,True,无争议
+Billy Ray Cyrus,4,6,False,True,True,无争议
+Billy Ray Cyrus,4,7,False,True,True,无争议
+Billy Ray Cyrus,4,8,True,True,True,历史结果
+Billy Ray Cyrus,4,9,False,True,True,无争议
+Billy Ray Cyrus,4,10,False,True,False,赛制差异
+Bristol Palin,11,1,False,True,True,无争议
+Bristol Palin,11,2,False,False,True,赛制差异
+Bristol Palin,11,3,False,False,True,赛制差异
+Bristol Palin,11,4,False,False,True,赛制差异
+Bristol Palin,11,5,False,False,True,赛制差异
+Bristol Palin,11,6,False,False,True,赛制差异
+Bristol Palin,11,7,False,False,True,赛制差异
+Bristol Palin,11,8,False,False,True,赛制差异
+Bristol Palin,11,9,False,False,True,赛制差异
+Bristol Palin,11,10,True,False,True,赛制差异
+Bobby Bones,27,1,False,True,True,无争议
+Bobby Bones,27,2,False,True,True,无争议
+Bobby Bones,27,3,False,True,True,无争议
+Bobby Bones,27,4,False,True,True,无争议
+Bobby Bones,27,6,False,True,True,无争议
+Bobby Bones,27,7,False,True,True,无争议
+Bobby Bones,27,8,False,True,True,无争议
+Bobby Bones,27,9,False,True,True,无争议

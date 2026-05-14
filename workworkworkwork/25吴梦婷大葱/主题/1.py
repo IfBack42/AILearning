@@ -1,0 +1,116 @@
+import matplotlib.pyplot as plt
+import numpy as np
+from collections import defaultdict
+
+# 设置中文字体支持
+plt.rcParams['font.sans-serif'] = ['SimHei', 'Arial Unicode MS', 'DejaVu Sans']
+plt.rcParams['axes.unicode_minus'] = False
+
+# 主题数据
+topics_data = {
+    "主题 1": [
+        ("game", 31.62), ("get", 8.12), ("bos", 5.97), ("time", 5.89), ("good", 5.39),
+        ("really", 4.96), ("play", 4.62), ("make", 4.58), ("fun", 4.39), ("also", 4.38),
+        ("even", 4.32), ("chapter", 4.22), ("boss", 3.92), ("go", 3.84), ("use", 3.79)
+    ],
+    "主题 2": [
+        ("chinese", 17.32), ("china", 15.87), ("people", 7.96), ("dynasty", 7.91), ("han", 5.83),
+        ("emperor", 5.81), ("also", 5.63), ("history", 5.32), ("would", 4.90), ("even", 4.55),
+        ("time", 4.39), ("year", 4.10), ("state", 3.69), ("war", 3.54), ("country", 3.18)
+    ],
+    "主题 3": [
+        ("would", 9.69), ("game", 9.39), ("get", 8.17), ("people", 7.56), ("look", 7.23),
+        ("know", 6.75), ("even", 6.46), ("make", 6.13), ("see", 5.85), ("really", 5.83),
+        ("also", 5.69), ("time", 5.61), ("nezha", 5.51), ("wukong", 5.15), ("good", 4.99)
+    ],
+    "主题 4": [
+        ("post", 14.69), ("spoiler", 10.90), ("first", 9.00), ("time", 7.40), ("get", 6.73),
+        ("beat", 6.48), ("please", 6.09), ("bos", 5.96), ("rule", 5.07), ("try", 5.00),
+        ("attack", 4.93), ("got", 4.85), ("week", 4.42), ("include", 4.30), ("remove", 4.20)
+    ],
+    "主题 5": [
+        ("character", 13.97), ("team", 11.41), ("get", 8.52), ("would", 7.04), ("still", 6.89),
+        ("also", 6.72), ("even", 6.27), ("time", 5.29), ("good", 5.26), ("damage", 5.25),
+        ("use", 5.21), ("really", 4.71), ("since", 4.60), ("need", 4.55), ("game", 4.33)
+    ],
+    "主题 6": [
+        ("story", 8.54), ("book", 8.44), ("movie", 8.05), ("time", 7.21), ("good", 7.05),
+        ("really", 6.82), ("would", 6.71), ("also", 6.61), ("character", 6.42), ("drama", 6.37),
+        ("show", 5.96), ("first", 5.69), ("love", 5.45), ("even", 5.37), ("much", 5.33)
+    ],
+    "主题 7": [
+        ("soul", 10.95), ("god", 8.83), ("would", 8.04), ("use", 7.38), ("get", 7.25),
+        ("tang", 7.20), ("power", 6.37), ("mc", 6.31), ("cultivation", 5.68), ("character", 5.63),
+        ("world", 5.57), ("want", 5.51), ("even", 5.45), ("san", 4.92), ("also", 4.91)
+    ],
+    "主题 8": [
+        ("game", 32.99), ("early", 5.98), ("access", 5.81), ("story", 5.75), ("get", 5.66),
+        ("good", 5.41), ("character", 5.32), ("time", 5.22), ("really", 4.48), ("even", 4.15),
+        ("chinese", 3.93), ("feel", 3.87), ("play", 3.87), ("also", 3.79), ("combat", 3.77)
+    ],
+    "主题 9": [
+        ("happy", 18.05), ("memory", 12.12), ("year", 8.92), ("favorite", 8.14), ("game", 7.64),
+        ("nd", 7.57), ("star", 5.79), ("favourite", 4.15), ("character", 4.06), ("story", 4.04),
+        ("may", 4.02), ("moment", 3.96), ("everyone", 3.93), ("first", 3.81), ("time", 3.79)
+    ]
+}
+
+def collect_all_words():
+    """
+    收集所有主题中的单词及其最高权重
+    """
+    word_max_weights = defaultdict(float)
+
+    # 遍历所有主题，记录每个词的最高权重
+    for topic_words in topics_data.values():
+        for word, weight in topic_words:
+            if weight > word_max_weights[word]:
+                word_max_weights[word] = weight
+
+    # 转换为列表并按权重排序
+    sorted_words = sorted(word_max_weights.items(), key=lambda x: x[1], reverse=True)
+    return sorted_words[:30]  # 返回前15个
+
+def plot_top_words():
+    """
+    绘制词频最高的15个词的横向柱状图
+    """
+    top_words = collect_all_words()
+    words = [item[0] for item in top_words]
+    weights = [item[1] for item in top_words]
+
+    # 创建图形和轴
+    fig, ax = plt.subplots(figsize=(12, 10))
+
+    # 绘制横向柱状图
+    y_pos = np.arange(len(words))
+    bars = ax.barh(y_pos, weights, color='lightcoral')
+
+    # 设置y轴标签和字体大小
+    ax.set_yticks(y_pos)
+    ax.set_yticklabels(words, fontsize=14)
+
+    # 设置x轴标签和字体大小
+    ax.set_xlabel('词频 (%)', fontsize=14)
+
+    # 设置刻度标签字体大小
+    ax.tick_params(axis='x', labelsize=14)
+    ax.tick_params(axis='y', labelsize=14)
+
+    # 在柱状图上添加数值标签
+    for i, (bar, weight) in enumerate(zip(bars, weights)):
+        ax.text(weight + 0.3, i, f'{weight:.2f}%', va='center', fontsize=12)
+
+    # 调整布局
+    plt.tight_layout()
+
+    # 保存图片
+    filename = "top_15_words.png"
+    plt.savefig(filename, dpi=300, bbox_inches='tight')
+    print(f"图片已保存为: {filename}")
+
+    # 显示图形
+    plt.show()
+
+# 绘制词频最高的15个词
+plot_top_words()

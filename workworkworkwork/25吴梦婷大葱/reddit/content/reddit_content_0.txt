@@ -1,0 +1,866 @@
+================================================================================
+帖子 0
+标题: 
+作者: Veritasibility
+发布时间: 2025-07-28T09:02:01.790000+0000
+点赞数: 5
+评论数: 84
+订阅数: 3713028
+--------------------------------------------------------------------------------
+内容:
+Ask about anything about the game that doesn't necessarily require a dedicated thread.
+================================================================================
+
+评论列表:
+------------------------------------------------------------
+用户: P0k3m0nFan_Jake
+点赞: 1
+时间: 2025-07-28T13:15:41.457000+0000
+内容:
+I logged in Lootbar.gg just a month ago, but before you say stuff like "Oh, that's illegal because you're not following Genshin's rules.", I DID NOT PURCHASE ANYTHING, but I'm still concerned I might get hacked since I still logged in, anyway. It's my fault, I know. I already severed my connection by logging out and removing it from my 3rd party settings thingy in Google. I also requested account deletion in their privacy team via Gmail. What can I do to make sure I won't get hacked? I'm too paranoid for my own good. track me
+------------------------------------------------------------
+用户: mizuene
+点赞: 1
+时间: 2025-07-28T12:58:59.071000+0000
+内容:
+if i were to use bennett's infusion to make a pyro burn normal attack character for fun, would i need atk or em? By "pyro burn" do you mean the Burning reaction (Dendro + Pyro)? Burning itself is mostly useless outside of Kinich/Emilie teams, or niche cases such as using Burning to enable Mualani Vape or Ganyu Melt. If you're trying to make a DPS with infused Pryo normal attacks, then you want to utilize Vape or Melt to multiply your damage. You can certainly use Bennett to infuse a Main DPS if you want. It's going to be weaker than any real Pryo DPS who can generate their own infusion such as Arle, Mavuika, or Hu Tao. But you can do it if you want, and you would be fine in overworld for the most part. I've heard people use Kazuha as a Main this way. With a team of Kazuha, Xianyun, Bennett, Citlali, you could make a Kazuha Melt Plunge team that shouldn't suck. And this isn't the only team you can build. Assuming you can reliably trigger Vape or Melt, you want both ATK and EM. ATK increases your base damage, while EM increases the multiplier for Vape and Melt. But as with most Main DPS, you should prioritize Crit over any other stat. Atk. Burn damage itself is awful so no need to focus on EM. thank you! If you meant Pyro damage in general kinda depends, if you go mono-Pyro it doesn't matter and if you are aiming to Vape/Melt then kinda just get both in Substats if you can with main stats focus on Atk.
+------------------------------------------------------------
+用户: Shiboleth17
+点赞: 1
+时间: 2025-07-28T13:22:22.906000+0000
+内容:
+By "pyro burn" do you mean the Burning reaction (Dendro + Pyro)? Burning itself is mostly useless outside of Kinich/Emilie teams, or niche cases such as using Burning to enable Mualani Vape or Ganyu Melt. If you're trying to make a DPS with infused Pryo normal attacks, then you want to utilize Vape or Melt to multiply your damage. You can certainly use Bennett to infuse a Main DPS if you want. It's going to be weaker than any real Pryo DPS who can generate their own infusion such as Arle, Mavuika, or Hu Tao. But you can do it if you want, and you would be fine in overworld for the most part. I've heard people use Kazuha as a Main this way. With a team of Kazuha, Xianyun, Bennett, Citlali, you could make a Kazuha Melt Plunge team that shouldn't suck. And this isn't the only team you can build. Assuming you can reliably trigger Vape or Melt, you want both ATK and EM. ATK increases your base damage, while EM increases the multiplier for Vape and Melt. But as with most Main DPS, you should prioritize Crit over any other stat.
+------------------------------------------------------------
+用户: Pfactory
+点赞: 1
+时间: 2025-07-28T13:04:34.165000+0000
+内容:
+Atk. Burn damage itself is awful so no need to focus on EM. thank you! If you meant Pyro damage in general kinda depends, if you go mono-Pyro it doesn't matter and if you are aiming to Vape/Melt then kinda just get both in Substats if you can with main stats focus on Atk.
+------------------------------------------------------------
+用户: mizuene
+点赞: 1
+时间: 2025-07-28T13:05:51.475000+0000
+内容:
+thank you! If you meant Pyro damage in general kinda depends, if you go mono-Pyro it doesn't matter and if you are aiming to Vape/Melt then kinda just get both in Substats if you can with main stats focus on Atk.
+------------------------------------------------------------
+用户: tri170391
+点赞: 1
+时间: 2025-07-28T13:08:21.194000+0000
+内容:
+If you meant Pyro damage in general kinda depends, if you go mono-Pyro it doesn't matter and if you are aiming to Vape/Melt then kinda just get both in Substats if you can with main stats focus on Atk.
+------------------------------------------------------------
+用户: harudesu
+点赞: 1
+时间: 2025-07-28T12:43:18.263000+0000
+内容:
+Does completing the Character Story Quest also give the 1 free intertwined fate just like the archon quests in the Tour Guide? Nope, only AQ
+------------------------------------------------------------
+用户: Annual-Weather
+点赞: 1
+时间: 2025-07-28T12:45:48.130000+0000
+内容:
+Nope, only AQ
+------------------------------------------------------------
+用户: Peeplikebird
+点赞: 1
+时间: 2025-07-28T12:42:21.300000+0000
+内容:
+Hi guys, some input please on where we're going with NodKrai mechanics. The only Natlan 5* I have is Xilonen, I don't like Mavuika's bike, but would have pulled for cutie Citlali. BUT with Nod Krai, the Nightsoul mechanic will probably be forgotten, as we will get lunar reactions. I love their designs too and was able to clear SO without Natlan chars. So should I just save until Nod Krai or would Citlali still help me out with Dehya and Diluc as only 5* pyros. Just pull characters that you like. Citlali isn’t only good for pyro dps, she’s also good for hydro dps
+------------------------------------------------------------
+用户: 9thdragonkitty
+点赞: 1
+时间: 2025-07-28T13:04:29.647000+0000
+内容:
+Just pull characters that you like. Citlali isn’t only good for pyro dps, she’s also good for hydro dps
+------------------------------------------------------------
+用户: WangOSU1
+点赞: 1
+时间: 2025-07-28T12:24:27.695000+0000
+内容:
+Probably a dumb question, but when can we expect the next Battle Pass to release?  Normally I do all my weekly stuff right at reset, but if the BP is gonna drop with the patch on Wednesday, I want to hold off so I get credit. It's dropping after the new patch goes live, so Tuesday/Wednesday, depending on your timezone. That being said, you can complete weekly missions (such as weekly bosses, cooking, crafting, etc.), and their completion towards the new BP will be computed (so you just need to claim them when the new BP drops). Oh, that's good to know, thank you!
+------------------------------------------------------------
+用户: bfogi
+点赞: 1
+时间: 2025-07-28T12:28:46.997000+0000
+内容:
+It's dropping after the new patch goes live, so Tuesday/Wednesday, depending on your timezone. That being said, you can complete weekly missions (such as weekly bosses, cooking, crafting, etc.), and their completion towards the new BP will be computed (so you just need to claim them when the new BP drops). Oh, that's good to know, thank you!
+------------------------------------------------------------
+用户: WangOSU1
+点赞: 1
+时间: 2025-07-28T12:29:19.673000+0000
+内容:
+Oh, that's good to know, thank you!
+------------------------------------------------------------
+用户: ataquemosle
+点赞: 1
+时间: 2025-07-28T12:22:30.235000+0000
+内容:
+Hey, i've been thinking about coming back to this game, i quit around Arlecchino-Clorinde release (i think i quit around Clorinde release cuz I have vague memories of me getting Clorinde in a random 10 pull lol). Anyway I want to know how much new content and mechanics were added after I left. Natlan is nearly done as 5.8 is the last update for natlan for now, so that means bunch of new world quests, new archon quests, world interactions, that whole thing. So in short, you have a lot to see if you decide to come back especially considering nodkrai is coming in about two months.
+------------------------------------------------------------
+用户: defiantfennecs
+点赞: 1
+时间: 2025-07-28T12:28:04.132000+0000
+内容:
+Natlan is nearly done as 5.8 is the last update for natlan for now, so that means bunch of new world quests, new archon quests, world interactions, that whole thing. So in short, you have a lot to see if you decide to come back especially considering nodkrai is coming in about two months.
+------------------------------------------------------------
+用户: No_Flower6020
+点赞: 1
+时间: 2025-07-28T11:29:01.758000+0000
+内容:
+what are some of the easier characters to invite in tcg? I don't think there's too much difference between them.
+------------------------------------------------------------
+用户: PhyrexianRogue
+点赞: 1
+时间: 2025-07-28T12:56:55.055000+0000
+内容:
+I don't think there's too much difference between them.
+------------------------------------------------------------
+用户: ImWadara
+点赞: 0
+时间: 2025-07-28T11:20:58.503000+0000
+内容:
+I am AR52, nothing more than AR53, I am planning to go up to AR60 in less than 6 months, is it possible? It's easier now than it used to be with how many quests are in the game, but know that progress slows a TON after AR55. Play the game as you would want to, but please don't make yourself miserable pushing yourself really hard for the goal. No real reason for that. Yup with resin refresh sure. AR59 to AR60 with just normal resin regen is like more than 6 months already.
+------------------------------------------------------------
+用户: JUSTpleaseSTOP
+点赞: 1
+时间: 2025-07-28T12:20:45.899000+0000
+内容:
+It's easier now than it used to be with how many quests are in the game, but know that progress slows a TON after AR55. Play the game as you would want to, but please don't make yourself miserable pushing yourself really hard for the goal. No real reason for that.
+------------------------------------------------------------
+用户: A_Noelle_Main
+点赞: 2
+时间: 2025-07-28T11:37:02.911000+0000
+内容:
+Yup with resin refresh sure. AR59 to AR60 with just normal resin regen is like more than 6 months already.
+------------------------------------------------------------
+用户: MallMassive7052
+点赞: 0
+时间: 2025-07-28T11:20:36.380000+0000
+内容:
+CRIT DMG DEALT ACHEIVEMENT PROBLEM!! Ok so in January 2025 I set a new crit record with Mavuika, and I even recorded it so I know for a fact what my crit was. (620.293) Today after noticing I managed to get a higher dmg somewhere around 700.000 I wanted to go check the exact number and I see the number being 2348352 !! It is almost impossible I ever did that kind of dmg on my own and I never play in co op either. So I see no reasonable way of this being possible. The only instance would be the recent event where we had to fight in co op. But still I have big doubts of how someone from there could buff my dmg THAT much??!? And there is no sign in anyone hacking me and again I never let anyone into my world and neither do I play in co op. How is this possible and should I be concerned? Any ideas? There was a forced coop event that just ended a few days ago, and there are +100% damage and +800 EM team buff, and +150% CD self buff, and it is also possible that one of your teammate bring a C6 Citlali. Yea I was thinking about that event too. I guess someone just buffed her so much and in all that mess of numbers in the event I didn’t even realize. I'd guess it was some limited event with various multipliers or other buffs active. Check the date, maybe that has clues to narrow the suspect list? Mavuika can hit millions pretty quickly, especially in events. Most likely some event in which you used mavuika heavily buffed her which is where that number comes from. I guess that really was the case then :/ I mean still better than it being some hack or something I think it's possible someone's characters buffed yours so much. I have Kinich and now his max dmg around 90 000 - 100 000 (yeap, not so good arts). But in this co-op event he made even 200 000 dmg with someone's Mavuika (I guess it was Mavuika's buff). So then it might be possible that that event just buffed the hell out of my character. Thanks for the info 700k isn't a damage record most casuals even bother trying to attain. Outside of them, it isn't farfetched at all to get there and higher. That's way too random a number for someone to just hack into your account, set a legitimate 2million damage records, then disappear, so you don't have to worry about that. There are some events/endgame that give you huge buffs, so the most likely scenario is that you dealt that damage and didn't realise. Then it was probably one of the recent events and someone did in fact buff me that much. Didn’t know that was possible 😭 that’s a huge buff
+------------------------------------------------------------
+用户: pzlama333
+点赞: 1
+时间: 2025-07-28T12:40:55.424000+0000
+内容:
+There was a forced coop event that just ended a few days ago, and there are +100% damage and +800 EM team buff, and +150% CD self buff, and it is also possible that one of your teammate bring a C6 Citlali. Yea I was thinking about that event too. I guess someone just buffed her so much and in all that mess of numbers in the event I didn’t even realize.
+------------------------------------------------------------
+用户: MallMassive7052
+点赞: 1
+时间: 2025-07-28T12:46:05.201000+0000
+内容:
+Yea I was thinking about that event too. I guess someone just buffed her so much and in all that mess of numbers in the event I didn’t even realize.
+------------------------------------------------------------
+用户: PhyrexianRogue
+点赞: 1
+时间: 2025-07-28T12:33:43.235000+0000
+内容:
+I'd guess it was some limited event with various multipliers or other buffs active. Check the date, maybe that has clues to narrow the suspect list?
+------------------------------------------------------------
+用户: defiantfennecs
+点赞: 1
+时间: 2025-07-28T12:30:28.581000+0000
+内容:
+Mavuika can hit millions pretty quickly, especially in events. Most likely some event in which you used mavuika heavily buffed her which is where that number comes from. I guess that really was the case then :/ I mean still better than it being some hack or something
+------------------------------------------------------------
+用户: MallMassive7052
+点赞: 1
+时间: 2025-07-28T12:47:14.880000+0000
+内容:
+I guess that really was the case then :/ I mean still better than it being some hack or something
+------------------------------------------------------------
+用户: l_inabottle
+点赞: 2
+时间: 2025-07-28T11:31:24.537000+0000
+内容:
+I think it's possible someone's characters buffed yours so much. I have Kinich and now his max dmg around 90 000 - 100 000 (yeap, not so good arts). But in this co-op event he made even 200 000 dmg with someone's Mavuika (I guess it was Mavuika's buff). So then it might be possible that that event just buffed the hell out of my character. Thanks for the info
+------------------------------------------------------------
+用户: MallMassive7052
+点赞: 1
+时间: 2025-07-28T12:48:24.863000+0000
+内容:
+So then it might be possible that that event just buffed the hell out of my character. Thanks for the info
+------------------------------------------------------------
+用户: _Abstinence_
+点赞: 3
+时间: 2025-07-28T11:30:35.423000+0000
+内容:
+700k isn't a damage record most casuals even bother trying to attain. Outside of them, it isn't farfetched at all to get there and higher. That's way too random a number for someone to just hack into your account, set a legitimate 2million damage records, then disappear, so you don't have to worry about that. There are some events/endgame that give you huge buffs, so the most likely scenario is that you dealt that damage and didn't realise. Then it was probably one of the recent events and someone did in fact buff me that much. Didn’t know that was possible 😭 that’s a huge buff
+------------------------------------------------------------
+用户: MallMassive7052
+点赞: 1
+时间: 2025-07-28T12:49:51.360000+0000
+内容:
+Then it was probably one of the recent events and someone did in fact buff me that much. Didn’t know that was possible 😭 that’s a huge buff
+------------------------------------------------------------
+用户: Royal_Opinion5309
+点赞: 0
+时间: 2025-07-28T11:05:03.300000+0000
+内容:
+Will we be able to offer sigils to the wheel of toma tomorrow? Also it is likely that the Wheel of Toma will be maxed and the Sigil shop will open :P. Since next patch is soft-confirmed  Nod Krai already. Yes
+------------------------------------------------------------
+用户: tri170391
+点赞: 1
+时间: 2025-07-28T11:27:07.887000+0000
+内容:
+Also it is likely that the Wheel of Toma will be maxed and the Sigil shop will open :P. Since next patch is soft-confirmed  Nod Krai already.
+------------------------------------------------------------
+用户: KyrrithK
+点赞: 2
+时间: 2025-07-28T11:05:36.236000+0000
+内容:
+Yes
+------------------------------------------------------------
+用户: Wsads420
+点赞: -1
+时间: 2025-07-28T11:00:45.443000+0000
+内容:
+Is there any chance arlecchino might rerun when columbina drops? Given how we know nothing about either of their (re)run dates, there's a chance. Technically? Yes. But no way to know. Is that arlecchino color swapped with furina on your pfp? Why yes, it is
+------------------------------------------------------------
+用户: PhyrexianRogue
+点赞: 1
+时间: 2025-07-28T12:35:28.270000+0000
+内容:
+Given how we know nothing about either of their (re)run dates, there's a chance.
+------------------------------------------------------------
+用户: KyrrithK
+点赞: 3
+时间: 2025-07-28T11:03:50.558000+0000
+内容:
+Technically? Yes. But no way to know. Is that arlecchino color swapped with furina on your pfp? Why yes, it is
+------------------------------------------------------------
+用户: Wsads420
+点赞: 0
+时间: 2025-07-28T11:21:55.289000+0000
+内容:
+Is that arlecchino color swapped with furina on your pfp? Why yes, it is
+------------------------------------------------------------
+用户: KyrrithK
+点赞: 2
+时间: 2025-07-28T11:22:45.687000+0000
+内容:
+Why yes, it is
+------------------------------------------------------------
+用户: Arch8Android
+点赞: 0
+时间: 2025-07-28T10:45:02.021000+0000
+内容:
+So, I'm almost done with the whole Natlan, all areas already at 100% but I'm still missing 2 Pyroculi. The area from 5.0 has been maxed out, so I don't even look there. The only areas where I might be missing Pyroculi are Masters of the Night Wind, Flower Feather Clan, Ochkanatlan and the Volcano. I'd like to ask you guys what where the most hidden/difficult to find Pyroculi in those areas? Maybe your clues will be of help to me 🙏. Maybe just craft 2 pyroculus resonance stone so that you know the exactly location. Why don't you just craft two resonance stones? I didn't really pay attention to reputation, so I don't have the blueprint for this stone. I think I only have one tribe at max reputation.
+------------------------------------------------------------
+用户: Indigo_Mindset420
+点赞: 2
+时间: 2025-07-28T10:52:14.997000+0000
+内容:
+Maybe just craft 2 pyroculus resonance stone so that you know the exactly location.
+------------------------------------------------------------
+用户: OrbitalSong
+点赞: 4
+时间: 2025-07-28T10:52:09.934000+0000
+内容:
+Why don't you just craft two resonance stones? I didn't really pay attention to reputation, so I don't have the blueprint for this stone. I think I only have one tribe at max reputation.
+------------------------------------------------------------
+用户: Arch8Android
+点赞: 0
+时间: 2025-07-28T10:56:49.728000+0000
+内容:
+I didn't really pay attention to reputation, so I don't have the blueprint for this stone. I think I only have one tribe at max reputation.
+------------------------------------------------------------
+用户: axomone
+点赞: 1
+时间: 2025-07-28T10:23:05.759000+0000
+内容:
+genshin has made a robot charchter right? will we ever get a mechsuit i mean the other two games got fire fly and seed just a matter of time right? Seems possible, Sandrone might play sorta like Firefly, but no way to be sure. Haven't seen any mechs yet
+------------------------------------------------------------
+用户: KyrrithK
+点赞: 4
+时间: 2025-07-28T10:24:40.333000+0000
+内容:
+Seems possible, Sandrone might play sorta like Firefly, but no way to be sure. Haven't seen any mechs yet
+------------------------------------------------------------
+用户: Bballer220
+点赞: 1
+时间: 2025-07-28T10:19:04.650000+0000
+内容:
+After a 54.8GB update, is there a chance the game will no longer fit on a PS5 by the time the story is done? Or do they delete other data after the update? Don't PS5's have 1TB now? Why wouldn't it fit? Some data will be deleted, for the minigames. But since this is a permanent region, it won't go down by much, and new event games will take their place anyway, plus 6.0 map and models... Hopefully the devs roll out the mobile patch optimizations to PC or at least console in 6.0 I wouldn't hold my breath for PS5 since we are not able to even delete Voice Packs there, but PC yea.
+------------------------------------------------------------
+用户: Mihta_Amaruthro
+点赞: 2
+时间: 2025-07-28T11:40:12.513000+0000
+内容:
+Don't PS5's have 1TB now? Why wouldn't it fit?
+------------------------------------------------------------
+用户: KyrrithK
+点赞: 3
+时间: 2025-07-28T10:30:04.118000+0000
+内容:
+Some data will be deleted, for the minigames. But since this is a permanent region, it won't go down by much, and new event games will take their place anyway, plus 6.0 map and models... Hopefully the devs roll out the mobile patch optimizations to PC or at least console in 6.0 I wouldn't hold my breath for PS5 since we are not able to even delete Voice Packs there, but PC yea.
+------------------------------------------------------------
+用户: tri170391
+点赞: 1
+时间: 2025-07-28T11:11:34.027000+0000
+内容:
+I wouldn't hold my breath for PS5 since we are not able to even delete Voice Packs there, but PC yea.
+------------------------------------------------------------
+用户: coding_the_sky
+点赞: -1
+时间: 2025-07-28T10:19:03.275000+0000
+内容:
+rank these for Mavuika: Tidal Shadow, Blackcliff Slasher, Earth Shaker, Rainslasher teams: mavuika vape with furina or melt with citlali or overload with mav clorind dual dps with chev C6 https://www.reddit.com/r/Mavuika/comments/1hhrvpw/mavuika_v3_weapon_calcs_question/ I don't think it really changed since this
+------------------------------------------------------------
+用户: KyrrithK
+点赞: 1
+时间: 2025-07-28T10:26:23.758000+0000
+内容:
+https://www.reddit.com/r/Mavuika/comments/1hhrvpw/mavuika_v3_weapon_calcs_question/ I don't think it really changed since this
+------------------------------------------------------------
+用户: axomone
+点赞: 0
+时间: 2025-07-28T10:07:07.888000+0000
+内容:
+How did the robot get a vision if she has one idk really Her elemental power might come from her Secret Source core, not a vision She will have voicelines in a few days thatb you can read about her vision lol. Anyways, sumeru spoilers Wanderer and Albedo are also artificial life
+------------------------------------------------------------
+用户: Rouge_means_red
+点赞: 1
+时间: 2025-07-28T12:22:25.899000+0000
+内容:
+Her elemental power might come from her Secret Source core, not a vision
+------------------------------------------------------------
+用户: Akomatai
+点赞: 4
+时间: 2025-07-28T10:15:19.249000+0000
+内容:
+She will have voicelines in a few days thatb you can read about her vision lol. Anyways, sumeru spoilers Wanderer and Albedo are also artificial life
+------------------------------------------------------------
+用户: axomone
+点赞: -2
+时间: 2025-07-28T10:00:28.219000+0000
+内容:
+when will genshin add text speed adjustor or dialouge skip like in hsr? i know its like a main feature of the story on genshin but it just sometimes too long Every time anyone asks for dialogue skip, it gets pushed back by one update. Thanks to you, we're now expecting it to be implemented about the heat death of the universe they still haven't after 5 years of people asking, so unlikely Ngl i dont do my world quest just cause its too much text
+------------------------------------------------------------
+用户: Daramangarasu
+点赞: 1
+时间: 2025-07-28T12:20:17.178000+0000
+内容:
+Every time anyone asks for dialogue skip, it gets pushed back by one update. Thanks to you, we're now expecting it to be implemented about the heat death of the universe
+------------------------------------------------------------
+用户: notafurry9
+点赞: 1
+时间: 2025-07-28T10:06:03.330000+0000
+内容:
+they still haven't after 5 years of people asking, so unlikely Ngl i dont do my world quest just cause its too much text
+------------------------------------------------------------
+用户: axomone
+点赞: 1
+时间: 2025-07-28T12:22:24.607000+0000
+内容:
+Ngl i dont do my world quest just cause its too much text
+------------------------------------------------------------
+用户: Sabali7
+点赞: 1
+时间: 2025-07-28T09:49:44.596000+0000
+内容:
+Is 880 EM enough for Kuki? My substat rolls aren't being generous at all. For hyperbloom? Yeah it's enough. If you also have Nahida in the team, she shares some of her em too.
+------------------------------------------------------------
+用户: International_You_56
+点赞: 1
+时间: 2025-07-28T10:44:21.437000+0000
+内容:
+For hyperbloom? Yeah it's enough. If you also have Nahida in the team, she shares some of her em too.
+------------------------------------------------------------
+用户: axomone
+点赞: -2
+时间: 2025-07-28T09:44:02.790000+0000
+内容:
+When will skirk  furina and navia be in banners again? Eventually ™️ no one knows oh so its random? yes i thought it wasnt random cause i heard people saying just to wait when they cycle again on average the pattern is generally 6-8 months but with the amount of characters we've got now it varies to an extreme degree that there is no predicable estimation to be made. it's random because MHY doesn't have anything like "it's august so x character is on banner" or "it's winter so we have x cryo character". It is random, but there are general trends and patterns people can use to make rough estimates for reruns. (like new characters typically rerunning after a few months, all Archons rerunning each region). And since all characters are supposed to rerun, eventually banners will cycle through all of them. (note : this can be just Chronicled appearances). It's random but so far archons always get a rerun in each region so Furina is most certainly getting a rerun during Nod-Krai patches. Skirk probably gets a rerun too since she's new and a very good character. But we don't know exactly when they'll get their reruns. Navia had a rerun quite recently and considering her stocks have fallen, her likeliest next appearance imo would be a Fontaine chronicled banner if we get one.
+------------------------------------------------------------
+用户: Daramangarasu
+点赞: 1
+时间: 2025-07-28T12:20:44.770000+0000
+内容:
+Eventually ™️
+------------------------------------------------------------
+用户: Sabali7
+点赞: 1
+时间: 2025-07-28T09:48:01.697000+0000
+内容:
+no one knows oh so its random? yes i thought it wasnt random cause i heard people saying just to wait when they cycle again on average the pattern is generally 6-8 months but with the amount of characters we've got now it varies to an extreme degree that there is no predicable estimation to be made. it's random because MHY doesn't have anything like "it's august so x character is on banner" or "it's winter so we have x cryo character". It is random, but there are general trends and patterns people can use to make rough estimates for reruns. (like new characters typically rerunning after a few months, all Archons rerunning each region). And since all characters are supposed to rerun, eventually banners will cycle through all of them. (note : this can be just Chronicled appearances). It's random but so far archons always get a rerun in each region so Furina is most certainly getting a rerun during Nod-Krai patches. Skirk probably gets a rerun too since she's new and a very good character. But we don't know exactly when they'll get their reruns. Navia had a rerun quite recently and considering her stocks have fallen, her likeliest next appearance imo would be a Fontaine chronicled banner if we get one.
+------------------------------------------------------------
+用户: axomone
+点赞: 0
+时间: 2025-07-28T09:48:50.455000+0000
+内容:
+oh so its random? yes i thought it wasnt random cause i heard people saying just to wait when they cycle again on average the pattern is generally 6-8 months but with the amount of characters we've got now it varies to an extreme degree that there is no predicable estimation to be made. it's random because MHY doesn't have anything like "it's august so x character is on banner" or "it's winter so we have x cryo character". It is random, but there are general trends and patterns people can use to make rough estimates for reruns. (like new characters typically rerunning after a few months, all Archons rerunning each region). And since all characters are supposed to rerun, eventually banners will cycle through all of them. (note : this can be just Chronicled appearances). It's random but so far archons always get a rerun in each region so Furina is most certainly getting a rerun during Nod-Krai patches. Skirk probably gets a rerun too since she's new and a very good character. But we don't know exactly when they'll get their reruns. Navia had a rerun quite recently and considering her stocks have fallen, her likeliest next appearance imo would be a Fontaine chronicled banner if we get one.
+------------------------------------------------------------
+用户: Sabali7
+点赞: 1
+时间: 2025-07-28T09:50:06.982000+0000
+内容:
+yes i thought it wasnt random cause i heard people saying just to wait when they cycle again on average the pattern is generally 6-8 months but with the amount of characters we've got now it varies to an extreme degree that there is no predicable estimation to be made. it's random because MHY doesn't have anything like "it's august so x character is on banner" or "it's winter so we have x cryo character". It is random, but there are general trends and patterns people can use to make rough estimates for reruns. (like new characters typically rerunning after a few months, all Archons rerunning each region). And since all characters are supposed to rerun, eventually banners will cycle through all of them. (note : this can be just Chronicled appearances). It's random but so far archons always get a rerun in each region so Furina is most certainly getting a rerun during Nod-Krai patches. Skirk probably gets a rerun too since she's new and a very good character. But we don't know exactly when they'll get their reruns. Navia had a rerun quite recently and considering her stocks have fallen, her likeliest next appearance imo would be a Fontaine chronicled banner if we get one.
+------------------------------------------------------------
+用户: axomone
+点赞: 1
+时间: 2025-07-28T09:54:30.473000+0000
+内容:
+i thought it wasnt random cause i heard people saying just to wait when they cycle again on average the pattern is generally 6-8 months but with the amount of characters we've got now it varies to an extreme degree that there is no predicable estimation to be made. it's random because MHY doesn't have anything like "it's august so x character is on banner" or "it's winter so we have x cryo character". It is random, but there are general trends and patterns people can use to make rough estimates for reruns. (like new characters typically rerunning after a few months, all Archons rerunning each region). And since all characters are supposed to rerun, eventually banners will cycle through all of them. (note : this can be just Chronicled appearances). It's random but so far archons always get a rerun in each region so Furina is most certainly getting a rerun during Nod-Krai patches. Skirk probably gets a rerun too since she's new and a very good character. But we don't know exactly when they'll get their reruns. Navia had a rerun quite recently and considering her stocks have fallen, her likeliest next appearance imo would be a Fontaine chronicled banner if we get one.
+------------------------------------------------------------
+用户: Single_Rabbit_9575
+点赞: 1
+时间: 2025-07-28T11:08:06.643000+0000
+内容:
+on average the pattern is generally 6-8 months but with the amount of characters we've got now it varies to an extreme degree that there is no predicable estimation to be made. it's random because MHY doesn't have anything like "it's august so x character is on banner" or "it's winter so we have x cryo character".
+------------------------------------------------------------
+用户: PhyrexianRogue
+点赞: 1
+时间: 2025-07-28T10:26:08.681000+0000
+内容:
+It is random, but there are general trends and patterns people can use to make rough estimates for reruns. (like new characters typically rerunning after a few months, all Archons rerunning each region). And since all characters are supposed to rerun, eventually banners will cycle through all of them. (note : this can be just Chronicled appearances).
+------------------------------------------------------------
+用户: Sabali7
+点赞: 1
+时间: 2025-07-28T09:58:26.674000+0000
+内容:
+It's random but so far archons always get a rerun in each region so Furina is most certainly getting a rerun during Nod-Krai patches. Skirk probably gets a rerun too since she's new and a very good character. But we don't know exactly when they'll get their reruns. Navia had a rerun quite recently and considering her stocks have fallen, her likeliest next appearance imo would be a Fontaine chronicled banner if we get one.
+------------------------------------------------------------
+用户: shizukoxz
+点赞: -1
+时间: 2025-07-28T09:36:26.272000+0000
+内容:
+any team ideas for main dps skirk? i cant post a pic so i'll just list down the characters i have: mualani, furina, neuv, freminet, layla, candace, rosaria, diona, chongyun, xingqiu, barbara, kaeya I'd do something like skirk, xingqiu, rosaria/kaeya/layla, TTDS cinder ciry mualani. you currently don't have a good healer for furina, so wouldn't use her for now
+------------------------------------------------------------
+用户: notafurry9
+点赞: 1
+时间: 2025-07-28T09:40:45.804000+0000
+内容:
+I'd do something like skirk, xingqiu, rosaria/kaeya/layla, TTDS cinder ciry mualani. you currently don't have a good healer for furina, so wouldn't use her for now
+------------------------------------------------------------
+用户: Apprehensive-You5831
+点赞: 0
+时间: 2025-07-28T09:35:55.993000+0000
+内容:
+So ny tean for keqing is keqing x yaoyao x dendro MC x kazuha (also if u got any better teams for keqing let me know, no 5*) and my question is, should i use noblesse oblige on dendro MC so he buffs keqing? Or is deepwood memories NEEDED for some reason? And for yaoyao wich artifact set? Thanks in advance. fischl instead of DMC would be much better. yaoyao/DMC could use noblesse or instructor Thanks! I js came up with an idea, yaoyao = tenacity for hp% and 20% atk bonus and DMC = instructor. Now may i ask why fiscl would be better? tenacity on yaoyao is also good. fischl is better becuase she deals a lot of damage without needing field time. she often deals more damage than keqing in that team Oh wow alright, and what artifacts for her? Also wouldnt dendro application be little tho? 4pc golden troupe, EM or atk/electro%/crit, looking for crit, atk%, EM substats. you don't need much dendro for aggravate teams, triggering the reaction doesn't remove the quicken aura unlike other reactions THANK YOU!!! you saved me
+------------------------------------------------------------
+用户: notafurry9
+点赞: 3
+时间: 2025-07-28T09:42:17.710000+0000
+内容:
+fischl instead of DMC would be much better. yaoyao/DMC could use noblesse or instructor Thanks! I js came up with an idea, yaoyao = tenacity for hp% and 20% atk bonus and DMC = instructor. Now may i ask why fiscl would be better? tenacity on yaoyao is also good. fischl is better becuase she deals a lot of damage without needing field time. she often deals more damage than keqing in that team Oh wow alright, and what artifacts for her? Also wouldnt dendro application be little tho? 4pc golden troupe, EM or atk/electro%/crit, looking for crit, atk%, EM substats. you don't need much dendro for aggravate teams, triggering the reaction doesn't remove the quicken aura unlike other reactions THANK YOU!!! you saved me
+------------------------------------------------------------
+用户: Apprehensive-You5831
+点赞: 1
+时间: 2025-07-28T09:58:22.460000+0000
+内容:
+Thanks! I js came up with an idea, yaoyao = tenacity for hp% and 20% atk bonus and DMC = instructor. Now may i ask why fiscl would be better? tenacity on yaoyao is also good. fischl is better becuase she deals a lot of damage without needing field time. she often deals more damage than keqing in that team Oh wow alright, and what artifacts for her? Also wouldnt dendro application be little tho? 4pc golden troupe, EM or atk/electro%/crit, looking for crit, atk%, EM substats. you don't need much dendro for aggravate teams, triggering the reaction doesn't remove the quicken aura unlike other reactions THANK YOU!!! you saved me
+------------------------------------------------------------
+用户: notafurry9
+点赞: 1
+时间: 2025-07-28T10:00:42.725000+0000
+内容:
+tenacity on yaoyao is also good. fischl is better becuase she deals a lot of damage without needing field time. she often deals more damage than keqing in that team Oh wow alright, and what artifacts for her? Also wouldnt dendro application be little tho? 4pc golden troupe, EM or atk/electro%/crit, looking for crit, atk%, EM substats. you don't need much dendro for aggravate teams, triggering the reaction doesn't remove the quicken aura unlike other reactions THANK YOU!!! you saved me
+------------------------------------------------------------
+用户: Apprehensive-You5831
+点赞: 1
+时间: 2025-07-28T10:06:54.906000+0000
+内容:
+Oh wow alright, and what artifacts for her? Also wouldnt dendro application be little tho? 4pc golden troupe, EM or atk/electro%/crit, looking for crit, atk%, EM substats. you don't need much dendro for aggravate teams, triggering the reaction doesn't remove the quicken aura unlike other reactions THANK YOU!!! you saved me
+------------------------------------------------------------
+用户: notafurry9
+点赞: 2
+时间: 2025-07-28T10:08:35.143000+0000
+内容:
+4pc golden troupe, EM or atk/electro%/crit, looking for crit, atk%, EM substats. you don't need much dendro for aggravate teams, triggering the reaction doesn't remove the quicken aura unlike other reactions THANK YOU!!! you saved me
+------------------------------------------------------------
+用户: Apprehensive-You5831
+点赞: 1
+时间: 2025-07-28T10:37:26.838000+0000
+内容:
+THANK YOU!!! you saved me
+------------------------------------------------------------
+用户: Technical_East1111
+点赞: 1
+时间: 2025-07-28T09:13:54.441000+0000
+内容:
+Hi everyone, I'm trying to make a simple game of Ineffa. I'm a developer, and looking for an artist and animator who would like to collaborate in making this with me too. What's a good place to connect with artists within the genshin community?
+------------------------------------------------------------
+用户: Ecchify
+点赞: 0
+时间: 2025-07-28T09:13:34.778000+0000
+内容:
+What should I do if I'm not able to pull for citlali? I have like 30 pulls and that's around what I need for hard pity. But it's on a 50/50 and I don't have enough time to grind for 80+ more pulls. I don't have rosaria either for mavuika so I have to run double cryo diona kaeya to get some melts, but that also means that I can't use both bennett and iansan for the buffs. I don't have xilonen either. So that said, is it pointless to pull on chasca or mualani if I lose 50/50 on citlali? Cause I like mavuika's on-field playstyle and I also haven't ever farmed for her off-field sets. Also I have her R1 so I feel it would be a waste to not play her on-field anyways... Same as always: Look at the characters you do have and build the best from what' you do have available. Neither Chasca or Mualani will do much if anything for on-field Mavuika, they're both on-field DPS themselves. They just like having a Sub-DPS Mavuika. I'd try kaeya iansan bennett and see if you can melt with that consistantly (at least first few hits), if you can't then kaeya diona iansan If you like Mavuika and her on-field style then neither Chasca nor Mualani do anything for her. They can both use her off-field though. Usually even when off-field, Mavuika keeps Obsidian as she does so much damage. For your Mavuika team, I'm not an expert, but you can remove Bennett and replace by an Anemo unit for the res shred (Sucrose or Kazuha). i don't have any anemo units to help so no sucrose/kazuha
+------------------------------------------------------------
+用户: PhyrexianRogue
+点赞: 1
+时间: 2025-07-28T12:39:16.612000+0000
+内容:
+Same as always: Look at the characters you do have and build the best from what' you do have available. Neither Chasca or Mualani will do much if anything for on-field Mavuika, they're both on-field DPS themselves. They just like having a Sub-DPS Mavuika.
+------------------------------------------------------------
+用户: notafurry9
+点赞: 3
+时间: 2025-07-28T09:21:19.432000+0000
+内容:
+I'd try kaeya iansan bennett and see if you can melt with that consistantly (at least first few hits), if you can't then kaeya diona iansan
+------------------------------------------------------------
+用户: frostlynx_
+点赞: 2
+时间: 2025-07-28T09:19:11.233000+0000
+内容:
+If you like Mavuika and her on-field style then neither Chasca nor Mualani do anything for her. They can both use her off-field though. Usually even when off-field, Mavuika keeps Obsidian as she does so much damage. For your Mavuika team, I'm not an expert, but you can remove Bennett and replace by an Anemo unit for the res shred (Sucrose or Kazuha). i don't have any anemo units to help so no sucrose/kazuha
+------------------------------------------------------------
+用户: Ecchify
+点赞: 1
+时间: 2025-07-28T09:39:58.710000+0000
+内容:
+i don't have any anemo units to help so no sucrose/kazuha
+------------------------------------------------------------
+用户: Technical_East1111
+点赞: 1
+时间: 2025-07-28T09:13:54.441000+0000
+内容:
+Hi everyone, I'm trying to make a simple game of Ineffa. I'm a developer, and looking for an artist and animator who would like to collaborate in making this with me too. What's a good place to connect with artists within the genshin community?
+------------------------------------------------------------
+用户: Sabali7
+点赞: 1
+时间: 2025-07-28T09:49:44.596000+0000
+内容:
+Is 880 EM enough for Kuki? My substat rolls aren't being generous at all. For hyperbloom? Yeah it's enough. If you also have Nahida in the team, she shares some of her em too.
+------------------------------------------------------------
+用户: International_You_56
+点赞: 1
+时间: 2025-07-28T10:44:21.437000+0000
+内容:
+For hyperbloom? Yeah it's enough. If you also have Nahida in the team, she shares some of her em too.
+------------------------------------------------------------
+用户: Bballer220
+点赞: 1
+时间: 2025-07-28T10:19:04.650000+0000
+内容:
+After a 54.8GB update, is there a chance the game will no longer fit on a PS5 by the time the story is done? Or do they delete other data after the update? Some data will be deleted, for the minigames. But since this is a permanent region, it won't go down by much, and new event games will take their place anyway, plus 6.0 map and models... Hopefully the devs roll out the mobile patch optimizations to PC or at least console in 6.0 Don't PS5's have 1TB now? Why wouldn't it fit?
+------------------------------------------------------------
+用户: KyrrithK
+点赞: 3
+时间: 2025-07-28T10:30:04.118000+0000
+内容:
+Some data will be deleted, for the minigames. But since this is a permanent region, it won't go down by much, and new event games will take their place anyway, plus 6.0 map and models... Hopefully the devs roll out the mobile patch optimizations to PC or at least console in 6.0
+------------------------------------------------------------
+用户: Mihta_Amaruthro
+点赞: 2
+时间: 2025-07-28T11:40:12.513000+0000
+内容:
+Don't PS5's have 1TB now? Why wouldn't it fit?
+------------------------------------------------------------
+用户: axomone
+点赞: 1
+时间: 2025-07-28T10:23:05.759000+0000
+内容:
+genshin has made a robot charchter right? will we ever get a mechsuit i mean the other two games got fire fly and seed just a matter of time right? Seems possible, Sandrone might play sorta like Firefly, but no way to be sure. Haven't seen any mechs yet
+------------------------------------------------------------
+用户: KyrrithK
+点赞: 4
+时间: 2025-07-28T10:24:40.333000+0000
+内容:
+Seems possible, Sandrone might play sorta like Firefly, but no way to be sure. Haven't seen any mechs yet
+------------------------------------------------------------
+用户: No_Flower6020
+点赞: 1
+时间: 2025-07-28T11:29:01.758000+0000
+内容:
+what are some of the easier characters to invite in tcg? I don't think there's too much difference between them.
+------------------------------------------------------------
+用户: PhyrexianRogue
+点赞: 1
+时间: 2025-07-28T12:56:55.055000+0000
+内容:
+I don't think there's too much difference between them.
+------------------------------------------------------------
+用户: Peeplikebird
+点赞: 1
+时间: 2025-07-28T12:42:21.300000+0000
+内容:
+Hi guys, some input please on where we're going with NodKrai mechanics. The only Natlan 5* I have is Xilonen, I don't like Mavuika's bike, but would have pulled for cutie Citlali. BUT with Nod Krai, the Nightsoul mechanic will probably be forgotten, as we will get lunar reactions. I love their designs too and was able to clear SO without Natlan chars. So should I just save until Nod Krai or would Citlali still help me out with Dehya and Diluc as only 5* pyros. Just pull characters that you like. Citlali isn’t only good for pyro dps, she’s also good for hydro dps
+------------------------------------------------------------
+用户: 9thdragonkitty
+点赞: 1
+时间: 2025-07-28T13:04:29.647000+0000
+内容:
+Just pull characters that you like. Citlali isn’t only good for pyro dps, she’s also good for hydro dps
+------------------------------------------------------------
+用户: harudesu
+点赞: 1
+时间: 2025-07-28T12:43:18.263000+0000
+内容:
+Does completing the Character Story Quest also give the 1 free intertwined fate just like the archon quests in the Tour Guide? Nope, only AQ
+------------------------------------------------------------
+用户: Annual-Weather
+点赞: 1
+时间: 2025-07-28T12:45:48.130000+0000
+内容:
+Nope, only AQ
+------------------------------------------------------------
+用户: mizuene
+点赞: 1
+时间: 2025-07-28T12:58:59.071000+0000
+内容:
+if i were to use bennett's infusion to make a pyro burn normal attack character for fun, would i need atk or em? Atk. Burn damage itself is awful so no need to focus on EM. By "pyro burn" do you mean the Burning reaction (Dendro + Pyro)? Burning itself is mostly useless outside of Kinich/Emilie teams, or niche cases such as using Burning to enable Mualani Vape or Ganyu Melt. If you're trying to make a DPS with infused Pryo normal attacks, then you want to utilize Vape or Melt to multiply your damage. You can certainly use Bennett to infuse a Main DPS if you want. It's going to be weaker than any real Pryo DPS who can generate their own infusion such as Arle, Mavuika, or Hu Tao. But you can do it if you want, and you would be fine in overworld for the most part. I've heard people use Kazuha as a Main this way. With a team of Kazuha, Xianyun, Bennett, Citlali, you could make a Kazuha Melt Plunge team that shouldn't suck. And this isn't the only team you can build. Assuming you can reliably trigger Vape or Melt, you want both ATK and EM. ATK increases your base damage, while EM increases the multiplier for Vape and Melt. But as with most Main DPS, you should prioritize Crit over any other stat.
+------------------------------------------------------------
+用户: Pfactory
+点赞: 1
+时间: 2025-07-28T13:04:34.165000+0000
+内容:
+Atk. Burn damage itself is awful so no need to focus on EM.
+------------------------------------------------------------
+用户: Shiboleth17
+点赞: 1
+时间: 2025-07-28T13:22:22.906000+0000
+内容:
+By "pyro burn" do you mean the Burning reaction (Dendro + Pyro)? Burning itself is mostly useless outside of Kinich/Emilie teams, or niche cases such as using Burning to enable Mualani Vape or Ganyu Melt. If you're trying to make a DPS with infused Pryo normal attacks, then you want to utilize Vape or Melt to multiply your damage. You can certainly use Bennett to infuse a Main DPS if you want. It's going to be weaker than any real Pryo DPS who can generate their own infusion such as Arle, Mavuika, or Hu Tao. But you can do it if you want, and you would be fine in overworld for the most part. I've heard people use Kazuha as a Main this way. With a team of Kazuha, Xianyun, Bennett, Citlali, you could make a Kazuha Melt Plunge team that shouldn't suck. And this isn't the only team you can build. Assuming you can reliably trigger Vape or Melt, you want both ATK and EM. ATK increases your base damage, while EM increases the multiplier for Vape and Melt. But as with most Main DPS, you should prioritize Crit over any other stat.
+------------------------------------------------------------
+用户: P0k3m0nFan_Jake
+点赞: 1
+时间: 2025-07-28T13:15:41.457000+0000
+内容:
+I logged in Lootbar.gg just a month ago, but before you say stuff like "Oh, that's illegal because you're not following Genshin's rules.", I DID NOT PURCHASE ANYTHING, but I'm still concerned I might get hacked since I still logged in, anyway. It's my fault, I know. I already severed my connection by logging out and removing it from my 3rd party settings thingy in Google. I also requested account deletion in their privacy team via Gmail. What can I do to make sure I won't get hacked? I'm too paranoid for my own good.
+------------------------------------------------------------
+用户: Ecchify
+点赞: 0
+时间: 2025-07-28T09:13:34.778000+0000
+内容:
+What should I do if I'm not able to pull for citlali? I have like 30 pulls and that's around what I need for hard pity. But it's on a 50/50 and I don't have enough time to grind for 80+ more pulls. I don't have rosaria either for mavuika so I have to run double cryo diona kaeya to get some melts, but that also means that I can't use both bennett and iansan for the buffs. I don't have xilonen either. So that said, is it pointless to pull on chasca or mualani if I lose 50/50 on citlali? Cause I like mavuika's on-field playstyle and I also haven't ever farmed for her off-field sets. Also I have her R1 so I feel it would be a waste to not play her on-field anyways... I'd try kaeya iansan bennett and see if you can melt with that consistantly (at least first few hits), if you can't then kaeya diona iansan If you like Mavuika and her on-field style then neither Chasca nor Mualani do anything for her. They can both use her off-field though. Usually even when off-field, Mavuika keeps Obsidian as she does so much damage. For your Mavuika team, I'm not an expert, but you can remove Bennett and replace by an Anemo unit for the res shred (Sucrose or Kazuha). Same as always: Look at the characters you do have and build the best from what' you do have available. Neither Chasca or Mualani will do much if anything for on-field Mavuika, they're both on-field DPS themselves. They just like having a Sub-DPS Mavuika.
+------------------------------------------------------------
+用户: notafurry9
+点赞: 3
+时间: 2025-07-28T09:21:19.432000+0000
+内容:
+I'd try kaeya iansan bennett and see if you can melt with that consistantly (at least first few hits), if you can't then kaeya diona iansan
+------------------------------------------------------------
+用户: frostlynx_
+点赞: 2
+时间: 2025-07-28T09:19:11.233000+0000
+内容:
+If you like Mavuika and her on-field style then neither Chasca nor Mualani do anything for her. They can both use her off-field though. Usually even when off-field, Mavuika keeps Obsidian as she does so much damage. For your Mavuika team, I'm not an expert, but you can remove Bennett and replace by an Anemo unit for the res shred (Sucrose or Kazuha).
+------------------------------------------------------------
+用户: PhyrexianRogue
+点赞: 1
+时间: 2025-07-28T12:39:16.612000+0000
+内容:
+Same as always: Look at the characters you do have and build the best from what' you do have available. Neither Chasca or Mualani will do much if anything for on-field Mavuika, they're both on-field DPS themselves. They just like having a Sub-DPS Mavuika.
+------------------------------------------------------------
+用户: Apprehensive-You5831
+点赞: 0
+时间: 2025-07-28T09:35:55.993000+0000
+内容:
+So ny tean for keqing is keqing x yaoyao x dendro MC x kazuha (also if u got any better teams for keqing let me know, no 5*) and my question is, should i use noblesse oblige on dendro MC so he buffs keqing? Or is deepwood memories NEEDED for some reason? And for yaoyao wich artifact set? Thanks in advance. fischl instead of DMC would be much better. yaoyao/DMC could use noblesse or instructor
+------------------------------------------------------------
+用户: notafurry9
+点赞: 3
+时间: 2025-07-28T09:42:17.710000+0000
+内容:
+fischl instead of DMC would be much better. yaoyao/DMC could use noblesse or instructor
+------------------------------------------------------------
+用户: axomone
+点赞: 0
+时间: 2025-07-28T10:07:07.888000+0000
+内容:
+How did the robot get a vision if she has one idk really She will have voicelines in a few days thatb you can read about her vision lol. Anyways, sumeru spoilers Wanderer and Albedo are also artificial life Her elemental power might come from her Secret Source core, not a vision
+------------------------------------------------------------
+用户: Akomatai
+点赞: 4
+时间: 2025-07-28T10:15:19.249000+0000
+内容:
+She will have voicelines in a few days thatb you can read about her vision lol. Anyways, sumeru spoilers Wanderer and Albedo are also artificial life
+------------------------------------------------------------
+用户: Rouge_means_red
+点赞: 1
+时间: 2025-07-28T12:22:25.899000+0000
+内容:
+Her elemental power might come from her Secret Source core, not a vision
+------------------------------------------------------------
+用户: Arch8Android
+点赞: 0
+时间: 2025-07-28T10:45:02.021000+0000
+内容:
+So, I'm almost done with the whole Natlan, all areas already at 100% but I'm still missing 2 Pyroculi. The area from 5.0 has been maxed out, so I don't even look there. The only areas where I might be missing Pyroculi are Masters of the Night Wind, Flower Feather Clan, Ochkanatlan and the Volcano. I'd like to ask you guys what where the most hidden/difficult to find Pyroculi in those areas? Maybe your clues will be of help to me 🙏. Why don't you just craft two resonance stones? Maybe just craft 2 pyroculus resonance stone so that you know the exactly location.
+------------------------------------------------------------
+用户: OrbitalSong
+点赞: 4
+时间: 2025-07-28T10:52:09.934000+0000
+内容:
+Why don't you just craft two resonance stones?
+------------------------------------------------------------
+用户: Indigo_Mindset420
+点赞: 2
+时间: 2025-07-28T10:52:14.997000+0000
+内容:
+Maybe just craft 2 pyroculus resonance stone so that you know the exactly location.
+------------------------------------------------------------
+用户: Royal_Opinion5309
+点赞: 0
+时间: 2025-07-28T11:05:03.300000+0000
+内容:
+Will we be able to offer sigils to the wheel of toma tomorrow? Yes Also it is likely that the Wheel of Toma will be maxed and the Sigil shop will open :P. Since next patch is soft-confirmed  Nod Krai already.
+------------------------------------------------------------
+用户: KyrrithK
+点赞: 2
+时间: 2025-07-28T11:05:36.236000+0000
+内容:
+Yes
+------------------------------------------------------------
+用户: tri170391
+点赞: 1
+时间: 2025-07-28T11:27:07.887000+0000
+内容:
+Also it is likely that the Wheel of Toma will be maxed and the Sigil shop will open :P. Since next patch is soft-confirmed  Nod Krai already.
+------------------------------------------------------------
+用户: MallMassive7052
+点赞: 0
+时间: 2025-07-28T11:20:36.380000+0000
+内容:
+CRIT DMG DEALT ACHEIVEMENT PROBLEM!! Ok so in January 2025 I set a new crit record with Mavuika, and I even recorded it so I know for a fact what my crit was. (620.293) Today after noticing I managed to get a higher dmg somewhere around 700.000 I wanted to go check the exact number and I see the number being 2348352 !! It is almost impossible I ever did that kind of dmg on my own and I never play in co op either. So I see no reasonable way of this being possible. The only instance would be the recent event where we had to fight in co op. But still I have big doubts of how someone from there could buff my dmg THAT much??!? And there is no sign in anyone hacking me and again I never let anyone into my world and neither do I play in co op. How is this possible and should I be concerned? Any ideas? 700k isn't a damage record most casuals even bother trying to attain. Outside of them, it isn't farfetched at all to get there and higher. That's way too random a number for someone to just hack into your account, set a legitimate 2million damage records, then disappear, so you don't have to worry about that. There are some events/endgame that give you huge buffs, so the most likely scenario is that you dealt that damage and didn't realise. There was a forced coop event that just ended a few days ago, and there are +100% damage and +800 EM team buff, and +150% CD self buff, and it is also possible that one of your teammate bring a C6 Citlali. I think it's possible someone's characters buffed yours so much. I have Kinich and now his max dmg around 90 000 - 100 000 (yeap, not so good arts). But in this co-op event he made even 200 000 dmg with someone's Mavuika (I guess it was Mavuika's buff). Mavuika can hit millions pretty quickly, especially in events. Most likely some event in which you used mavuika heavily buffed her which is where that number comes from. I'd guess it was some limited event with various multipliers or other buffs active. Check the date, maybe that has clues to narrow the suspect list?
+------------------------------------------------------------
+用户: _Abstinence_
+点赞: 3
+时间: 2025-07-28T11:30:35.423000+0000
+内容:
+700k isn't a damage record most casuals even bother trying to attain. Outside of them, it isn't farfetched at all to get there and higher. That's way too random a number for someone to just hack into your account, set a legitimate 2million damage records, then disappear, so you don't have to worry about that. There are some events/endgame that give you huge buffs, so the most likely scenario is that you dealt that damage and didn't realise.
+------------------------------------------------------------
+用户: pzlama333
+点赞: 1
+时间: 2025-07-28T12:40:55.424000+0000
+内容:
+There was a forced coop event that just ended a few days ago, and there are +100% damage and +800 EM team buff, and +150% CD self buff, and it is also possible that one of your teammate bring a C6 Citlali.
+------------------------------------------------------------
+用户: l_inabottle
+点赞: 2
+时间: 2025-07-28T11:31:24.537000+0000
+内容:
+I think it's possible someone's characters buffed yours so much. I have Kinich and now his max dmg around 90 000 - 100 000 (yeap, not so good arts). But in this co-op event he made even 200 000 dmg with someone's Mavuika (I guess it was Mavuika's buff).
+------------------------------------------------------------
+用户: defiantfennecs
+点赞: 1
+时间: 2025-07-28T12:30:28.581000+0000
+内容:
+Mavuika can hit millions pretty quickly, especially in events. Most likely some event in which you used mavuika heavily buffed her which is where that number comes from.
+------------------------------------------------------------
+用户: PhyrexianRogue
+点赞: 1
+时间: 2025-07-28T12:33:43.235000+0000
+内容:
+I'd guess it was some limited event with various multipliers or other buffs active. Check the date, maybe that has clues to narrow the suspect list?
+------------------------------------------------------------
+用户: ImWadara
+点赞: 0
+时间: 2025-07-28T11:20:58.503000+0000
+内容:
+I am AR52, nothing more than AR53, I am planning to go up to AR60 in less than 6 months, is it possible? It's easier now than it used to be with how many quests are in the game, but know that progress slows a TON after AR55. Play the game as you would want to, but please don't make yourself miserable pushing yourself really hard for the goal. No real reason for that. Yup with resin refresh sure. AR59 to AR60 with just normal resin regen is like more than 6 months already.
+------------------------------------------------------------
+用户: JUSTpleaseSTOP
+点赞: 1
+时间: 2025-07-28T12:20:45.899000+0000
+内容:
+It's easier now than it used to be with how many quests are in the game, but know that progress slows a TON after AR55. Play the game as you would want to, but please don't make yourself miserable pushing yourself really hard for the goal. No real reason for that.
+------------------------------------------------------------
+用户: A_Noelle_Main
+点赞: 2
+时间: 2025-07-28T11:37:02.911000+0000
+内容:
+Yup with resin refresh sure. AR59 to AR60 with just normal resin regen is like more than 6 months already.
+------------------------------------------------------------
+用户: WangOSU1
+点赞: 1
+时间: 2025-07-28T12:24:27.695000+0000
+内容:
+Probably a dumb question, but when can we expect the next Battle Pass to release?  Normally I do all my weekly stuff right at reset, but if the BP is gonna drop with the patch on Wednesday, I want to hold off so I get credit. It's dropping after the new patch goes live, so Tuesday/Wednesday, depending on your timezone. That being said, you can complete weekly missions (such as weekly bosses, cooking, crafting, etc.), and their completion towards the new BP will be computed (so you just need to claim them when the new BP drops).
+------------------------------------------------------------
+用户: bfogi
+点赞: 1
+时间: 2025-07-28T12:28:46.997000+0000
+内容:
+It's dropping after the new patch goes live, so Tuesday/Wednesday, depending on your timezone. That being said, you can complete weekly missions (such as weekly bosses, cooking, crafting, etc.), and their completion towards the new BP will be computed (so you just need to claim them when the new BP drops).
+------------------------------------------------------------
+用户: shizukoxz
+点赞: -1
+时间: 2025-07-28T09:36:26.272000+0000
+内容:
+any team ideas for main dps skirk? i cant post a pic so i'll just list down the characters i have: mualani, furina, neuv, freminet, layla, candace, rosaria, diona, chongyun, xingqiu, barbara, kaeya I'd do something like skirk, xingqiu, rosaria/kaeya/layla, TTDS cinder ciry mualani. you currently don't have a good healer for furina, so wouldn't use her for now
+------------------------------------------------------------
+用户: notafurry9
+点赞: 1
+时间: 2025-07-28T09:40:45.804000+0000
+内容:
+I'd do something like skirk, xingqiu, rosaria/kaeya/layla, TTDS cinder ciry mualani. you currently don't have a good healer for furina, so wouldn't use her for now
+------------------------------------------------------------
+用户: coding_the_sky
+点赞: -1
+时间: 2025-07-28T10:19:03.275000+0000
+内容:
+rank these for Mavuika: Tidal Shadow, Blackcliff Slasher, Earth Shaker, Rainslasher teams: mavuika vape with furina or melt with citlali or overload with mav clorind dual dps with chev C6 https://www.reddit.com/r/Mavuika/comments/1hhrvpw/mavuika_v3_weapon_calcs_question/ I don't think it really changed since this
+------------------------------------------------------------
+用户: KyrrithK
+点赞: 1
+时间: 2025-07-28T10:26:23.758000+0000
+内容:
+https://www.reddit.com/r/Mavuika/comments/1hhrvpw/mavuika_v3_weapon_calcs_question/ I don't think it really changed since this
+------------------------------------------------------------
+用户: Wsads420
+点赞: -1
+时间: 2025-07-28T11:00:45.443000+0000
+内容:
+Is there any chance arlecchino might rerun when columbina drops? Technically? Yes. But no way to know. Given how we know nothing about either of their (re)run dates, there's a chance.
+------------------------------------------------------------
+用户: KyrrithK
+点赞: 3
+时间: 2025-07-28T11:03:50.558000+0000
+内容:
+Technically? Yes. But no way to know.
+------------------------------------------------------------
+用户: PhyrexianRogue
+点赞: 1
+时间: 2025-07-28T12:35:28.270000+0000
+内容:
+Given how we know nothing about either of their (re)run dates, there's a chance.
+------------------------------------------------------------
+用户: ataquemosle
+点赞: 1
+时间: 2025-07-28T12:22:30.235000+0000
+内容:
+Hey, i've been thinking about coming back to this game, i quit around Arlecchino-Clorinde release (i think i quit around Clorinde release cuz I have vague memories of me getting Clorinde in a random 10 pull lol). Anyway I want to know how much new content and mechanics were added after I left. Natlan is nearly done as 5.8 is the last update for natlan for now, so that means bunch of new world quests, new archon quests, world interactions, that whole thing. So in short, you have a lot to see if you decide to come back especially considering nodkrai is coming in about two months.
+------------------------------------------------------------
+用户: defiantfennecs
+点赞: 1
+时间: 2025-07-28T12:28:04.132000+0000
+内容:
+Natlan is nearly done as 5.8 is the last update for natlan for now, so that means bunch of new world quests, new archon quests, world interactions, that whole thing. So in short, you have a lot to see if you decide to come back especially considering nodkrai is coming in about two months.
+------------------------------------------------------------
+用户: axomone
+点赞: -2
+时间: 2025-07-28T09:44:02.790000+0000
+内容:
+When will skirk  furina and navia be in banners again? no one knows Eventually ™️
+------------------------------------------------------------
+用户: Sabali7
+点赞: 1
+时间: 2025-07-28T09:48:01.697000+0000
+内容:
+no one knows
+------------------------------------------------------------
+用户: Daramangarasu
+点赞: 1
+时间: 2025-07-28T12:20:44.770000+0000
+内容:
+Eventually ™️
+------------------------------------------------------------
+用户: axomone
+点赞: -2
+时间: 2025-07-28T10:00:28.219000+0000
+内容:
+when will genshin add text speed adjustor or dialouge skip like in hsr? i know its like a main feature of the story on genshin but it just sometimes too long they still haven't after 5 years of people asking, so unlikely Every time anyone asks for dialogue skip, it gets pushed back by one update. Thanks to you, we're now expecting it to be implemented about the heat death of the universe
+------------------------------------------------------------
+用户: notafurry9
+点赞: 1
+时间: 2025-07-28T10:06:03.330000+0000
+内容:
+they still haven't after 5 years of people asking, so unlikely
+------------------------------------------------------------
+用户: Daramangarasu
+点赞: 1
+时间: 2025-07-28T12:20:17.178000+0000
+内容:
+Every time anyone asks for dialogue skip, it gets pushed back by one update. Thanks to you, we're now expecting it to be implemented about the heat death of the universe

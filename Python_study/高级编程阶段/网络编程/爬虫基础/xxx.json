@@ -1,0 +1,13 @@
+{
+    "name": "xiaojie",
+    "age": 18,
+    "skill": [
+        "王者荣耀",
+        "原神",
+        "吃鸡",
+        "第五人格"
+    ],
+    "isDelete": true,
+    "isAct": false,
+    "mother": null
+}

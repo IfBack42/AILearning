@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="440" viewBox="0 0 540 440">
+<style>
+text { font-family: "Microsoft YaHei", SimHei, Arial, sans-serif; fill: #111827; }
+.title { font-size: 22px; font-weight: 700; }
+.label { font-size: 14px; }
+.small { font-size: 12px; }
+</style>
+<text x="270" y="36" text-anchor="middle" class="title">决策树 ROC 曲线</text>
+<rect x="80" y="70" width="380" height="300" fill="white" stroke="#9ca3af"/>
+<line x1="80" y1="370" x2="460" y2="70" stroke="#9ca3af" stroke-dasharray="6 6"/>
+<polyline points="80.0,370.0 97.8,344.8 115.6,103.6 115.6,98.0 121.6,81.2 133.4,81.2 139.4,75.6 460.0,70.0" fill="none" stroke="#ef4444" stroke-width="3"/>
+<text x="452" y="404" text-anchor="end" class="label">假阳性率 FPR</text>
+<text x="32" y="80" transform="rotate(-90 32 80)" text-anchor="end" class="label">真正率 TPR</text>
+<text x="452" y="354" text-anchor="end" class="label">AUC = 0.9205</text>
+</svg>

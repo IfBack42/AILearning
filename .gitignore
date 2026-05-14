@@ -65,6 +65,10 @@ blob-report/
 *.ckpt
 *.onnx
 *.h5
+*.safetensors
+*.pdiparams
+*.pdmodel
+*.pdparams
 
 # Large datasets and course datasets
 **/data/
@@ -73,6 +77,23 @@ blob-report/
 **/VOCdevkit/
 **/flower_datas/
 **/wheatData/
+**/cifar-10-batches-py/
+**/massive_content/
+**/extracted_comments/
+**/content/
+**/bilidown/
+**/weights/
+**/weight/
+
+# Competition / downloaded course material that is too large for GitHub
+workworkworkwork/**/GT*/
+workworkworkwork/**/附件*.csv
+workworkworkwork/**/附件*.xlsx
+workworkworkwork/**/论文*.pdf
+
+# Scientific / MATLAB dataset files
+*.nc
+*.mat
 
 # Generated analysis outputs
 output/

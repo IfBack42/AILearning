@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="540" viewBox="0 0 860 540">
+<style>
+text { font-family: "Microsoft YaHei", SimHei, Arial, sans-serif; fill: #111827; }
+.title { font-size: 22px; font-weight: 700; }
+.label { font-size: 14px; }
+.small { font-size: 12px; }
+</style>
+<text x="430" y="36" text-anchor="middle" class="title">决策树 Top 10 特征重要性</text>
+<text x="250" y="88" text-anchor="end" class="small">mean smoothness</text>
+<rect x="270" y="70" width="0.0" height="24" fill="#10b981"/>
+<text x="280.0" y="88" class="small">0.0000</text>
+<text x="250" y="130" text-anchor="end" class="small">worst radius</text>
+<rect x="270" y="112" width="0.9" height="24" fill="#10b981"/>
+<text x="280.9" y="130" class="small">0.0016</text>
+<text x="250" y="172" text-anchor="end" class="small">texture error</text>
+<rect x="270" y="154" width="1.6" height="24" fill="#10b981"/>
+<text x="281.6" y="172" class="small">0.0030</text>
+<text x="250" y="214" text-anchor="end" class="small">smoothness error</text>
+<rect x="270" y="196" width="2.2" height="24" fill="#10b981"/>
+<text x="282.2" y="214" class="small">0.0041</text>
+<text x="250" y="256" text-anchor="end" class="small">worst texture</text>
+<rect x="270" y="238" width="10.6" height="24" fill="#10b981"/>
+<text x="290.6" y="256" class="small">0.0196</text>
+<text x="250" y="298" text-anchor="end" class="small">area error</text>
+<rect x="270" y="280" width="11.7" height="24" fill="#10b981"/>
+<text x="291.7" y="298" class="small">0.0216</text>
+<text x="250" y="340" text-anchor="end" class="small">concavity error</text>
+<rect x="270" y="322" width="17.6" height="24" fill="#10b981"/>
+<text x="297.6" y="340" class="small">0.0324</text>
+<text x="250" y="382" text-anchor="end" class="small">mean concave points</text>
+<rect x="270" y="364" width="27.8" height="24" fill="#10b981"/>
+<text x="307.8" y="382" class="small">0.0513</text>
+<text x="250" y="424" text-anchor="end" class="small">worst compactness</text>
+<rect x="270" y="406" width="39.2" height="24" fill="#10b981"/>
+<text x="319.2" y="424" class="small">0.0724</text>
+<text x="250" y="466" text-anchor="end" class="small">worst perimeter</text>
+<rect x="270" y="448" width="430.0" height="24" fill="#10b981"/>
+<text x="710.0" y="466" class="small">0.7940</text>
+</svg>

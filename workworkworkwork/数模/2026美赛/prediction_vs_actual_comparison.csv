@@ -1,0 +1,296 @@
+season,week_num,predicted_eliminated,actual_eliminated,combined_score_predicted,combined_score_actual
+1,2,Evander Holyfield,Trista Sutter,0.41666666242981215,[np.float64(0.41666667631944426)]
+1,3,Evander Holyfield,Evander Holyfield,0.8333333300152692,[np.float64(0.8333333300152692)]
+1,4,Rachel Hunter,Rachel Hunter,1.0936536941621622,[np.float64(1.0936536941621622)]
+1,5,Joey McIntyre,Joey McIntyre,1.1861861011505082,[np.float64(1.1861861011505082)]
+1,6,John O'Hurley,John O'Hurley,1.486480088946219,[np.float64(1.486480088946219)]
+2,1,Kenny Mayne,Kenny Mayne,0.1416666011384683,[np.float64(0.1416666011384683)]
+2,2,Tatum O'Neal,Tatum O'Neal,0.6897990630554355,[np.float64(0.6897990630554355)]
+2,3,Master P,Giselle Fernandez,0.8148148116288871,[np.float64(0.8148148245130314)]
+2,4,Master P,Master P,0.5227513214802517,[np.float64(0.5227513214802517)]
+2,5,Tia Carrere,Tia Carrere,0.8999967828744558,[np.float64(0.8999967828744558)]
+2,6,George Hamilton,George Hamilton,0.9666651310840223,[np.float64(0.9666651310840223)]
+2,7,Lisa Rinna,Lisa Rinna,1.1045466719414618,[np.float64(1.1045466719414618)]
+2,8,Jerry Rice,"Jerry Rice, Stacy Keibler",1.2965149393298006,"[np.float64(1.2965149393298006), np.float64(1.3000214640278078)]"
+3,1,Tucker Carlson,Tucker Carlson,0.14751309253850903,[np.float64(0.14751309253850903)]
+3,2,Shanna Moakler,Shanna Moakler,0.18913033223508796,[np.float64(0.18913033223508796)]
+3,3,Harry Hamlin,Harry Hamlin,0.20971010096320247,[np.float64(0.20971010096320247)]
+3,4,Vivica A. Fox,Vivica A. Fox,0.23382229844232405,[np.float64(0.23382229844232405)]
+3,5,Sara Evans,"Sara Evans, Willa Ford",0.27908017089895054,"[np.float64(0.27908017089895054), np.float64(0.282015558491847)]"
+3,7,Jerry Springer,Jerry Springer,0.37227266178247764,[np.float64(0.37227266178247764)]
+3,8,Monique Coleman,Monique Coleman,0.49285360790689836,[np.float64(0.49285360790689836)]
+3,9,Joey Lawrence,Joey Lawrence,0.666605122511309,[np.float64(0.666605122511309)]
+3,10,Mario Lopez,Mario Lopez,0.9999070646815014,[np.float64(0.9999070646815014)]
+4,2,Paulina Porizkova,Paulina Porizkova,0.17050090513471813,[np.float64(0.17050090513471813)]
+4,3,Shandi Finnessey,Shandi Finnessey,0.18633065161316104,[np.float64(0.18633065161316104)]
+4,4,Leeza Gibbons,Leeza Gibbons,0.19443362874370806,[np.float64(0.19443362874370806)]
+4,5,Clyde Drexler,Clyde Drexler,0.20305405374965046,[np.float64(0.20305405374965046)]
+4,6,Heather Mills,Heather Mills,0.2610467102013171,[np.float64(0.2610467102013171)]
+4,7,John Ratzenberger,John Ratzenberger,0.2969697189409577,[np.float64(0.2969697189409577)]
+4,8,Billy Ray Cyrus,Billy Ray Cyrus,0.35395298530782393,[np.float64(0.35395298530782393)]
+4,9,Ian Ziering,Ian Ziering,0.4947257233478345,[np.float64(0.4947257233478345)]
+4,10,Laila Ali,"Joey Fatone, Laila Ali",0.6615191791779332,"[np.float64(0.6653796487180346), np.float64(0.6615191791779332)]"
+5,1,Josie Maran,Josie Maran,0.1455910535558274,[np.float64(0.1455910535558274)]
+5,2,Albert Reed,Albert Reed,0.16302506172658535,[np.float64(0.16302506172658535)]
+5,3,Wayne Newton,Wayne Newton,0.1798030819397488,[np.float64(0.1798030819397488)]
+5,4,Floyd Mayweather Jr. ,Floyd Mayweather Jr. ,0.2072642494905363,[np.float64(0.2072642494905363)]
+5,5,Mark Cuban,Mark Cuban,0.23100851828504476,[np.float64(0.23100851828504476)]
+5,6,Sabrina Bryan,Sabrina Bryan,0.2720298028275647,[np.float64(0.2720298028275647)]
+5,7,Jane Seymour,Jane Seymour,0.32974230061132903,[np.float64(0.32974230061132903)]
+5,8,Cameron Mathison,Cameron Mathison,0.3901949732127913,[np.float64(0.3901949732127913)]
+5,9,Jennie Garth,Jennie Garth,0.4942209349314606,[np.float64(0.4942209349314606)]
+5,10,Marie Osmond,"Marie Osmond, Mel B",0.6254633781089362,"[np.float64(0.6254633781089362), np.float64(0.687268310410674)]"
+6,2,Monica Seles,"Monica Seles, Penn Jillette",0.14169989756550092,"[np.float64(0.14169989756550092), np.float64(0.14753781227393684)]"
+6,3,Steve Guttenberg,Steve Guttenberg,0.18818695756603404,[np.float64(0.18818695756603404)]
+6,4,Adam Carolla,Adam Carolla,0.19522264667050349,[np.float64(0.19522264667050349)]
+6,5,Priscilla Presley,Priscilla Presley,0.2319200505083679,[np.float64(0.2319200505083679)]
+6,6,Marlee Matlin,Marlee Matlin,0.25937047679415626,[np.float64(0.25937047679415626)]
+6,7,Shannon Elizabeth,Shannon Elizabeth,0.3201117279214862,[np.float64(0.3201117279214862)]
+6,8,Mario,Mario,0.38995331955426177,[np.float64(0.38995331955426177)]
+6,9,Marissa Jaret Winokur,Marissa Jaret Winokur,0.4866936456838009,[np.float64(0.4866936456838009)]
+6,10,Cristian de la Fuente,"Cristian de la Fuente, Jason Taylor",0.6414549186814489,"[np.float64(0.6414549186814489), np.float64(0.6703972118240686)]"
+7,1,Jeffrey Ross,"Jeffrey Ross, Ted McGinley",0.12454218673242953,"[np.float64(0.12454218673242953), np.float64(0.14537564206865228)]"
+7,2,Kim Kardashian,"Kim Kardashian, Misty May-Treanor",0.1675627667539331,"[np.float64(0.1675627667539331), np.float64(0.17006187245841878)]"
+7,4,Rocco DiSpirito,Rocco DiSpirito,0.20343322839806782,[np.float64(0.20343322839806782)]
+7,5,Toni Braxton,Toni Braxton,0.2346861791678184,[np.float64(0.2346861791678184)]
+7,6,Cloris Leachman,Cloris Leachman,0.23873403086571535,[np.float64(0.23873403086571535)]
+7,7,Susan Lucci,Susan Lucci,0.31355286927523796,[np.float64(0.31355286927523796)]
+7,8,Maurice Greene,Maurice Greene,0.38798257121041824,[np.float64(0.38798257121041824)]
+7,9,Cody Linley,Cody Linley,0.4786676583047309,[np.float64(0.4786676583047309)]
+7,10,Lance Bass,"Lance Bass, Warren Sapp",0.6569106018486485,"[np.float64(0.6569106018486485), np.float64(0.6569644076373042)]"
+8,2,Belinda Carlisle,Belinda Carlisle,0.1373012876791784,[np.float64(0.1373012876791784)]
+8,3,Denise Richards,Denise Richards,0.1316779440983475,[np.float64(0.1316779440983475)]
+8,4,Steve Wozniak,"Holly Madison, Steve Wozniak",0.14508166152634827,"[np.float64(0.1555870713398591), np.float64(0.14508166152634827)]"
+8,5,David Alan Grier,David Alan Grier,0.20680581082068658,[np.float64(0.20680581082068658)]
+8,6,Steve-O,Steve-O,0.21632939021820632,[np.float64(0.21632939021820632)]
+8,7,Lawrence Taylor,Lawrence Taylor,0.2584513562545707,[np.float64(0.2584513562545707)]
+8,8,Chuck Wicks,Chuck Wicks,0.31882243902015417,[np.float64(0.31882243902015417)]
+8,9,Lil' Kim,Lil' Kim,0.3831519125356503,[np.float64(0.3831519125356503)]
+8,10,Ty Murray,Ty Murray,0.4739579518014816,[np.float64(0.4739579518014816)]
+8,11,Melissa Rycroft,"Gilles Marini, Melissa Rycroft",0.6594903071370115,"[np.float64(0.6645407023003622), np.float64(0.6594903071370115)]"
+9,1,Ashley Hamiliton,"Ashley Hamiliton, Macy Gray",0.10929667039064063,"[np.float64(0.10929667039064063), np.float64(0.10929667039064063)]"
+9,2,Kathy Ireland,Kathy Ireland,0.1326523262852258,[np.float64(0.1326523262852258)]
+9,3,Tom DeLay,"Debi Mazar, Tom DeLay",0.13506279695173873,"[np.float64(0.13700112945277448), np.float64(0.13506279695173873)]"
+9,4,Chuck Liddell,Chuck Liddell,0.1584232209332431,[np.float64(0.1584232209332431)]
+9,5,Natalie Coughlin,Natalie Coughlin,0.18958208357337178,[np.float64(0.18958208357337178)]
+9,6,Melissa Joan Hart,"Louie Vito, Melissa Joan Hart",0.20140072998587177,"[np.float64(0.20140073000989994), np.float64(0.20140072998587177)]"
+9,7,Mark Dacascos,"Mark Dacascos, Michael Irvin",0.2648546685948395,"[np.float64(0.2648546685948395), np.float64(0.27982002610750856)]"
+9,8,Aaron Carter,Aaron Carter,0.3908375710197177,[np.float64(0.3908375710197177)]
+9,9,Joanna Krupa,Joanna Krupa,0.49218878700277047,[np.float64(0.49218878700277047)]
+9,10,Kelly Osbourne,"Kelly Osbourne, Mya",0.636664610071194,"[np.float64(0.636664610071194), np.float64(0.6743491429757853)]"
+10,2,Buzz Aldrin,Shannen Doherty,0.16363636363632017,[np.float64(0.16363636363632345)]
+10,3,Buzz Aldrin,Buzz Aldrin,0.17385762010649058,[np.float64(0.17385762010649058)]
+10,4,Aiden Turner,Aiden Turner,0.19941310342015833,[np.float64(0.19941310342015833)]
+10,5,Kate Gosselin,Kate Gosselin,0.2128861640409037,[np.float64(0.2128861640409037)]
+10,6,Jake Pavelka,Jake Pavelka,0.2624624985212739,[np.float64(0.2624624985212739)]
+10,7,Pamela Anderson,Pamela Anderson,0.3274300901365348,[np.float64(0.3274300901365348)]
+10,8,Niecy Nash,Niecy Nash,0.37149743290979453,[np.float64(0.37149743290979453)]
+10,9,Chad Ochocinco,Chad Ochocinco,0.4801021559261076,[np.float64(0.4801021559261076)]
+10,10,Evan Lysacek,"Erin Andrews, Evan Lysacek",0.6586017702520683,"[np.float64(0.6599457836055651), np.float64(0.6586017702520683)]"
+11,1,David Hasselhoff,David Hasselhoff,0.14940743971316442,[np.float64(0.14940743971316442)]
+11,2,Michael Bolton,Michael Bolton,0.14520829463396395,[np.float64(0.14520829463396395)]
+11,3,Margaret Cho,Margaret Cho,0.1814490171148611,[np.float64(0.1814490171148611)]
+11,4,The Situation,The Situation,0.18932392168652523,[np.float64(0.18932392168652523)]
+11,5,Florence Henderson,Florence Henderson,0.23214293582731657,[np.float64(0.23214293582731657)]
+11,6,Audrina Patridge,Audrina Patridge,0.25628008319650825,[np.float64(0.25628008319650825)]
+11,7,Rick Fox,Rick Fox,0.3278404614363727,[np.float64(0.3278404614363727)]
+11,8,Kurt Warner,Kurt Warner,0.3805132814641061,[np.float64(0.3805132814641061)]
+11,9,Brandy,Brandy,0.4918271856980265,[np.float64(0.4918271856980265)]
+11,10,Bristol Palin,"Bristol Palin, Kyle Massey",0.6465584224193079,"[np.float64(0.6465584224193079), np.float64(0.6606562461001069)]"
+12,2,Mike Catherwood,Mike Catherwood,0.16961131362404006,[np.float64(0.16961131362404006)]
+12,3,Wendy Williams,Wendy Williams,0.17009406390383597,[np.float64(0.17009406390383597)]
+12,4,Sugar Ray Leonard,Sugar Ray Leonard,0.20577159321926258,[np.float64(0.20577159321926258)]
+12,5,Petra Nemcova,Petra Nemcova,0.23785404915933367,[np.float64(0.23785404915933367)]
+12,6,Chris Jericho,Chris Jericho,0.26470516511110365,[np.float64(0.26470516511110365)]
+12,7,Kendra Wilkinson,Kendra Wilkinson,0.32611935666398384,[np.float64(0.32611935666398384)]
+12,8,Romeo,Romeo,0.38815187290252573,[np.float64(0.38815187290252573)]
+12,9,Ralph Macchio,Ralph Macchio,0.45921591134915263,[np.float64(0.45921591134915263)]
+12,10,Kirstie Alley,"Chelsea Kane, Kirstie Alley",0.6543148509934515,"[np.float64(0.6728406575799589), np.float64(0.6543148509934515)]"
+13,1,Metta World Peace (Ron),Metta World Peace (Ron),0.1478475920078166,[np.float64(0.1478475920078166)]
+13,2,Elisabetta Canalis,Elisabetta Canalis,0.17386862438693085,[np.float64(0.17386862438693085)]
+13,3,Kristin Cavallari,Kristin Cavallari,0.18927909997654313,[np.float64(0.18927909997654313)]
+13,4,Chynna Phillips,Chynna Phillips,0.20839843701404204,[np.float64(0.20839843701404204)]
+13,5,Carson Kressley,Carson Kressley,0.22677898253888734,[np.float64(0.22677898253888734)]
+13,6,Chaz Bono,Chaz Bono,0.25982542180754575,[np.float64(0.25982542180754575)]
+13,7,David Arquette,David Arquette,0.3213293951717594,[np.float64(0.3213293951717594)]
+13,8,Nancy Grace,Nancy Grace,0.37188959424479223,[np.float64(0.37188959424479223)]
+13,9,Hope Solo,Hope Solo,0.45674740605504516,[np.float64(0.45674740605504516)]
+13,10,Ricki Lake,"Ricki Lake, Rob Kardashian",0.6646996568375816,"[np.float64(0.6646996568375816), np.float64(0.6676501663312919)]"
+14,2,Martina Navratilova,Martina Navratilova,0.14653034785817382,[np.float64(0.14653034785817382)]
+14,3,Jack Wagner,Jack Wagner,0.17662165436952462,[np.float64(0.17662165436952462)]
+14,4,Sherri Sheperd,Sherri Sheperd,0.18798293346239253,[np.float64(0.18798293346239253)]
+14,5,Gavin DeGraw,Gavin DeGraw,0.1957895625505171,[np.float64(0.1957895625505171)]
+14,6,Gladys Knight,Gladys Knight,0.2186991159042806,[np.float64(0.2186991159042806)]
+14,7,Jaleel White,Jaleel White,0.2763721517488922,[np.float64(0.2763721517488922)]
+14,8,Melissa Gilbert,"Melissa Gilbert, Roshon Fegan",0.3253547001673091,"[np.float64(0.3253547001673091), np.float64(0.33278842729751734)]"
+14,9,Maria Menounos,Maria Menounos,0.4995047565402291,[np.float64(0.4995047565402291)]
+14,10,William Levy,"Katherine Jenkins, William Levy",0.6636083605059961,"[np.float64(0.6681958180367114), np.float64(0.6636083605059961)]"
+15,1,Pamela Anderson,Pamela Anderson,0.1384060173478292,[np.float64(0.1384060173478292)]
+15,2,Joey Fatone,Joey Fatone,0.15670294019694875,[np.float64(0.15670294019694875)]
+15,3,Drew Lachey,"Drew Lachey, Helio Castroneves",0.17679552026391643,"[np.float64(0.17679552026391643), np.float64(0.17842579859048388)]"
+15,4,Bristol Palin,Bristol Palin,0.20980545458342134,[np.float64(0.20980545458342134)]
+15,6,Sabrina Bryan,Sabrina Bryan,0.2475306427141483,[np.float64(0.2475306427141483)]
+15,8,Kirstie Alley,"Gilles Marini, Kirstie Alley",0.2709427624627393,"[np.float64(0.2856939145521357), np.float64(0.2709427624627393)]"
+15,9,Emmitt Smith,"Apolo Anton Ohno, Emmitt Smith",0.3918375685757368,"[np.float64(0.3971329047552453), np.float64(0.3918375685757368)]"
+15,10,Shawn Johnson,"Kelly Monaco, Shawn Johnson",0.6643153854530996,"[np.float64(0.6678422792999155), np.float64(0.6643153854530996)]"
+16,2,Dorothy Hamill,Dorothy Hamill,0.14480876452926617,[np.float64(0.14480876452926617)]
+16,3,Wynonna Judd,Wynonna Judd,0.15474057889800402,[np.float64(0.15474057889800402)]
+16,4,Lisa Vanderpump,Lisa Vanderpump,0.1803568872020711,[np.float64(0.1803568872020711)]
+16,5,D. L. Hughley,D. L. Hughley,0.19723359747188451,[np.float64(0.19723359747188451)]
+16,6,Victor Ortiz,Victor Ortiz,0.23110104395358816,[np.float64(0.23110104395358816)]
+16,7,Andy Dick,Andy Dick,0.2352488597457467,[np.float64(0.2352488597457467)]
+16,8,Sean Lowe,Sean Lowe,0.3017148453547803,[np.float64(0.3017148453547803)]
+16,9,Ingo Rademacher,Ingo Rademacher,0.38085101991011727,[np.float64(0.38085101991011727)]
+16,10,Jacoby Jones,"Alexandra Raisman, Jacoby Jones, Zendaya",0.4893135399408074,"[np.float64(0.4978626477525303), np.float64(0.4893135399408074), np.float64(0.5064088201613732)]"
+17,2,Keyshawn Johnson,Keyshawn Johnson,0.1491201859215071,[np.float64(0.1491201859215071)]
+17,3,Bill Nye,Bill Nye,0.1541150090323006,[np.float64(0.1541150090323006)]
+17,4,Valerie Harper,Valerie Harper,0.17625407464645126,[np.float64(0.17625407464645126)]
+17,5,Christina Milian,Christina Milian,0.2135763104659132,[np.float64(0.2135763104659132)]
+17,7,"Nicole ""Snooki"" Polizzi","Nicole ""Snooki"" Polizzi",0.24203362751017415,[np.float64(0.24203362751017415)]
+17,8,Brant Daugherty,Brant Daugherty,0.27507901393206746,[np.float64(0.27507901393206746)]
+17,9,Elizabeth Berkley Lauren,Elizabeth Berkley Lauren,0.31342814979871836,[np.float64(0.31342814979871836)]
+17,10,Leah Remini,Leah Remini,0.3801338951549482,[np.float64(0.3801338951549482)]
+17,11,Bill Engvall,"Bill Engvall, Corbin Bleu, Jack Osbourne",0.4767734417378128,"[np.float64(0.4767734417378128), np.float64(0.5077409031125164), np.float64(0.4931862878448672)]"
+18,1,Diana Nyad,Diana Nyad,0.14631407599997887,[np.float64(0.14631407599997887)]
+18,2,Billy Dee Williams,"Billy Dee Williams, Sean Avery",0.15550977026623145,"[np.float64(0.15550977026623145), np.float64(0.17666050190095617)]"
+18,5,Cody Simpson,Cody Simpson,0.20654781362591823,[np.float64(0.20654781362591823)]
+18,6,Drew Carey,Drew Carey,0.2406127417236854,[np.float64(0.2406127417236854)]
+18,7,NeNe Leakes,NeNe Leakes,0.2726188279016576,[np.float64(0.2726188279016576)]
+18,8,Danica McKellar,Danica McKellar,0.32593405545316634,[np.float64(0.32593405545316634)]
+18,9,Charlie White,Charlie White,0.3933129150088773,[np.float64(0.3933129150088773)]
+18,10,Candace Cameron Bure,"Amy Purdy, Candace Cameron Bure, James Maslow",0.47695451571561526,"[np.float64(0.5081697360305333), np.float64(0.47695451571561526), np.float64(0.5023565637100569)]"
+19,1,Lolo Jones,Lolo Jones,0.13468597837986213,[np.float64(0.13468597837986213)]
+19,2,Tavis Smiley,Tavis Smiley,0.15537490473969873,[np.float64(0.15537490473969873)]
+19,3,Randy Couture,Randy Couture,0.165959910870288,[np.float64(0.165959910870288)]
+19,4,Betsey Johnson,Betsey Johnson,0.1815414378713967,[np.float64(0.1815414378713967)]
+19,6,Jonathan Bennett,Jonathan Bennett,0.21137148952979862,[np.float64(0.21137148952979862)]
+19,7,Antonio Sabato Jr.,Antonio Sabato Jr.,0.23772504903571628,[np.float64(0.23772504903571628)]
+19,8,Michael Waltrip,Michael Waltrip,0.24780166360791392,[np.float64(0.24780166360791392)]
+19,9,Lea Thompson,Lea Thompson,0.30685377275178194,[np.float64(0.30685377275178194)]
+19,10,Tommy Chong,Tommy Chong,0.37265216783321364,[np.float64(0.37265216783321364)]
+19,11,Bethany Mota,"Bethany Mota, Janel Parrish, Sadie Robertson",0.49255506994501685,"[np.float64(0.49255506994501685), np.float64(0.49964450655416226), np.float64(0.5024819842976789)]"
+20,2,Redfoo,Redfoo,0.15833323072868832,[np.float64(0.15833323072868832)]
+20,3,Charlotte McKinney,Charlotte McKinney,0.15884344636497277,[np.float64(0.15884344636497277)]
+20,4,Michael Sam,Michael Sam,0.18862960192217482,[np.float64(0.18862960192217482)]
+20,5,Suzanne Somers,Suzanne Somers,0.20396018209746242,[np.float64(0.20396018209746242)]
+20,6,Patti LaBelle,Patti LaBelle,0.24469266527220523,[np.float64(0.24469266527220523)]
+20,7,Willow Shields,Willow Shields,0.2733527225653622,[np.float64(0.2733527225653622)]
+20,8,Robert Herjavec,"Chris Soules, Robert Herjavec",0.31765808823458785,"[np.float64(0.3176580893773755), np.float64(0.31765808823458785)]"
+20,9,Nastia Liukin,Nastia Liukin,0.4984473645185949,[np.float64(0.4984473645185949)]
+20,10,Noah Galloway,"Noah Galloway, Riker Lynch",0.6458406754099144,"[np.float64(0.6458406754099144), np.float64(0.6763897428848737)]"
+21,2,Chaka Khan,"Chaka Khan, Kim Zolciak-Biermann, Victor Espinoza",0.1323759162844337,"[np.float64(0.1323759162844337), np.float64(0.14285041467475373), np.float64(0.14285041467474502)]"
+21,4,Gary Busey,Gary Busey,0.16939374632828497,[np.float64(0.16939374632828497)]
+21,6,Paula Deen,Paula Deen,0.1880341873885669,[np.float64(0.1880341873885669)]
+21,7,Hayes Grier,Hayes Grier,0.24773837738793794,[np.float64(0.24773837738793794)]
+21,8,Andy Grammer,Andy Grammer,0.2662295337223043,[np.float64(0.2662295337223043)]
+21,9,Tamar Braxton,"Alexa PenaVega, Tamar Braxton",0.319348443672387,"[np.float64(0.3280725576906749), np.float64(0.319348443672387)]"
+21,11,Alek Skarlatos,"Alek Skarlatos, Carlos PenaVega, Nick Carter",0.48803574425256524,"[np.float64(0.48803574425256524), np.float64(0.5039641564789175), np.float64(0.5040000341883525)]"
+22,2,Geraldo Rivera,Geraldo Rivera,0.1384180023186191,[np.float64(0.1384180023186191)]
+22,3,Mischa Barton,Mischa Barton,0.1668584323817672,[np.float64(0.1668584323817672)]
+22,4,Marla Maples,Marla Maples,0.18193351282845416,[np.float64(0.18193351282845416)]
+22,6,Doug Flutie,Doug Flutie,0.20563836741587838,[np.float64(0.20563836741587838)]
+22,7,Von Miller,"Kim Fields, Von Miller",0.24571651390690055,"[np.float64(0.24571651390690727), np.float64(0.24571651390690055)]"
+22,8,Jodie Sweetin,Jodie Sweetin,0.32855827327011,[np.float64(0.32855827327011)]
+22,9,Antonio Brown,"Antonio Brown, Wanya Morris",0.3910436888376385,"[np.float64(0.3910436888376385), np.float64(0.40178345033762025)]"
+22,10,Ginger Zee,"Ginger Zee, Paige VanZant",0.6614307013954841,"[np.float64(0.6614307013954841), np.float64(0.6692846478609007)]"
+23,2,Jake T. Austin,Jake T. Austin,0.1437171195724666,[np.float64(0.1437171195724666)]
+23,3,Rick Perry,Rick Perry,0.15348269146565915,[np.float64(0.15348269146565915)]
+23,4,Babyface,"Babyface, Vanilla Ice",0.15984329105412792,"[np.float64(0.15984329105412792), np.float64(0.17528381921613395)]"
+23,6,Amber Rose,Amber Rose,0.20265253168872388,[np.float64(0.20265253168872388)]
+23,7,Maureen McCormick,Maureen McCormick,0.24360940390652108,[np.float64(0.24360940390652108)]
+23,8,Ryan Lochte,Ryan Lochte,0.26410941090490514,[np.float64(0.26410941090490514)]
+23,9,Marilu Henner,Marilu Henner,0.3257565683996165,[np.float64(0.3257565683996165)]
+23,10,Terra Jole,Terra Jole,0.39779682810448724,[np.float64(0.39779682810448724)]
+23,11,Jana Kramer,"Calvin Johnson Jr., James Hinchcliffe, Jana Kramer",0.48234075218158967,"[np.float64(0.5055248904037077), np.float64(0.5049753918410753), np.float64(0.48234075218158967)]"
+24,2,Chris Kattan,Chris Kattan,0.1524384109859268,[np.float64(0.1524384109859268)]
+24,3,Charo,Charo,0.16685609681495536,[np.float64(0.16685609681495536)]
+24,4,Mr. T,Mr. T,0.18642025476409746,[np.float64(0.18642025476409746)]
+24,5,Erika Jayne,Erika Jayne,0.21198803197224636,[np.float64(0.21198803197224636)]
+24,6,Heather Morris,Heather Morris,0.24691738376481767,[np.float64(0.24691738376481767)]
+24,7,Nick Viall,"Nancy Kerrigan, Nick Viall",0.27486266537160764,"[np.float64(0.27486266549501137), np.float64(0.27486266537160764)]"
+24,8,Bonner Bolton,Bonner Bolton,0.37177180859568637,[np.float64(0.37177180859568637)]
+24,9,Simone Biles,Simone Biles,0.4995416778540508,[np.float64(0.4995416778540508)]
+24,10,David Ross,"David Ross, Normani",0.6566187360893141,"[np.float64(0.6566187360893141), np.float64(0.6697601327025)]"
+25,2,Barbara Corcoran,"Barbara Corcoran, Debbie Gibson",0.13908044095757444,"[np.float64(0.13908044095757444), np.float64(0.14822083599756472)]"
+25,4,Derek Fisher,Derek Fisher,0.17447341091896146,[np.float64(0.17447341091896146)]
+25,5,Sasha Pieterse,Sasha Pieterse,0.18872230715162192,[np.float64(0.18872230715162192)]
+25,6,Nick Lachey,Nick Lachey,0.2005109190637149,[np.float64(0.2005109190637149)]
+25,7,Nikki Bella,"Nikki Bella, Vanessa Lachey",0.2366284870375604,"[np.float64(0.2366284870375604), np.float64(0.24437994974652266)]"
+25,8,Terrell Owens,Terrell Owens,0.3226165404695917,[np.float64(0.3226165404695917)]
+25,9,Victoria Arlen,Victoria Arlen,0.39207181222730086,[np.float64(0.39207181222730086)]
+25,10,Drew Scott,"Drew Scott, Frankie Muniz, Lindsey Stirling",0.49582011896533684,"[np.float64(0.49582011896533684), np.float64(0.4967564050518596), np.float64(0.5037117353895137)]"
+26,1,Johnny Damon,"Jamie Anderson, Johnny Damon",0.18571230400933586,"[np.float64(0.18571504885420326), np.float64(0.18571230400933586)]"
+26,2,Kareem Abdul-Jabbar,"Arike Ogunbowale, Kareem Abdul-Jabbar",0.23888651689672336,"[np.float64(0.24675504817733618), np.float64(0.23888651689672336)]"
+26,3,Jennie Finch Daigle,"Chris Mazdzer, Jennie Finch Daigle, Mirai Nagasu",0.3074218692122626,"[np.float64(0.31814003803744395), np.float64(0.3074218692122626), np.float64(0.33083845083084695)]"
+26,4,Tonya Harding,"Josh Norman, Tonya Harding",0.6590034520218873,"[np.float64(0.6702971550614696), np.float64(0.6590034520218873)]"
+27,1,Nikki Glaser,Nikki Glaser,0.13868800656596048,[np.float64(0.13868800656596048)]
+27,2,Danelle Umstead,Danelle Umstead,0.15138203051832094,[np.float64(0.15138203051832094)]
+27,3,Nancy McKeon,Nancy McKeon,0.1657205665781008,[np.float64(0.1657205665781008)]
+27,4,Tinashe,Tinashe,0.18884998187489122,[np.float64(0.18884998187489122)]
+27,6,Mary Lou Retton,Mary Lou Retton,0.20388288873369606,[np.float64(0.20388288873369606)]
+27,7,DeMarcus Ware,"DeMarcus Ware, John Schneider",0.24526804636857102,"[np.float64(0.24526804636857102), np.float64(0.24546456049203708)]"
+27,8,Joe Amabile,"Joe Amabile, Juan Pablo Di Pace",0.31771523787583933,"[np.float64(0.31771523787583933), np.float64(0.32591734389409316)]"
+27,9,Alexis Ren,"Alexis Ren, Evanna Lynch, Milo Manheim",0.49379853325711726,"[np.float64(0.49379853325711726), np.float64(0.5020671550989845), np.float64(0.5020671550993987)]"
+28,2,Mary Wilson,"Mary Wilson, Ray Lewis",0.2500010244997367,"[np.float64(0.2500010244997367), np.float64(0.2500010244997367)]"
+28,4,Lamar Odom,Lamar Odom,0.7933335553673068,[np.float64(0.7933335553673068)]
+28,6,Sailor Brinkley-Cook,Sailor Brinkley-Cook,1.0026667752913347,[np.float64(1.0026667752913347)]
+28,7,Karamo Brown,Karamo Brown,0.9952295861249663,[np.float64(0.9952295861249663)]
+28,8,Kate Flannery,Kate Flannery,0.8832736854283633,[np.float64(0.8832736854283633)]
+28,9,Sean Spicer,Sean Spicer,0.8620391017161476,[np.float64(0.8620391017161476)]
+28,10,James Van Der Beek,James Van Der Beek,1.0642980983165726,[np.float64(1.0642980983165726)]
+28,11,Lauren Alaina,"Ally Brooke, Kel Mitchell, Lauren Alaina",1.1999221782301677,"[np.float64(1.2334111721912318), np.float64(1.2332554760134906), np.float64(1.1999221782301677)]"
+29,2,Charles Oakley,Charles Oakley,0.06666578424945517,[np.float64(0.06666578424945517)]
+29,3,Carole Baskin,Carole Baskin,0.5714281057693823,[np.float64(0.5714281057693823)]
+29,4,Anne Heche,Anne Heche,0.8269207703526589,[np.float64(0.8269207703526589)]
+29,5,Jesse Metcalfe,Jesse Metcalfe,0.7385060963200858,[np.float64(0.7385060963200858)]
+29,6,Veron Davis,Veron Davis,0.8131310820196359,[np.float64(0.8131310820196359)]
+29,7,Monica Aldama,"Jeannie Mai, Monica Aldama",0.8310609216758043,"[np.float64(0.9090907859950454), np.float64(0.8310609216758043)]"
+29,8,Chrishell Stause,Chrishell Stause,0.971647961205786,[np.float64(0.971647961205786)]
+29,9,AJ McLean,AJ McLean,0.9679361865842148,[np.float64(0.9679361865842148)]
+29,10,Johnny Weir,"Johnny Weir, Skai Jackson",1.1118916364883287,"[np.float64(1.1118916364883287), np.float64(1.1166566060888603)]"
+29,11,Nelly,"Justina Machado, Nelly, Nev Schulman",1.2178072758607499,"[np.float64(1.2428369888976674), np.float64(1.2178072758607499), np.float64(1.242837451320758)]"
+30,2,Martin Kove,Martin Kove,0.06666666412766256,[np.float64(0.06666666412766256)]
+30,3,Cody Rigsby,Christine Chiu,0.8749999988210179,[np.float64(0.8750000096354166)]
+30,4,Brian Austin Green,"Brian Austin Green, Matt James",0.7898601888404833,"[np.float64(0.7898601888404833), np.float64(0.8369047600505373)]"
+30,5,Iman Shumpert,Melanie C,0.8999999977216879,[np.float64(0.9000000096999999)]
+30,6,Kenya Moore,Kenya Moore,0.8910363954369146,[np.float64(0.8910363954369146)]
+30,7,"Mike ""The Miz"" Mizanin","Mike ""The Miz"" Mizanin",0.8847070602521001,[np.float64(0.8847070602521001)]
+30,8,Jimmie Allen,"Jimmie Allen, Olivia Jade",0.8832749022062659,"[np.float64(0.8832749022062659), np.float64(0.9750531034458548)]"
+30,9,Melora Hardin,"Melora Hardin, Suni Lee",1.0682374739421334,"[np.float64(1.0682374739421334), np.float64(1.071706243804889)]"
+30,10,Cody Rigsby,"Amanda Kloots, Cody Rigsby, JoJo Siwa",1.2065151199163602,"[np.float64(1.211101230885943), np.float64(1.2065151199163602), np.float64(1.244434349341033)]"
+31,1,Jason Lewis,Jason Lewis,0.06249934292787922,[np.float64(0.06249934292787922)]
+31,2,Teresa Giudice,Teresa Giudice,0.7541663047959282,[np.float64(0.7541663047959282)]
+31,3,Cheryl Ladd,Cheryl Ladd,0.8059529667594046,[np.float64(0.8059529667594046)]
+31,4,Sam Champion,Sam Champion,0.7793762760278966,[np.float64(0.7793762760278966)]
+31,5,Joseph Baena,"Joseph Baena, Selma Blair",0.9022755768521761,"[np.float64(0.9022755768521761), np.float64(0.9638554313770745)]"
+31,6,Jessie James Decker,Jessie James Decker,0.894377561162076,[np.float64(0.894377561162076)]
+31,7,Jordin Sparks,Jordin Sparks,1.0017963320299568,[np.float64(1.0017963320299568)]
+31,8,Vinny Guadagnino,"Heidi D'Amelio, Vinny Guadagnino",0.833486822471471,"[np.float64(0.8759742455451229), np.float64(0.833486822471471)]"
+31,9,Trevor Donovan,"Daniel Durant, Trevor Donovan",0.9970946861072968,"[np.float64(1.0560739268521866), np.float64(0.9970946861072968)]"
+31,10,Shangela,"Gabby Windey, Shangela, Wayne Brady",1.1998270017554409,"[np.float64(1.2501729531701642), np.float64(1.1998270017554409), np.float64(1.1998270337670607)]"
+32,1,Matt Walsh,Matt Walsh,0.07142381301843936,[np.float64(0.07142381301843936)]
+32,2,Mauricio Umansky,Jamie Lynn Spears,0.6666666662762729,[np.float64(0.6666666763888888)]
+32,3,Tyson Beckford,Tyson Beckford,0.655711512234002,[np.float64(0.655711512234002)]
+32,4,Adrian Peterson,Adrian Peterson,0.7916376901981025,[np.float64(0.7916376901981025)]
+32,5,Mira Sorvino,Mira Sorvino,0.8078782537345159,[np.float64(0.8078782537345159)]
+32,6,Mauricio Umansky,Mauricio Umansky,0.8465195850302594,[np.float64(0.8465195850302594)]
+32,7,Lele Pons,Lele Pons,1.0361703900098753,[np.float64(1.0361703900098753)]
+32,8,Barry Williams,Barry Williams,0.9205851952803571,[np.float64(0.9205851952803571)]
+32,9,Harry Jowsey,Harry Jowsey,0.9251998197334539,[np.float64(0.9251998197334539)]
+32,11,Alyson Hannigan,"Alyson Hannigan, Ariana Madix, Charity Lawson, Jason Mraz",1.088973094751823,"[np.float64(1.088973094751823), np.float64(1.1819234403025722), np.float64(1.1819233219104777), np.float64(1.1985885669876482)]"
+33,2,Anna Delvey,"Anna Delvey, Tori Spelling",0.23333304405073915,"[np.float64(0.23333304405073915), np.float64(0.4444444539506171)]"
+33,3,Reginald VelJohnson,"Eric Roberts, Reginald VelJohnson",0.8683911546644933,"[np.float64(0.8683911547719794), np.float64(0.8683911546644933)]"
+33,4,Brooks Nader,Brooks Nader,0.9761598319639759,[np.float64(0.9761598319639759)]
+33,5,Phaedra Parks,Phaedra Parks,1.0171795474647112,[np.float64(1.0171795474647112)]
+33,6,Jenn Tran,Jenn Tran,0.9976954468810139,[np.float64(0.9976954468810139)]
+33,7,Dwight Howard ,Dwight Howard ,0.9762364856325805,[np.float64(0.9762364856325805)]
+33,9,Danny Amendola,"Chandler Kinney, Danny Amendola, Ilona Maher, Stephen Nedoroscik",1.1278970473710028,"[np.float64(1.186230497523053), np.float64(1.1278970473710028), np.float64(1.1692330301193439), np.float64(1.1804089258138153)]"
+34,2,Corey Feldman,"Baron Davis, Corey Feldman",0.059523651246866045,"[np.float64(0.42857143795918357), np.float64(0.059523651246866045)]"
+34,3,Lauren Jauregui,Lauren Jauregui,0.8201299983392719,[np.float64(0.8201299983392719)]
+34,4,Hilaria Baldwin,Hilaria Baldwin,0.9360335375574803,[np.float64(0.9360335375574803)]
+34,6,Scott Hoying,Scott Hoying,0.8231364564346054,[np.float64(0.8231364564346054)]
+34,7,Jen Affleck,Jen Affleck,0.8595888593409285,[np.float64(0.8595888593409285)]
+34,8,Danielle Fishel,Danielle Fishel,1.057060809028167,[np.float64(1.057060809028167)]
+34,9,Andy Richter,Andy Richter,0.8702276375266551,[np.float64(0.8702276375266551)]
+34,10,Whitney Leavitt,Whitney Leavitt,1.1242191826593266,[np.float64(1.1242191826593266)]
+34,11,Elaine Hendrix,"Alix Earle, Dylan Efron, Elaine Hendrix, Jordan Chiles",1.1670338990163969,"[np.float64(1.1887931939924183), np.float64(1.1887931936786287), np.float64(1.1670338990163969), np.float64(1.1887931841655748)]"

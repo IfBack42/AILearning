@@ -1,0 +1,591 @@
+p_value,effect_size,mean_diff,total_weeks,season,week,rule_group,n_elim,actual_eliminated,rank_base_elim,rank_extra_elim,percent_base_elim,percent_extra_elim,is_sensitive,extra_impact_rank,extra_impact_percent
+1.0,0.0,0.0,0.0,,,,,,,,,,,,
+,,,,1.0,2.0,rank,1.0,['Trista Sutter'],['Trista Sutter'],['Trista Sutter'],['Trista Sutter'],['Kelly Monaco'],False,False,True
+1.0,0.0,0.0,0.0,,,,,,,,,,,,
+,,,,1.0,3.0,rank,1.0,['Evander Holyfield'],['Trista Sutter'],['Trista Sutter'],['Trista Sutter'],['Trista Sutter'],False,False,False
+1.0,0.0,0.0,0.0,,,,,,,,,,,,
+,,,,1.0,4.0,rank,1.0,['Rachel Hunter'],['Trista Sutter'],['Trista Sutter'],['Trista Sutter'],['Evander Holyfield'],False,False,True
+1.0,0.0,0.0,0.0,,,,,,,,,,,,
+,,,,1.0,5.0,rank,1.0,['Joey McIntyre'],['Trista Sutter'],['Trista Sutter'],['Trista Sutter'],['Rachel Hunter'],False,False,True
+1.0,0.0,0.0,0.0,,,,,,,,,,,,
+,,,,1.0,6.0,rank,1.0,"[""John O'Hurley""]",['Trista Sutter'],['Joey McIntyre'],['Trista Sutter'],['Joey McIntyre'],False,True,True
+,,0.0,5.0,,,,,,,,,,,,
+,,,,2.0,1.0,rank,1.0,['Kenny Mayne'],['Kenny Mayne'],['Kenny Mayne'],['Kenny Mayne'],['Kenny Mayne'],False,False,False
+,,0.0,6.0,,,,,,,,,,,,
+,,,,2.0,2.0,rank,1.0,"[""Tatum O'Neal""]",['Kenny Mayne'],['Kenny Mayne'],['Kenny Mayne'],['Kenny Mayne'],False,False,False
+,,0.0,7.0,,,,,,,,,,,,
+,,,,2.0,3.0,rank,1.0,['Giselle Fernandez'],['Kenny Mayne'],['Kenny Mayne'],['Kenny Mayne'],"[""Tatum O'Neal""]",False,False,True
+,,0.0,8.0,,,,,,,,,,,,
+,,,,2.0,4.0,rank,1.0,['Master P'],['Kenny Mayne'],['Kenny Mayne'],['Kenny Mayne'],['Giselle Fernandez'],False,False,True
+,,0.0,9.0,,,,,,,,,,,,
+,,,,2.0,5.0,rank,1.0,['Tia Carrere'],['Kenny Mayne'],['Kenny Mayne'],['Kenny Mayne'],['Master P'],False,False,True
+,,0.0,10.0,,,,,,,,,,,,
+,,,,2.0,6.0,rank,1.0,['George Hamilton'],['Kenny Mayne'],['Kenny Mayne'],['Kenny Mayne'],['Master P'],False,False,True
+,,0.0,11.0,,,,,,,,,,,,
+,,,,2.0,7.0,rank,1.0,['Lisa Rinna'],['Kenny Mayne'],['Kenny Mayne'],['Kenny Mayne'],['Master P'],False,False,True
+,,0.0,12.0,,,,,,,,,,,,
+,,,,2.0,8.0,rank,2.0,"['Stacy Keibler', 'Jerry Rice']","['Drew Lachey', 'Kenny Mayne']","['Drew Lachey', 'Kenny Mayne']","['Master P', 'Kenny Mayne']","['Master P', 'Kenny Mayne']",True,False,False
+0.3370490579535843,0.2773500981126146,0.6153846153846154,13.0,,,,,,,,,,,,
+,,,,3.0,1.0,percent,1.0,['Tucker Carlson'],['Monique Coleman'],['Monique Coleman'],['Tucker Carlson'],['Tucker Carlson'],True,False,False
+0.16561311465228415,0.3926062365928102,1.2142857142857142,14.0,,,,,,,,,,,,
+,,,,3.0,2.0,percent,1.0,['Shanna Moakler'],['Tucker Carlson'],['Tucker Carlson'],['Tucker Carlson'],['Tucker Carlson'],False,False,False
+0.16510218658035147,0.37817817829056644,1.1333333333333333,15.0,,,,,,,,,,,,
+,,,,3.0,3.0,percent,1.0,['Harry Hamlin'],['Tucker Carlson'],['Tucker Carlson'],['Tucker Carlson'],['Shanna Moakler'],False,False,True
+0.1646552688702829,0.36524106282483093,1.0625,16.0,,,,,,,,,,,,
+,,,,3.0,4.0,percent,1.0,['Vivica A. Fox'],['Tucker Carlson'],['Tucker Carlson'],['Tucker Carlson'],['Shanna Moakler'],False,False,True
+0.164261111377747,0.35355339059327373,1.0,17.0,,,,,,,,,,,,
+,,,,3.0,5.0,percent,2.0,"['Willa Ford', 'Sara Evans']","['Jerry Springer', 'Tucker Carlson']","['Jerry Springer', 'Tucker Carlson']","['Shanna Moakler', 'Tucker Carlson']","['Shanna Moakler', 'Tucker Carlson']",True,False,False
+0.08445393388521352,0.4319223625811333,1.3333333333333333,18.0,,,,,,,,,,,,
+,,,,3.0,7.0,percent,1.0,['Jerry Springer'],['Tucker Carlson'],['Tucker Carlson'],['Tucker Carlson'],['Sara Evans'],False,False,True
+0.0845080599118079,0.4188808433682991,1.263157894736842,19.0,,,,,,,,,,,,
+,,,,3.0,8.0,percent,1.0,['Monique Coleman'],['Tucker Carlson'],['Jerry Springer'],['Tucker Carlson'],['Jerry Springer'],False,True,True
+0.08455323132927384,0.40696121856270717,1.2,20.0,,,,,,,,,,,,
+,,,,3.0,9.0,percent,1.0,['Joey Lawrence'],['Tucker Carlson'],['Jerry Springer'],['Tucker Carlson'],['Jerry Springer'],False,True,True
+0.08459127920387645,0.39601048946676143,1.1428571428571428,21.0,,,,,,,,,,,,
+,,,,3.0,10.0,percent,1.0,['Mario Lopez'],['Tucker Carlson'],['Jerry Springer'],['Tucker Carlson'],['Jerry Springer'],False,True,True
+0.08462359303948086,0.3859034866831046,1.0909090909090908,22.0,,,,,,,,,,,,
+,,,,4.0,2.0,percent,1.0,['Paulina Porizkova'],['Paulina Porizkova'],['Paulina Porizkova'],['Paulina Porizkova'],['Clyde Drexler'],False,False,True
+0.08465124218779443,0.3765366600219513,1.0434782608695652,23.0,,,,,,,,,,,,
+,,,,4.0,3.0,percent,1.0,['Shandi Finnessey'],['Leeza Gibbons'],['Joey Fatone'],['Paulina Porizkova'],['Paulina Porizkova'],True,True,False
+0.04604733283724641,0.4304800523908694,1.4583333333333333,24.0,,,,,,,,,,,,
+,,,,4.0,4.0,percent,1.0,['Leeza Gibbons'],['Leeza Gibbons'],['Leeza Gibbons'],['Paulina Porizkova'],['Shandi Finnessey'],True,False,True
+0.024271721181015882,0.48089170361017136,1.84,25.0,,,,,,,,,,,,
+,,,,4.0,5.0,percent,1.0,['Clyde Drexler'],['Leeza Gibbons'],['Leeza Gibbons'],['Leeza Gibbons'],['Paulina Porizkova'],False,False,True
+0.024417419112965317,0.4697596404614182,1.7692307692307692,26.0,,,,,,,,,,,,
+,,,,4.0,6.0,percent,1.0,['Heather Mills'],['Leeza Gibbons'],['Leeza Gibbons'],['Leeza Gibbons'],['Paulina Porizkova'],False,False,True
+0.024550946645668374,0.4593714445082329,1.7037037037037037,27.0,,,,,,,,,,,,
+,,,,4.0,7.0,percent,1.0,['John Ratzenberger'],['Leeza Gibbons'],['Leeza Gibbons'],['Leeza Gibbons'],['Heather Mills'],False,False,True
+0.024673760671989956,0.4496473903040806,1.6428571428571428,28.0,,,,,,,,,,,,
+,,,,4.0,8.0,percent,1.0,['Billy Ray Cyrus'],['Leeza Gibbons'],['Leeza Gibbons'],['Leeza Gibbons'],['Heather Mills'],False,False,True
+0.024787095365379118,0.4405192693921528,1.5862068965517242,29.0,,,,,,,,,,,,
+,,,,4.0,9.0,percent,1.0,['Ian Ziering'],['Leeza Gibbons'],['Leeza Gibbons'],['Leeza Gibbons'],['Billy Ray Cyrus'],False,False,True
+0.024892003031483218,0.43192832966271105,1.5333333333333334,30.0,,,,,,,,,,,,
+,,,,4.0,10.0,percent,2.0,"['Laila Ali', 'Joey Fatone']","['Joey Fatone', 'Leeza Gibbons']","['Joey Fatone', 'Leeza Gibbons']","['Billy Ray Cyrus', 'Leeza Gibbons']","['Billy Ray Cyrus', 'Leeza Gibbons']",True,False,False
+0.012969474886598093,0.4745012808532317,1.7741935483870968,31.0,,,,,,,,,,,,
+,,,,5.0,1.0,percent,1.0,['Josie Maran'],['Floyd Mayweather Jr. '],['Floyd Mayweather Jr. '],['Josie Maran'],['Josie Maran'],True,False,False
+0.006807809961037288,0.5125981362774045,2.0625,32.0,,,,,,,,,,,,
+,,,,5.0,2.0,percent,1.0,['Albert Reed'],['Mark Cuban'],['Mark Cuban'],['Josie Maran'],['Josie Maran'],True,False,False
+0.003497733000586256,0.5489287814673879,2.272727272727273,33.0,,,,,,,,,,,,
+,,,,5.0,3.0,percent,1.0,['Wayne Newton'],['Mark Cuban'],['Mark Cuban'],['Albert Reed'],['Josie Maran'],True,False,True
+0.0018414765571249225,0.5808682352449904,2.5588235294117645,34.0,,,,,,,,,,,,
+,,,,5.0,4.0,percent,1.0,['Floyd Mayweather Jr. '],['Mark Cuban'],['Mark Cuban'],['Wayne Newton'],['Albert Reed'],True,False,True
+0.0009802783061840135,0.6098441329962838,2.857142857142857,35.0,,,,,,,,,,,,
+,,,,5.0,5.0,percent,1.0,['Mark Cuban'],['Mark Cuban'],['Marie Osmond'],['Wayne Newton'],['Albert Reed'],True,True,True
+0.0005090071082656776,0.6383316362931233,3.138888888888889,36.0,,,,,,,,,,,,
+,,,,5.0,6.0,percent,1.0,['Sabrina Bryan'],['Mark Cuban'],['Mark Cuban'],['Mark Cuban'],['Wayne Newton'],False,False,True
+0.0005229074616285422,0.6263520651824251,3.054054054054054,37.0,,,,,,,,,,,,
+,,,,5.0,7.0,percent,1.0,['Jane Seymour'],['Mark Cuban'],['Mark Cuban'],['Mark Cuban'],['Wayne Newton'],False,False,True
+0.0005362197145215855,0.6150271126808295,2.973684210526316,38.0,,,,,,,,,,,,
+,,,,5.0,8.0,percent,1.0,['Cameron Mathison'],['Mark Cuban'],['Mark Cuban'],['Mark Cuban'],['Wayne Newton'],False,False,True
+0.0005489767683093841,0.6042989943234645,2.8974358974358974,39.0,,,,,,,,,,,,
+,,,,5.0,9.0,percent,1.0,['Jennie Garth'],['Mark Cuban'],['Mark Cuban'],['Mark Cuban'],['Wayne Newton'],False,False,True
+0.0005612095857739086,0.5941168433140056,2.825,40.0,,,,,,,,,,,,
+,,,,5.0,10.0,percent,2.0,"['Mel B', 'Marie Osmond']","['Marie Osmond', 'Mark Cuban']","['Marie Osmond', 'Mark Cuban']","['Wayne Newton', 'Mark Cuban']","['Wayne Newton', 'Mark Cuban']",True,False,False
+0.00028278190916426846,0.6215030928487814,3.0,41.0,,,,,,,,,,,,
+,,,,6.0,2.0,percent,2.0,"['Monica Seles', 'Penn Jillette']","['Adam Carolla', 'Penn Jillette']","['Adam Carolla', 'Penn Jillette']","['Penn Jillette', 'Monica Seles']","['Penn Jillette', 'Monica Seles']",True,False,False
+0.00014297765406655387,0.6470997839647752,3.142857142857143,42.0,,,,,,,,,,,,
+,,,,6.0,3.0,percent,1.0,['Steve Guttenberg'],['Mario'],['Adam Carolla'],['Penn Jillette'],['Monica Seles'],True,True,True
+7.064889126356972e-05,0.6723781611492363,3.3255813953488373,43.0,,,,,,,,,,,,
+,,,,6.0,4.0,percent,1.0,['Adam Carolla'],['Mario'],['Adam Carolla'],['Penn Jillette'],['Monica Seles'],True,True,True
+3.456423131061978e-05,0.6967667263638111,3.5,44.0,,,,,,,,,,,,
+,,,,6.0,5.0,percent,1.0,['Priscilla Presley'],['Mario'],['Adam Carolla'],['Adam Carolla'],['Penn Jillette'],True,True,True
+1.7465253280510693e-05,0.7184342134421015,3.6,45.0,,,,,,,,,,,,
+,,,,6.0,6.0,percent,1.0,['Marlee Matlin'],['Mario'],['Adam Carolla'],['Adam Carolla'],['Penn Jillette'],True,True,True
+8.726375608556259e-06,0.739544981972882,3.6956521739130435,46.0,,,,,,,,,,,,
+,,,,6.0,7.0,percent,1.0,['Shannon Elizabeth'],['Mario'],['Adam Carolla'],['Adam Carolla'],['Penn Jillette'],True,True,True
+4.312406468215111e-06,0.760137719557988,3.7872340425531914,47.0,,,,,,,,,,,,
+,,,,6.0,8.0,percent,1.0,['Mario'],['Mario'],['Adam Carolla'],['Adam Carolla'],['Penn Jillette'],True,True,True
+2.108344939768997e-06,0.7802469569184244,3.875,48.0,,,,,,,,,,,,
+,,,,6.0,9.0,percent,1.0,['Marissa Jaret Winokur'],['Mario'],['Adam Carolla'],['Mario'],['Adam Carolla'],False,True,True
+2.2395701134784627e-06,0.7675576138817192,3.795918367346939,49.0,,,,,,,,,,,,
+,,,,6.0,10.0,percent,2.0,"['Cristian de la Fuente', 'Jason Taylor']","['Adam Carolla', 'Mario']","['Adam Carolla', 'Mario']","['Adam Carolla', 'Mario']","['Adam Carolla', 'Mario']",False,False,False
+2.371010580408494e-06,0.7554715905220527,3.72,50.0,,,,,,,,,,,,
+,,,,7.0,1.0,percent,2.0,"['Ted McGinley', 'Jeffrey Ross']","['Ted McGinley', 'Rocco DiSpirito']","['Ted McGinley', 'Rocco DiSpirito']","['Ted McGinley', 'Jeffrey Ross']","['Ted McGinley', 'Jeffrey Ross']",True,False,False
+1.2083152219874742e-06,0.7729119557847879,3.784313725490196,51.0,,,,,,,,,,,,
+,,,,7.0,2.0,percent,2.0,"['Misty May-Treanor', 'Kim Kardashian']","['Rocco DiSpirito', 'Brooke Burke']","['Rocco DiSpirito', 'Brooke Burke']","['Ted McGinley', 'Jeffrey Ross']","['Ted McGinley', 'Jeffrey Ross']",True,False,False
+8.056346029621374e-07,0.7792071847595378,4.038461538461538,52.0,,,,,,,,,,,,
+,,,,7.0,4.0,percent,1.0,['Rocco DiSpirito'],['Brooke Burke'],['Rocco DiSpirito'],['Kim Kardashian'],['Jeffrey Ross'],True,True,True
+3.929678784595209e-07,0.7971478698352668,4.2075471698113205,53.0,,,,,,,,,,,,
+,,,,7.0,5.0,percent,1.0,['Toni Braxton'],['Brooke Burke'],['Rocco DiSpirito'],['Rocco DiSpirito'],['Kim Kardashian'],True,True,True
+1.8261802013829416e-07,0.8161777170104924,4.333333333333333,54.0,,,,,,,,,,,,
+,,,,7.0,6.0,percent,1.0,['Cloris Leachman'],['Brooke Burke'],['Rocco DiSpirito'],['Rocco DiSpirito'],['Kim Kardashian'],True,True,True
+8.414193922883281e-08,0.8347827269993059,4.454545454545454,55.0,,,,,,,,,,,,
+,,,,7.0,7.0,percent,1.0,['Susan Lucci'],['Brooke Burke'],['Rocco DiSpirito'],['Rocco DiSpirito'],['Kim Kardashian'],True,True,True
+3.844237715640296e-08,0.8529901384641451,4.571428571428571,56.0,,,,,,,,,,,,
+,,,,7.0,8.0,percent,1.0,['Maurice Greene'],['Brooke Burke'],['Rocco DiSpirito'],['Rocco DiSpirito'],['Kim Kardashian'],True,True,True
+1.7417420015486695e-08,0.8708243958500756,4.684210526315789,57.0,,,,,,,,,,,,
+,,,,7.0,9.0,percent,1.0,['Cody Linley'],['Brooke Burke'],['Rocco DiSpirito'],['Rocco DiSpirito'],['Kim Kardashian'],True,True,True
+7.826733065814012e-09,0.8883075345603278,4.793103448275862,58.0,,,,,,,,,,,,
+,,,,7.0,10.0,percent,2.0,"['Warren Sapp', 'Lance Bass']","['Rocco DiSpirito', 'Brooke Burke']","['Rocco DiSpirito', 'Brooke Burke']","['Kim Kardashian', 'Rocco DiSpirito']","['Kim Kardashian', 'Rocco DiSpirito']",True,False,False
+3.488570539897811e-09,0.905459500596544,4.898305084745763,59.0,,,,,,,,,,,,
+,,,,8.0,2.0,percent,1.0,['Belinda Carlisle'],['Belinda Carlisle'],['Belinda Carlisle'],['Belinda Carlisle'],['Steve-O'],False,False,True
+3.869547949971292e-09,0.8918344943278901,4.816666666666666,60.0,,,,,,,,,,,,
+,,,,8.0,3.0,percent,1.0,['Denise Richards'],['Melissa Rycroft'],['Holly Madison'],['Belinda Carlisle'],['Belinda Carlisle'],True,True,False
+1.7227168705316957e-09,0.9084158957232353,4.918032786885246,61.0,,,,,,,,,,,,
+,,,,8.0,4.0,percent,2.0,"['Steve Wozniak', 'Holly Madison']","['Holly Madison', 'Melissa Rycroft']","['Holly Madison', 'Melissa Rycroft']","['Denise Richards', 'Belinda Carlisle']","['Denise Richards', 'Belinda Carlisle']",True,False,False
+7.643511730157018e-10,0.9245651019818403,5.0,62.0,,,,,,,,,,,,
+,,,,8.0,5.0,percent,1.0,['David Alan Grier'],['Melissa Rycroft'],['Holly Madison'],['Holly Madison'],['Belinda Carlisle'],True,True,True
+3.4335021581753696e-10,0.9398106583338123,5.063492063492063,63.0,,,,,,,,,,,,
+,,,,8.0,6.0,percent,1.0,['Steve-O'],['Melissa Rycroft'],['Holly Madison'],['Holly Madison'],['Belinda Carlisle'],True,True,True
+1.5300902290899957e-10,0.9548295031916899,5.125,64.0,,,,,,,,,,,,
+,,,,8.0,7.0,percent,1.0,['Lawrence Taylor'],['Melissa Rycroft'],['Holly Madison'],['Holly Madison'],['Steve-O'],True,True,True
+6.765313185012121e-11,0.9696311194282649,5.184615384615385,65.0,,,,,,,,,,,,
+,,,,8.0,8.0,percent,1.0,['Chuck Wicks'],['Melissa Rycroft'],['Holly Madison'],['Holly Madison'],['Steve-O'],True,True,True
+2.968273093262917e-11,0.9842243601609152,5.242424242424242,66.0,,,,,,,,,,,,
+,,,,8.0,9.0,percent,1.0,"[""Lil' Kim""]",['Melissa Rycroft'],['Holly Madison'],['Holly Madison'],['Steve-O'],True,True,True
+1.2924598191863468e-11,0.9986175049714232,5.298507462686567,67.0,,,,,,,,,,,,
+,,,,8.0,10.0,percent,1.0,['Ty Murray'],['Melissa Rycroft'],['Holly Madison'],['Holly Madison'],['Steve-O'],True,True,True
+5.585704675828753e-12,1.012818309900851,5.352941176470588,68.0,,,,,,,,,,,,
+,,,,8.0,11.0,percent,2.0,"['Gilles Marini', 'Melissa Rycroft']","['Holly Madison', 'Melissa Rycroft']","['Holly Madison', 'Melissa Rycroft']","['Steve-O', 'Holly Madison']","['Steve-O', 'Holly Madison']",True,False,False
+2.486285756465795e-12,1.0257705937988446,5.391304347826087,69.0,,,,,,,,,,,,
+,,,,9.0,1.0,percent,2.0,"['Ashley Hamiliton', 'Macy Gray']","['Ashley Hamiliton', 'Macy Gray']","['Ashley Hamiliton', 'Macy Gray']","['Ashley Hamiliton', 'Macy Gray']","['Ashley Hamiliton', 'Macy Gray']",False,False,False
+2.914129031948498e-12,1.0108444681946425,5.314285714285714,70.0,,,,,,,,,,,,
+,,,,9.0,2.0,percent,1.0,['Kathy Ireland'],['Kelly Osbourne'],['Kelly Osbourne'],['Macy Gray'],['Ashley Hamiliton'],True,False,True
+1.3013733479301888e-12,1.023373880209333,5.422535211267606,71.0,,,,,,,,,,,,
+,,,,9.0,3.0,percent,2.0,"['Debi Mazar', 'Tom DeLay']","['Donny Osmond', 'Kelly Osbourne']","['Donny Osmond', 'Kelly Osbourne']","['Kathy Ireland', 'Macy Gray']","['Kathy Ireland', 'Macy Gray']",True,False,False
+6.066211638363748e-13,1.0343816388275517,5.541666666666667,72.0,,,,,,,,,,,,
+,,,,9.0,4.0,percent,1.0,['Chuck Liddell'],['Kelly Osbourne'],['Kelly Osbourne'],['Macy Gray'],['Tom DeLay'],True,False,True
+2.652348635073348e-13,1.0468464746907626,5.6438356164383565,73.0,,,,,,,,,,,,
+,,,,9.0,5.0,percent,1.0,['Natalie Coughlin'],['Kelly Osbourne'],['Kelly Osbourne'],['Macy Gray'],['Tom DeLay'],True,False,True
+1.1492449298027002e-13,1.0592329336707764,5.743243243243243,74.0,,,,,,,,,,,,
+,,,,9.0,6.0,percent,2.0,"['Melissa Joan Hart', 'Louie Vito']","['Donny Osmond', 'Kelly Osbourne']","['Donny Osmond', 'Kelly Osbourne']","['Tom DeLay', 'Macy Gray']","['Tom DeLay', 'Macy Gray']",True,False,False
+5.1782768778235745e-14,1.070262902101229,5.8533333333333335,75.0,,,,,,,,,,,,
+,,,,9.0,7.0,percent,2.0,"['Mark Dacascos', 'Michael Irvin']","['Donny Osmond', 'Kelly Osbourne']","['Donny Osmond', 'Kelly Osbourne']","['Tom DeLay', 'Macy Gray']","['Tom DeLay', 'Macy Gray']",True,False,False
+2.3064169893767502e-14,1.081320315624883,5.9605263157894735,76.0,,,,,,,,,,,,
+,,,,9.0,8.0,percent,1.0,['Aaron Carter'],['Kelly Osbourne'],['Donny Osmond'],['Macy Gray'],['Tom DeLay'],True,True,True
+9.72558471474288e-15,1.0935279368294066,6.0519480519480515,77.0,,,,,,,,,,,,
+,,,,9.0,9.0,percent,1.0,['Joanna Krupa'],['Kelly Osbourne'],['Donny Osmond'],['Aaron Carter'],['Macy Gray'],True,True,True
+3.934392989713715e-15,1.1065066573012663,6.115384615384615,78.0,,,,,,,,,,,,
+,,,,9.0,10.0,percent,2.0,"['Mya', 'Kelly Osbourne']","['Donny Osmond', 'Kelly Osbourne']","['Donny Osmond', 'Kelly Osbourne']","['Macy Gray', 'Aaron Carter']","['Macy Gray', 'Aaron Carter']",True,False,False
+1.963706769942666e-15,1.1138411270414432,6.2405063291139244,79.0,,,,,,,,,,,,
+,,,,10.0,2.0,percent,1.0,['Shannen Doherty'],['Aiden Turner'],['Aiden Turner'],['Buzz Aldrin'],['Buzz Aldrin'],True,False,False
+1.112270759728312e-15,1.117826216235357,6.225,80.0,,,,,,,,,,,,
+,,,,10.0,3.0,percent,1.0,['Buzz Aldrin'],['Jake Pavelka'],['Kate Gosselin'],['Shannen Doherty'],['Shannen Doherty'],True,True,False
+4.586751405767495e-16,1.1295901277063154,6.308641975308642,81.0,,,,,,,,,,,,
+,,,,10.0,4.0,percent,1.0,['Aiden Turner'],['Jake Pavelka'],['Kate Gosselin'],['Buzz Aldrin'],['Shannen Doherty'],True,True,True
+1.9567651679918055e-16,1.1402533663038366,6.402439024390244,82.0,,,,,,,,,,,,
+,,,,10.0,5.0,percent,1.0,['Kate Gosselin'],['Jake Pavelka'],['Kate Gosselin'],['Buzz Aldrin'],['Shannen Doherty'],True,True,True
+8.273547181583075e-17,1.1508936826440104,6.493975903614458,83.0,,,,,,,,,,,,
+,,,,10.0,6.0,percent,1.0,['Jake Pavelka'],['Jake Pavelka'],['Kate Gosselin'],['Kate Gosselin'],['Buzz Aldrin'],True,True,True
+3.259848468960348e-17,1.1629947304299395,6.5476190476190474,84.0,,,,,,,,,,,,
+,,,,10.0,7.0,percent,1.0,['Pamela Anderson'],['Jake Pavelka'],['Kate Gosselin'],['Jake Pavelka'],['Kate Gosselin'],False,True,True
+4.142479910416761e-17,1.1470163060902323,6.470588235294118,85.0,,,,,,,,,,,,
+,,,,10.0,8.0,percent,1.0,['Niecy Nash'],['Jake Pavelka'],['Kate Gosselin'],['Jake Pavelka'],['Kate Gosselin'],False,True,True
+5.211087126719585e-17,1.1316812678056156,6.395348837209302,86.0,,,,,,,,,,,,
+,,,,10.0,9.0,percent,1.0,['Chad Ochocinco'],['Jake Pavelka'],['Kate Gosselin'],['Jake Pavelka'],['Kate Gosselin'],False,True,True
+6.493544911367318e-17,1.1169475166353706,6.32183908045977,87.0,,,,,,,,,,,,
+,,,,10.0,10.0,percent,2.0,"['Evan Lysacek', 'Erin Andrews']","['Kate Gosselin', 'Jake Pavelka']","['Kate Gosselin', 'Jake Pavelka']","['Kate Gosselin', 'Jake Pavelka']","['Kate Gosselin', 'Jake Pavelka']",False,False,False
+8.020060769701462e-17,1.1027767130283619,6.25,88.0,,,,,,,,,,,,
+,,,,11.0,1.0,percent,1.0,['David Hasselhoff'],['David Hasselhoff'],['David Hasselhoff'],['David Hasselhoff'],['Margaret Cho'],False,False,True
+9.823156504445638e-17,1.0891338559148787,6.179775280898877,89.0,,,,,,,,,,,,
+,,,,11.0,2.0,percent,1.0,['Michael Bolton'],['Bristol Palin'],['Bristol Palin'],['David Hasselhoff'],['David Hasselhoff'],True,False,False
+4.0036268622341006e-17,1.1002809096823445,6.2444444444444445,90.0,,,,,,,,,,,,
+,,,,11.0,3.0,percent,1.0,['Margaret Cho'],['Bristol Palin'],['Bristol Palin'],['Michael Bolton'],['David Hasselhoff'],True,False,True
+1.9030923132722947e-17,1.1078070726281652,6.252747252747253,91.0,,,,,,,,,,,,
+,,,,11.0,4.0,percent,1.0,['The Situation'],['Bristol Palin'],['Bristol Palin'],['Michael Bolton'],['Margaret Cho'],True,False,True
+9.002042835005031e-18,1.1152841521992911,6.260869565217392,92.0,,,,,,,,,,,,
+,,,,11.0,5.0,percent,1.0,['Florence Henderson'],['Bristol Palin'],['Bristol Palin'],['The Situation'],['Michael Bolton'],True,False,True
+3.6590175922247696e-18,1.1258849198377034,6.301075268817204,93.0,,,,,,,,,,,,
+,,,,11.0,6.0,percent,1.0,['Audrina Patridge'],['Bristol Palin'],['Bristol Palin'],['The Situation'],['Michael Bolton'],True,False,True
+1.4792719823057955e-18,1.1363905589833123,6.340425531914893,94.0,,,,,,,,,,,,
+,,,,11.0,7.0,percent,1.0,['Rick Fox'],['Bristol Palin'],['Audrina Patridge'],['Audrina Patridge'],['The Situation'],True,True,True
+6.136525697557016e-19,1.1461438166292137,6.368421052631579,95.0,,,,,,,,,,,,
+,,,,11.0,8.0,percent,1.0,['Kurt Warner'],['Bristol Palin'],['Audrina Patridge'],['Audrina Patridge'],['The Situation'],True,True,True
+2.532098025354746e-19,1.1558199609121738,6.395833333333333,96.0,,,,,,,,,,,,
+,,,,11.0,9.0,percent,1.0,['Brandy'],['Bristol Palin'],['Audrina Patridge'],['Audrina Patridge'],['The Situation'],True,True,True
+1.039314121058744e-19,1.1654207252056614,6.422680412371134,97.0,,,,,,,,,,,,
+,,,,11.0,10.0,percent,2.0,"['Kyle Massey', 'Bristol Palin']","['Audrina Patridge', 'Bristol Palin']","['Audrina Patridge', 'Bristol Palin']","['The Situation', 'Audrina Patridge']","['The Situation', 'Audrina Patridge']",True,False,False
+5.225231187885953e-20,1.1706527116624725,6.418367346938775,98.0,,,,,,,,,,,,
+,,,,12.0,2.0,percent,1.0,['Mike Catherwood'],['Mike Catherwood'],['Mike Catherwood'],['Mike Catherwood'],['Sugar Ray Leonard'],False,False,True
+6.681917744040346e-20,1.1567254037384171,6.353535353535354,99.0,,,,,,,,,,,,
+,,,,12.0,3.0,percent,1.0,['Wendy Williams'],['Kendra Wilkinson'],['Wendy Williams'],['Mike Catherwood'],['Mike Catherwood'],True,True,False
+2.654939012781423e-20,1.166690294841722,6.39,100.0,,,,,,,,,,,,
+,,,,12.0,4.0,percent,1.0,['Sugar Ray Leonard'],['Kendra Wilkinson'],['Wendy Williams'],['Wendy Williams'],['Mike Catherwood'],True,True,True
+1.3300514806149463e-20,1.1718295883490455,6.3861386138613865,101.0,,,,,,,,,,,,
+,,,,12.0,5.0,percent,1.0,['Petra Nemcova'],['Kendra Wilkinson'],['Wendy Williams'],['Wendy Williams'],['Mike Catherwood'],True,True,True
+6.638466050334121e-21,1.1769467878116975,6.382352941176471,102.0,,,,,,,,,,,,
+,,,,12.0,6.0,percent,1.0,['Chris Jericho'],['Kendra Wilkinson'],['Wendy Williams'],['Wendy Williams'],['Mike Catherwood'],True,True,True
+3.301131789566545e-21,1.1820421701740962,6.378640776699029,103.0,,,,,,,,,,,,
+,,,,12.0,7.0,percent,1.0,['Kendra Wilkinson'],['Kendra Wilkinson'],['Wendy Williams'],['Wendy Williams'],['Mike Catherwood'],True,True,True
+1.6355512309467915e-21,1.1871160067929938,6.375,104.0,,,,,,,,,,,,
+,,,,12.0,8.0,percent,1.0,['Romeo'],['Kendra Wilkinson'],['Wendy Williams'],['Kendra Wilkinson'],['Wendy Williams'],False,True,True
+2.1155942810426152e-21,1.1735789457146077,6.314285714285714,105.0,,,,,,,,,,,,
+,,,,12.0,9.0,percent,1.0,['Ralph Macchio'],['Kendra Wilkinson'],['Wendy Williams'],['Kendra Wilkinson'],['Wendy Williams'],False,True,True
+2.712028638339334e-21,1.160496036734708,6.254716981132075,106.0,,,,,,,,,,,,
+,,,,12.0,10.0,percent,2.0,"['Chelsea Kane', 'Kirstie Alley']","['Wendy Williams', 'Kendra Wilkinson']","['Wendy Williams', 'Kendra Wilkinson']","['Wendy Williams', 'Kendra Wilkinson']","['Wendy Williams', 'Kendra Wilkinson']",False,False,False
+3.447128189297608e-21,1.147842418671368,6.196261682242991,107.0,,,,,,,,,,,,
+,,,,13.0,1.0,percent,1.0,['Metta World Peace (Ron)'],['Metta World Peace (Ron)'],['Metta World Peace (Ron)'],['Metta World Peace (Ron)'],['Metta World Peace (Ron)'],False,False,False
+4.3462496015374704e-21,1.135595095274709,6.138888888888889,108.0,,,,,,,,,,,,
+,,,,13.0,2.0,percent,1.0,['Elisabetta Canalis'],['Rob Kardashian'],['Nancy Grace'],['Metta World Peace (Ron)'],['Metta World Peace (Ron)'],True,True,False
+1.8991697082892793e-21,1.14315440446181,6.2110091743119265,109.0,,,,,,,,,,,,
+,,,,13.0,3.0,percent,1.0,['Kristin Cavallari'],['Rob Kardashian'],['Nancy Grace'],['Metta World Peace (Ron)'],['Elisabetta Canalis'],True,True,True
+8.233725430997271e-22,1.1507287826271142,6.281818181818182,110.0,,,,,,,,,,,,
+,,,,13.0,4.0,percent,1.0,['Chynna Phillips'],['Rob Kardashian'],['Nancy Grace'],['Kristin Cavallari'],['Metta World Peace (Ron)'],True,True,True
+3.3748870203451004e-22,1.1591959238763778,6.306306306306307,111.0,,,,,,,,,,,,
+,,,,13.0,5.0,percent,1.0,['Carson Kressley'],['Rob Kardashian'],['Nancy Grace'],['Kristin Cavallari'],['Chynna Phillips'],True,True,True
+1.3770037898247834e-22,1.1676051988820908,6.330357142857143,112.0,,,,,,,,,,,,
+,,,,13.0,6.0,percent,1.0,['Chaz Bono'],['Rob Kardashian'],['Rob Kardashian'],['Carson Kressley'],['Kristin Cavallari'],True,False,True
+5.592970365789322e-23,1.1759577373597223,6.353982300884955,113.0,,,,,,,,,,,,
+,,,,13.0,7.0,percent,1.0,['David Arquette'],['Rob Kardashian'],['Nancy Grace'],['Chaz Bono'],['Carson Kressley'],True,True,True
+2.1985566869074202e-23,1.1847566306189898,6.385964912280702,114.0,,,,,,,,,,,,
+,,,,13.0,8.0,percent,1.0,['Nancy Grace'],['Rob Kardashian'],['Nancy Grace'],['Chaz Bono'],['Carson Kressley'],True,True,True
+8.60458281795153e-24,1.1934923432910307,6.417391304347826,115.0,,,,,,,,,,,,
+,,,,13.0,9.0,percent,1.0,['Hope Solo'],['Rob Kardashian'],['Nancy Grace'],['Nancy Grace'],['Chaz Bono'],True,True,True
+3.480793312352286e-24,1.2015108700056056,6.474137931034483,116.0,,,,,,,,,,,,
+,,,,13.0,10.0,percent,2.0,"['Ricki Lake', 'Rob Kardashian']","['Nancy Grace', 'Rob Kardashian']","['Nancy Grace', 'Rob Kardashian']","['Chaz Bono', 'Nancy Grace']","['Chaz Bono', 'Nancy Grace']",True,False,False
+1.3920686531700121e-24,1.2096022170431482,6.495726495726496,117.0,,,,,,,,,,,,
+,,,,14.0,2.0,percent,1.0,['Martina Navratilova'],['Martina Navratilova'],['Martina Navratilova'],['Martina Navratilova'],['Martina Navratilova'],False,False,False
+1.830365546792754e-24,1.197047776741616,6.440677966101695,118.0,,,,,,,,,,,,
+,,,,14.0,3.0,percent,1.0,['Jack Wagner'],['Maria Menounos'],['Maria Menounos'],['Martina Navratilova'],['Martina Navratilova'],True,False,False
+8.258725282251713e-25,1.202974683731867,6.445378151260504,119.0,,,,,,,,,,,,
+,,,,14.0,4.0,percent,1.0,['Sherri Sheperd'],['Maria Menounos'],['Katherine Jenkins'],['Martina Navratilova'],['Jack Wagner'],True,True,True
+3.71234203329297e-25,1.208873126596607,6.45,120.0,,,,,,,,,,,,
+,,,,14.0,5.0,percent,1.0,['Gavin DeGraw'],['Maria Menounos'],['Maria Menounos'],['Martina Navratilova'],['Sherri Sheperd'],True,False,True
+1.66247152663414e-25,1.2147435052886069,6.454545454545454,121.0,,,,,,,,,,,,
+,,,,14.0,6.0,percent,1.0,['Gladys Knight'],['Maria Menounos'],['Maria Menounos'],['Gavin DeGraw'],['Martina Navratilova'],True,False,True
+6.913695958450209e-26,1.221761351939849,6.467213114754099,122.0,,,,,,,,,,,,
+,,,,14.0,7.0,percent,1.0,['Jaleel White'],['Maria Menounos'],['Katherine Jenkins'],['Gladys Knight'],['Gavin DeGraw'],True,True,True
+2.781372504093708e-26,1.2292247572598387,6.520325203252033,123.0,,,,,,,,,,,,
+,,,,14.0,8.0,percent,2.0,"['Roshon Fegan', 'Melissa Gilbert']","['Katherine Jenkins', 'Maria Menounos']","['Katherine Jenkins', 'Maria Menounos']","['Gavin DeGraw', 'Gladys Knight']","['Gavin DeGraw', 'Gladys Knight']",True,False,False
+1.1130870098948651e-26,1.2366645105787029,6.57258064516129,124.0,,,,,,,,,,,,
+,,,,14.0,9.0,percent,1.0,['Maria Menounos'],['Maria Menounos'],['Katherine Jenkins'],['Gladys Knight'],['Gavin DeGraw'],True,True,True
+4.431641650823698e-27,1.2440798032181681,6.624,125.0,,,,,,,,,,,,
+,,,,14.0,10.0,percent,2.0,"['William Levy', 'Katherine Jenkins']","['Katherine Jenkins', 'Maria Menounos']","['Katherine Jenkins', 'Maria Menounos']","['Gladys Knight', 'Maria Menounos']","['Gladys Knight', 'Maria Menounos']",True,False,False
+1.9664419102645766e-27,1.2496239685572257,6.626984126984127,126.0,,,,,,,,,,,,
+,,,,15.0,1.0,percent,1.0,['Pamela Anderson'],['Kirstie Alley'],['Kirstie Alley'],['Pamela Anderson'],['Pamela Anderson'],True,False,False
+7.4581918451021455e-28,1.257623255074245,6.653543307086614,127.0,,,,,,,,,,,,
+,,,,15.0,2.0,percent,1.0,['Joey Fatone'],['Melissa Rycroft'],['Bristol Palin'],['Pamela Anderson'],['Pamela Anderson'],True,True,False
+2.8388701585725525e-28,1.2654522206711873,6.6953125,128.0,,,,,,,,,,,,
+,,,,15.0,3.0,percent,2.0,"['Helio Castroneves', 'Drew Lachey']","['Bristol Palin', 'Melissa Rycroft']","['Bristol Palin', 'Melissa Rycroft']","['Pamela Anderson', 'Joey Fatone']","['Pamela Anderson', 'Joey Fatone']",True,False,False
+1.0607480060195342e-28,1.2734675149196775,6.728682170542636,129.0,,,,,,,,,,,,
+,,,,15.0,4.0,percent,1.0,['Bristol Palin'],['Melissa Rycroft'],['Bristol Palin'],['Drew Lachey'],['Joey Fatone'],True,True,True
+4.005997646489845e-29,1.2812030850570615,6.769230769230769,130.0,,,,,,,,,,,,
+,,,,15.0,6.0,percent,1.0,['Sabrina Bryan'],['Melissa Rycroft'],['Bristol Palin'],['Bristol Palin'],['Drew Lachey'],True,True,True
+1.5440120842013465e-29,1.288511683707431,6.786259541984733,131.0,,,,,,,,,,,,
+,,,,15.0,8.0,percent,2.0,"['Gilles Marini', 'Kirstie Alley']","['Bristol Palin', 'Melissa Rycroft']","['Bristol Palin', 'Melissa Rycroft']","['Drew Lachey', 'Bristol Palin']","['Drew Lachey', 'Bristol Palin']",True,False,False
+6.745027063557874e-30,1.2937584982110861,6.787878787878788,132.0,,,,,,,,,,,,
+,,,,15.0,9.0,percent,2.0,"['Apolo Anton Ohno', 'Emmitt Smith']","['Bristol Palin', 'Melissa Rycroft']","['Bristol Palin', 'Melissa Rycroft']","['Drew Lachey', 'Bristol Palin']","['Drew Lachey', 'Bristol Palin']",True,False,False
+2.9367583573414445e-30,1.2989842192907894,6.7894736842105265,133.0,,,,,,,,,,,,
+,,,,15.0,10.0,percent,2.0,"['Kelly Monaco', 'Shawn Johnson']","['Bristol Palin', 'Melissa Rycroft']","['Bristol Palin', 'Melissa Rycroft']","['Drew Lachey', 'Bristol Palin']","['Drew Lachey', 'Bristol Palin']",True,False,False
+1.2744216971979018e-30,1.304189098299874,6.791044776119403,134.0,,,,,,,,,,,,
+,,,,16.0,2.0,percent,1.0,['Dorothy Hamill'],['D. L. Hughley'],['D. L. Hughley'],['Dorothy Hamill'],['Dorothy Hamill'],True,False,False
+4.677086739707489e-31,1.3118982279108113,6.822222222222222,135.0,,,,,,,,,,,,
+,,,,16.0,3.0,percent,1.0,['Wynonna Judd'],['Sean Lowe'],['Lisa Vanderpump'],['Dorothy Hamill'],['Dorothy Hamill'],True,True,False
+1.9312239595464688e-31,1.317705325457455,6.875,136.0,,,,,,,,,,,,
+,,,,16.0,4.0,percent,1.0,['Lisa Vanderpump'],['Sean Lowe'],['Lisa Vanderpump'],['Wynonna Judd'],['Dorothy Hamill'],True,True,True
+7.311443349298097e-32,1.3247528968500262,6.890510948905109,137.0,,,,,,,,,,,,
+,,,,16.0,5.0,percent,1.0,['D. L. Hughley'],['Sean Lowe'],['Lisa Vanderpump'],['Lisa Vanderpump'],['Wynonna Judd'],True,True,True
+2.6568084652546205e-32,1.3323285981961144,6.920289855072464,138.0,,,,,,,,,,,,
+,,,,16.0,6.0,percent,1.0,['Victor Ortiz'],['Sean Lowe'],['Lisa Vanderpump'],['Lisa Vanderpump'],['Wynonna Judd'],True,True,True
+9.619606250429226e-33,1.3398618204813466,6.9496402877697845,139.0,,,,,,,,,,,,
+,,,,16.0,7.0,percent,1.0,['Andy Dick'],['Sean Lowe'],['Lisa Vanderpump'],['Lisa Vanderpump'],['Wynonna Judd'],True,True,True
+3.470605397974003e-33,1.347353267775011,6.978571428571429,140.0,,,,,,,,,,,,
+,,,,16.0,8.0,percent,1.0,['Sean Lowe'],['Sean Lowe'],['Lisa Vanderpump'],['Lisa Vanderpump'],['Wynonna Judd'],True,True,True
+1.2477135543189496e-33,1.354803624944451,7.00709219858156,141.0,,,,,,,,,,,,
+,,,,16.0,9.0,percent,1.0,['Ingo Rademacher'],['Sean Lowe'],['Lisa Vanderpump'],['Sean Lowe'],['Lisa Vanderpump'],False,True,True
+1.8398918675943706e-33,1.3413558382412336,6.957746478873239,142.0,,,,,,,,,,,,
+,,,,16.0,10.0,percent,3.0,"['Zendaya', 'Alexandra Raisman', 'Jacoby Jones']","['Kellie Pickler', 'Lisa Vanderpump', 'Sean Lowe']","['Kellie Pickler', 'Lisa Vanderpump', 'Sean Lowe']","['Wynonna Judd', 'Lisa Vanderpump', 'Sean Lowe']","['Wynonna Judd', 'Lisa Vanderpump', 'Sean Lowe']",True,False,False
+7.2850809908741085e-34,1.3473225749837148,6.965034965034965,143.0,,,,,,,,,,,,
+,,,,17.0,2.0,percent,1.0,['Keyshawn Johnson'],['Keyshawn Johnson'],['Bill Nye'],['Keyshawn Johnson'],['Bill Nye'],False,True,True
+1.0675414494694659e-33,1.3342268397881174,6.916666666666667,144.0,,,,,,,,,,,,
+,,,,17.0,3.0,percent,1.0,['Bill Nye'],['Bill Nye'],['Bill Nye'],['Keyshawn Johnson'],['Keyshawn Johnson'],True,False,False
+3.930344381689344e-34,1.3411994857449883,6.951724137931034,145.0,,,,,,,,,,,,
+,,,,17.0,4.0,percent,1.0,['Valerie Harper'],['Bill Nye'],['Bill Nye'],['Bill Nye'],['Keyshawn Johnson'],False,False,True
+5.730261989173082e-34,1.3284153271715202,6.904109589041096,146.0,,,,,,,,,,,,
+,,,,17.0,5.0,percent,1.0,['Christina Milian'],['Bill Nye'],['Bill Nye'],['Bill Nye'],['Keyshawn Johnson'],False,False,True
+8.265901333544626e-34,1.315990646008788,6.857142857142857,147.0,,,,,,,,,,,,
+,,,,17.0,7.0,percent,1.0,"['Nicole ""Snooki"" Polizzi']",['Bill Nye'],['Bill Nye'],['Bill Nye'],['Christina Milian'],False,False,True
+1.1802650445923478e-33,1.3039088972497226,6.8108108108108105,148.0,,,,,,,,,,,,
+,,,,17.0,8.0,percent,1.0,['Brant Daugherty'],['Bill Nye'],['Bill Nye'],['Bill Nye'],"['Nicole ""Snooki"" Polizzi']",False,False,True
+1.6689074079812677e-33,1.292154582771301,6.76510067114094,149.0,,,,,,,,,,,,
+,,,,17.0,9.0,percent,1.0,['Elizabeth Berkley Lauren'],['Bill Nye'],['Bill Nye'],['Bill Nye'],"['Nicole ""Snooki"" Polizzi']",False,False,True
+2.337905965195192e-33,1.280713167680887,6.72,150.0,,,,,,,,,,,,
+,,,,17.0,10.0,percent,1.0,['Leah Remini'],['Bill Nye'],['Bill Nye'],['Bill Nye'],"['Nicole ""Snooki"" Polizzi']",False,False,True
+3.2458797606328216e-33,1.2695710046898065,6.675496688741722,151.0,,,,,,,,,,,,
+,,,,17.0,11.0,percent,3.0,"['Corbin Bleu', 'Bill Engvall', 'Jack Osbourne']","['Nicole ""Snooki"" Polizzi', 'Jack Osbourne', 'Bill Nye']","['Nicole ""Snooki"" Polizzi', 'Jack Osbourne', 'Bill Nye']","['Christina Milian', 'Nicole ""Snooki"" Polizzi', 'Bill Nye']","['Christina Milian', 'Nicole ""Snooki"" Polizzi', 'Bill Nye']",True,False,False
+1.3219821522103938e-33,1.2751907100600155,6.684210526315789,152.0,,,,,,,,,,,,
+,,,,18.0,1.0,percent,1.0,['Diana Nyad'],['Diana Nyad'],['Diana Nyad'],['Diana Nyad'],['Billy Dee Williams'],False,False,True
+1.8276908885039632e-33,1.2642989966675444,6.640522875816994,153.0,,,,,,,,,,,,
+,,,,18.0,2.0,percent,2.0,"['Billy Dee Williams', 'Sean Avery']","['Cody Simpson', 'NeNe Leakes']","['Cody Simpson', 'NeNe Leakes']","['Billy Dee Williams', 'Diana Nyad']","['Billy Dee Williams', 'Diana Nyad']",True,False,False
+6.883792266366264e-34,1.2709199449002444,6.662337662337662,154.0,,,,,,,,,,,,
+,,,,18.0,5.0,percent,1.0,['Cody Simpson'],['NeNe Leakes'],['Cody Simpson'],['Diana Nyad'],['Sean Avery'],True,True,True
+2.658967270889688e-34,1.2771285675903574,6.67741935483871,155.0,,,,,,,,,,,,
+,,,,18.0,6.0,percent,1.0,['Drew Carey'],['NeNe Leakes'],['Cody Simpson'],['Cody Simpson'],['Diana Nyad'],True,True,True
+1.114282450391863e-34,1.2821875709863344,6.7243589743589745,156.0,,,,,,,,,,,,
+,,,,18.0,7.0,percent,1.0,['NeNe Leakes'],['NeNe Leakes'],['Cody Simpson'],['Cody Simpson'],['Drew Carey'],True,True,True
+4.64203511554635e-35,1.2872651507286534,6.770700636942675,157.0,,,,,,,,,,,,
+,,,,18.0,8.0,percent,1.0,['Danica McKellar'],['NeNe Leakes'],['Cody Simpson'],['NeNe Leakes'],['Cody Simpson'],False,True,True
+6.479978288639947e-35,1.2764921521154682,6.727848101265823,158.0,,,,,,,,,,,,
+,,,,18.0,9.0,percent,1.0,['Charlie White'],['NeNe Leakes'],['Cody Simpson'],['NeNe Leakes'],['Cody Simpson'],False,True,True
+8.970044750976509e-35,1.2659856974465438,6.685534591194968,159.0,,,,,,,,,,,,
+,,,,18.0,10.0,percent,3.0,"['James Maslow', 'Candace Cameron Bure', 'Amy Purdy']","['Drew Carey', 'Cody Simpson', 'NeNe Leakes']","['Drew Carey', 'Cody Simpson', 'NeNe Leakes']","['Drew Carey', 'Cody Simpson', 'NeNe Leakes']","['Drew Carey', 'Cody Simpson', 'NeNe Leakes']",False,False,False
+1.231722056825109e-34,1.2557349682945225,6.64375,160.0,,,,,,,,,,,,
+,,,,19.0,1.0,percent,1.0,['Lolo Jones'],['Lolo Jones'],['Lolo Jones'],['Lolo Jones'],['Betsey Johnson'],False,False,True
+1.6782690177656058e-34,1.2457297511993028,6.60248447204969,161.0,,,,,,,,,,,,
+,,,,19.0,2.0,percent,1.0,['Tavis Smiley'],['Sadie Robertson'],['Sadie Robertson'],['Lolo Jones'],['Lolo Jones'],True,False,False
+6.340041150774709e-35,1.2520801134690382,6.62962962962963,162.0,,,,,,,,,,,,
+,,,,19.0,3.0,percent,1.0,['Randy Couture'],['Sadie Robertson'],['Sadie Robertson'],['Tavis Smiley'],['Lolo Jones'],True,False,True
+2.422746265021012e-35,1.2582155442364484,6.662576687116564,163.0,,,,,,,,,,,,
+,,,,19.0,4.0,percent,1.0,['Betsey Johnson'],['Sadie Robertson'],['Bethany Mota'],['Tavis Smiley'],['Randy Couture'],True,True,True
+9.228380088213633e-36,1.2643236757428589,6.695121951219512,164.0,,,,,,,,,,,,
+,,,,19.0,6.0,percent,1.0,['Jonathan Bennett'],['Sadie Robertson'],['Bethany Mota'],['Tavis Smiley'],['Betsey Johnson'],True,True,True
+3.503929642578338e-36,1.2704048156267294,6.7272727272727275,165.0,,,,,,,,,,,,
+,,,,19.0,7.0,percent,1.0,['Antonio Sabato Jr.'],['Sadie Robertson'],['Sadie Robertson'],['Tavis Smiley'],['Betsey Johnson'],True,False,True
+1.3261971702294014e-36,1.2764592679618652,6.759036144578313,166.0,,,,,,,,,,,,
+,,,,19.0,8.0,percent,1.0,['Michael Waltrip'],['Sadie Robertson'],['Sadie Robertson'],['Tavis Smiley'],['Betsey Johnson'],True,False,True
+5.003730034578673e-37,1.282487333171222,6.790419161676646,167.0,,,,,,,,,,,,
+,,,,19.0,9.0,percent,1.0,['Lea Thompson'],['Sadie Robertson'],['Sadie Robertson'],['Tavis Smiley'],['Michael Waltrip'],True,False,True
+1.8820134714494407e-37,1.2884893079575679,6.821428571428571,168.0,,,,,,,,,,,,
+,,,,19.0,10.0,percent,1.0,['Tommy Chong'],['Sadie Robertson'],['Sadie Robertson'],['Tavis Smiley'],['Michael Waltrip'],True,False,True
+7.056746258323418e-38,1.2944654852491526,6.85207100591716,169.0,,,,,,,,,,,,
+,,,,19.0,11.0,percent,3.0,"['Janel Parrish', 'Bethany Mota', 'Sadie Robertson']","['Tavis Smiley', 'Bethany Mota', 'Sadie Robertson']","['Tavis Smiley', 'Bethany Mota', 'Sadie Robertson']","['Betsey Johnson', 'Michael Waltrip', 'Tavis Smiley']","['Betsey Johnson', 'Michael Waltrip', 'Tavis Smiley']",True,False,False
+3.094026259607165e-38,1.2984742223468557,6.852941176470588,170.0,,,,,,,,,,,,
+,,,,20.0,2.0,percent,1.0,['Redfoo'],['Noah Galloway'],['Charlotte McKinney'],['Redfoo'],['Chris Soules'],True,True,True
+1.1551560060985971e-38,1.304386348951089,6.883040935672515,171.0,,,,,,,,,,,,
+,,,,20.0,3.0,percent,1.0,['Charlotte McKinney'],['Chris Soules'],['Patti LaBelle'],['Redfoo'],['Redfoo'],True,True,False
+4.299652880690625e-39,1.3102737608938821,6.912790697674419,172.0,,,,,,,,,,,,
+,,,,20.0,4.0,percent,1.0,['Michael Sam'],['Chris Soules'],['Chris Soules'],['Redfoo'],['Charlotte McKinney'],True,False,True
+1.5955541934518925e-39,1.3161367271010167,6.942196531791907,173.0,,,,,,,,,,,,
+,,,,20.0,5.0,percent,1.0,['Suzanne Somers'],['Chris Soules'],['Patti LaBelle'],['Redfoo'],['Charlotte McKinney'],True,True,True
+5.903155989719681e-40,1.3219755130554522,6.971264367816092,174.0,,,,,,,,,,,,
+,,,,20.0,6.0,percent,1.0,['Patti LaBelle'],['Chris Soules'],['Patti LaBelle'],['Redfoo'],['Charlotte McKinney'],True,True,True
+2.1775114889156004e-40,1.3277903807775382,7.0,175.0,,,,,,,,,,,,
+,,,,20.0,7.0,percent,1.0,['Willow Shields'],['Chris Soules'],['Patti LaBelle'],['Patti LaBelle'],['Redfoo'],True,True,True
+8.008458808951076e-41,1.3335815888135176,7.028409090909091,176.0,,,,,,,,,,,,
+,,,,20.0,8.0,percent,2.0,"['Robert Herjavec', 'Chris Soules']","['Patti LaBelle', 'Chris Soules']","['Patti LaBelle', 'Chris Soules']","['Redfoo', 'Patti LaBelle']","['Redfoo', 'Patti LaBelle']",True,False,False
+3.0317693469477164e-41,1.3389736927887366,7.03954802259887,177.0,,,,,,,,,,,,
+,,,,20.0,9.0,percent,1.0,['Nastia Liukin'],['Chris Soules'],['Patti LaBelle'],['Chris Soules'],['Patti LaBelle'],False,True,True
+4.418054949720147e-41,1.3285169419157832,7.0,178.0,,,,,,,,,,,,
+,,,,20.0,10.0,percent,2.0,"['Riker Lynch', 'Noah Galloway']","['Patti LaBelle', 'Chris Soules']","['Patti LaBelle', 'Chris Soules']","['Patti LaBelle', 'Chris Soules']","['Patti LaBelle', 'Chris Soules']",False,False,False
+6.382169855967276e-41,1.318301822181192,6.960893854748603,179.0,,,,,,,,,,,,
+,,,,21.0,2.0,percent,3.0,"['Victor Espinoza', 'Chaka Khan', 'Kim Zolciak-Biermann']","['Andy Grammer', 'Kim Zolciak-Biermann', 'Victor Espinoza']","['Andy Grammer', 'Kim Zolciak-Biermann', 'Victor Espinoza']","['Kim Zolciak-Biermann', 'Victor Espinoza', 'Chaka Khan']","['Kim Zolciak-Biermann', 'Victor Espinoza', 'Chaka Khan']",True,False,False
+3.0809794710302255e-41,1.3208637058322183,6.955555555555556,180.0,,,,,,,,,,,,
+,,,,21.0,4.0,percent,1.0,['Gary Busey'],['Paula Deen'],['Kim Zolciak-Biermann'],['Kim Zolciak-Biermann'],['Chaka Khan'],True,True,True
+1.1796393548097282e-41,1.326063010124697,6.988950276243094,181.0,,,,,,,,,,,,
+,,,,21.0,6.0,percent,1.0,['Paula Deen'],['Paula Deen'],['Kim Zolciak-Biermann'],['Kim Zolciak-Biermann'],['Chaka Khan'],True,True,True
+4.5011495681044794e-42,1.3312501915357802,7.021978021978022,182.0,,,,,,,,,,,,
+,,,,21.0,7.0,percent,1.0,['Hayes Grier'],['Paula Deen'],['Kim Zolciak-Biermann'],['Paula Deen'],['Kim Zolciak-Biermann'],False,True,True
+6.517957274592175e-42,1.3212106921261633,6.983606557377049,183.0,,,,,,,,,,,,
+,,,,21.0,8.0,percent,1.0,['Andy Grammer'],['Paula Deen'],['Kim Zolciak-Biermann'],['Paula Deen'],['Kim Zolciak-Biermann'],False,True,True
+9.360227947960004e-42,1.3113953265830234,6.945652173913044,184.0,,,,,,,,,,,,
+,,,,21.0,9.0,percent,2.0,"['Alexa PenaVega', 'Tamar Braxton']","['Kim Zolciak-Biermann', 'Paula Deen']","['Kim Zolciak-Biermann', 'Paula Deen']","['Kim Zolciak-Biermann', 'Paula Deen']","['Kim Zolciak-Biermann', 'Paula Deen']",False,False,False
+1.333440864444335e-41,1.3017958742157525,6.908108108108108,185.0,,,,,,,,,,,,
+,,,,21.0,11.0,percent,3.0,"['Carlos PenaVega', 'Alek Skarlatos', 'Nick Carter']","['Bindi Irwin', 'Kim Zolciak-Biermann', 'Paula Deen']","['Bindi Irwin', 'Kim Zolciak-Biermann', 'Paula Deen']","['Hayes Grier', 'Kim Zolciak-Biermann', 'Paula Deen']","['Hayes Grier', 'Kim Zolciak-Biermann', 'Paula Deen']",True,False,False
+5.850391778324218e-42,1.3054208639442493,6.908602150537634,186.0,,,,,,,,,,,,
+,,,,22.0,2.0,percent,1.0,['Geraldo Rivera'],['Geraldo Rivera'],['Geraldo Rivera'],['Geraldo Rivera'],['Geraldo Rivera'],False,False,False
+8.294482563174129e-42,1.2960208948841412,6.871657754010696,187.0,,,,,,,,,,,,
+,,,,22.0,3.0,percent,1.0,['Mischa Barton'],['Marla Maples'],['Marla Maples'],['Geraldo Rivera'],['Geraldo Rivera'],True,False,False
+3.191124871171406e-42,1.3010806138749964,6.882978723404255,188.0,,,,,,,,,,,,
+,,,,22.0,4.0,percent,1.0,['Marla Maples'],['Marla Maples'],['Marla Maples'],['Geraldo Rivera'],['Mischa Barton'],True,False,True
+1.2244152891751128e-42,1.3061216093180186,6.894179894179894,189.0,,,,,,,,,,,,
+,,,,22.0,6.0,percent,1.0,['Doug Flutie'],['Marla Maples'],['Marla Maples'],['Marla Maples'],['Geraldo Rivera'],False,False,True
+1.7370736743480783e-42,1.2968582745735984,6.8578947368421055,190.0,,,,,,,,,,,,
+,,,,22.0,7.0,percent,2.0,"['Kim Fields', 'Von Miller']","['Wanya Morris', 'Marla Maples']","['Wanya Morris', 'Marla Maples']","['Geraldo Rivera', 'Marla Maples']","['Geraldo Rivera', 'Marla Maples']",True,False,False
+7.612999946364159e-43,1.3004231856869302,6.858638743455497,191.0,,,,,,,,,,,,
+,,,,22.0,8.0,percent,1.0,['Jodie Sweetin'],['Marla Maples'],['Marla Maples'],['Marla Maples'],['Geraldo Rivera'],False,False,True
+1.0751545888722013e-42,1.291345723532021,6.822916666666667,192.0,,,,,,,,,,,,
+,,,,22.0,9.0,percent,2.0,"['Antonio Brown', 'Wanya Morris']","['Wanya Morris', 'Marla Maples']","['Wanya Morris', 'Marla Maples']","['Geraldo Rivera', 'Marla Maples']","['Geraldo Rivera', 'Marla Maples']",True,False,False
+4.7148868187034034e-43,1.2948921197361836,6.823834196891192,193.0,,,,,,,,,,,,
+,,,,22.0,10.0,percent,2.0,"['Paige VanZant', 'Ginger Zee']","['Wanya Morris', 'Marla Maples']","['Wanya Morris', 'Marla Maples']","['Wanya Morris', 'Marla Maples']","['Wanya Morris', 'Marla Maples']",False,False,False
+6.629548828359954e-43,1.285993497580309,6.788659793814433,194.0,,,,,,,,,,,,
+,,,,23.0,2.0,percent,1.0,['Jake T. Austin'],['Jake T. Austin'],['Amber Rose'],['Jake T. Austin'],['Rick Perry'],False,True,True
+9.256322060113693e-43,1.2772761335458156,6.753846153846154,195.0,,,,,,,,,,,,
+,,,,23.0,3.0,percent,1.0,['Rick Perry'],['Terra Jole'],['Jana Kramer'],['Jake T. Austin'],['Jake T. Austin'],True,True,False
+3.4463941888348064e-43,1.2825525093364836,6.775510204081633,196.0,,,,,,,,,,,,
+,,,,23.0,4.0,percent,2.0,"['Babyface', 'Vanilla Ice']","['Jana Kramer', 'Terra Jole']","['Jana Kramer', 'Terra Jole']","['Jake T. Austin', 'Rick Perry']","['Jake T. Austin', 'Rick Perry']",True,False,False
+1.5452190229150635e-43,1.285833776062286,6.817258883248731,197.0,,,,,,,,,,,,
+,,,,23.0,6.0,percent,1.0,['Amber Rose'],['Terra Jole'],['Terra Jole'],['Vanilla Ice'],['Babyface'],True,False,True
+5.968608048476969e-44,1.29063925175169,6.828282828282828,198.0,,,,,,,,,,,,
+,,,,23.0,7.0,percent,1.0,['Maureen McCormick'],['Terra Jole'],['Jana Kramer'],['Vanilla Ice'],['Babyface'],True,True,True
+2.299557311016358e-44,1.2954277042545186,6.839195979899498,199.0,,,,,,,,,,,,
+,,,,23.0,8.0,percent,1.0,['Ryan Lochte'],['Terra Jole'],['Terra Jole'],['Vanilla Ice'],['Babyface'],True,False,True
+8.837091335664244e-45,1.3001993078933016,6.85,200.0,,,,,,,,,,,,
+,,,,23.0,9.0,percent,1.0,['Marilu Henner'],['Terra Jole'],['Terra Jole'],['Vanilla Ice'],['Babyface'],True,False,True
+3.387459268816552e-45,1.3049542340970723,6.8606965174129355,201.0,,,,,,,,,,,,
+,,,,23.0,10.0,percent,1.0,['Terra Jole'],['Terra Jole'],['Jana Kramer'],['Vanilla Ice'],['Babyface'],True,True,True
+1.2952216551786733e-45,1.3096926514671323,6.871287128712871,202.0,,,,,,,,,,,,
+,,,,23.0,11.0,percent,3.0,"['Calvin Johnson Jr.', 'James Hinchcliffe', 'Jana Kramer']","['Vanilla Ice', 'Jana Kramer', 'Terra Jole']","['Vanilla Ice', 'Jana Kramer', 'Terra Jole']","['Babyface', 'Vanilla Ice', 'Terra Jole']","['Babyface', 'Vanilla Ice', 'Terra Jole']",True,False,False
+6.233560573045257e-46,1.3120368707813708,6.8669950738916254,203.0,,,,,,,,,,,,
+,,,,24.0,2.0,percent,1.0,['Chris Kattan'],['Chris Kattan'],['Chris Kattan'],['Chris Kattan'],['Mr. T'],False,False,True
+8.88963544392303e-46,1.3033184836212979,6.833333333333333,204.0,,,,,,,,,,,,
+,,,,24.0,3.0,percent,1.0,['Charo'],['Nick Viall'],['Nick Viall'],['Chris Kattan'],['Chris Kattan'],True,False,False
+3.319596170339974e-46,1.3082333994967763,6.8585365853658535,205.0,,,,,,,,,,,,
+,,,,24.0,4.0,percent,1.0,['Mr. T'],['Nick Viall'],['Normani'],['Chris Kattan'],['Charo'],True,True,True
+1.2364392248023718e-46,1.3131314591407524,6.883495145631068,206.0,,,,,,,,,,,,
+,,,,24.0,5.0,percent,1.0,['Erika Jayne'],['Nick Viall'],['Nick Viall'],['Chris Kattan'],['Mr. T'],True,False,True
+4.593600843265828e-47,1.318012808375188,6.908212560386473,207.0,,,,,,,,,,,,
+,,,,24.0,6.0,percent,1.0,['Heather Morris'],['Nick Viall'],['Nick Viall'],['Erika Jayne'],['Chris Kattan'],True,False,True
+1.6918030383757102e-47,1.322939369927627,6.923076923076923,208.0,,,,,,,,,,,,
+,,,,24.0,7.0,percent,2.0,"['Nancy Kerrigan', 'Nick Viall']","['Normani', 'Nick Viall']","['Normani', 'Nick Viall']","['Chris Kattan', 'Erika Jayne']","['Chris Kattan', 'Erika Jayne']",True,False,False
+7.511731022856604e-48,1.3259621503411285,6.961722488038277,209.0,,,,,,,,,,,,
+,,,,24.0,8.0,percent,1.0,['Bonner Bolton'],['Nick Viall'],['Nick Viall'],['Nick Viall'],['Erika Jayne'],False,False,True
+1.083795035251831e-47,1.3172872264300852,6.928571428571429,210.0,,,,,,,,,,,,
+,,,,24.0,9.0,percent,1.0,['Simone Biles'],['Nick Viall'],['Nick Viall'],['Nick Viall'],['Erika Jayne'],False,False,True
+1.5525399176871508e-47,1.3087806118072127,6.895734597156398,211.0,,,,,,,,,,,,
+,,,,24.0,10.0,percent,2.0,"['David Ross', 'Normani']","['Normani', 'Nick Viall']","['Normani', 'Nick Viall']","['Erika Jayne', 'Nick Viall']","['Erika Jayne', 'Nick Viall']",True,False,False
+7.495455874093631e-48,1.3109994428854022,6.8915094339622645,212.0,,,,,,,,,,,,
+,,,,25.0,2.0,percent,2.0,"['Barbara Corcoran', 'Debbie Gibson']","['Drew Scott', 'Debbie Gibson']","['Drew Scott', 'Debbie Gibson']","['Debbie Gibson', 'Barbara Corcoran']","['Debbie Gibson', 'Barbara Corcoran']",True,False,False
+3.612521307931426e-48,1.3132152146904783,6.887323943661972,213.0,,,,,,,,,,,,
+,,,,25.0,4.0,percent,1.0,['Derek Fisher'],['Vanessa Lachey'],['Drew Scott'],['Debbie Gibson'],['Barbara Corcoran'],True,True,True
+1.3224590510697119e-48,1.3180804608791057,6.906542056074766,214.0,,,,,,,,,,,,
+,,,,25.0,5.0,percent,1.0,['Sasha Pieterse'],['Vanessa Lachey'],['Vanessa Lachey'],['Debbie Gibson'],['Barbara Corcoran'],True,False,True
+4.829982534843167e-49,1.3229279036456558,6.925581395348837,215.0,,,,,,,,,,,,
+,,,,25.0,6.0,percent,1.0,['Nick Lachey'],['Vanessa Lachey'],['Drew Scott'],['Debbie Gibson'],['Barbara Corcoran'],True,True,True
+1.759968964099874e-49,1.3277577366508237,6.944444444444445,216.0,,,,,,,,,,,,
+,,,,25.0,7.0,percent,2.0,"['Nikki Bella', 'Vanessa Lachey']","['Drew Scott', 'Vanessa Lachey']","['Drew Scott', 'Vanessa Lachey']","['Debbie Gibson', 'Nick Lachey']","['Debbie Gibson', 'Nick Lachey']",True,False,False
+6.453215747067943e-50,1.332488093945011,6.95852534562212,217.0,,,,,,,,,,,,
+,,,,25.0,8.0,percent,1.0,['Terrell Owens'],['Vanessa Lachey'],['Vanessa Lachey'],['Vanessa Lachey'],['Nick Lachey'],False,False,True
+9.363533404106942e-50,1.324036725190233,6.926605504587156,218.0,,,,,,,,,,,,
+,,,,25.0,9.0,percent,1.0,['Victoria Arlen'],['Vanessa Lachey'],['Vanessa Lachey'],['Vanessa Lachey'],['Nick Lachey'],False,False,True
+1.3490991690818193e-49,1.3157443740729327,6.894977168949771,219.0,,,,,,,,,,,,
+,,,,25.0,10.0,percent,3.0,"['Frankie Muniz', 'Lindsey Stirling', 'Drew Scott']","['Nick Lachey', 'Drew Scott', 'Vanessa Lachey']","['Nick Lachey', 'Drew Scott', 'Vanessa Lachey']","['Debbie Gibson', 'Nick Lachey', 'Vanessa Lachey']","['Debbie Gibson', 'Nick Lachey', 'Vanessa Lachey']",True,False,False
+6.48699986000236e-50,1.3178928469506759,6.890909090909091,220.0,,,,,,,,,,,,
+,,,,26.0,1.0,percent,2.0,"['Jamie Anderson', 'Johnny Damon']","['Johnny Damon', 'Jamie Anderson']","['Johnny Damon', 'Jamie Anderson']","['Jamie Anderson', 'Johnny Damon']","['Jamie Anderson', 'Johnny Damon']",False,False,False
+9.299440304019161e-50,1.3097613410775055,6.85972850678733,221.0,,,,,,,,,,,,
+,,,,26.0,2.0,percent,2.0,"['Kareem Abdul-Jabbar', 'Arike Ogunbowale']","['Josh Norman', 'Adam Rippon']","['Josh Norman', 'Adam Rippon']","['Jamie Anderson', 'Johnny Damon']","['Jamie Anderson', 'Johnny Damon']",True,False,False
+4.472171465063377e-50,1.3119136155021682,6.8558558558558556,222.0,,,,,,,,,,,,
+,,,,26.0,3.0,percent,3.0,"['Jennie Finch Daigle', 'Chris Mazdzer', 'Mirai Nagasu']","['Tonya Harding', 'Josh Norman', 'Adam Rippon']","['Tonya Harding', 'Josh Norman', 'Adam Rippon']","['Johnny Damon', 'Kareem Abdul-Jabbar', 'Arike Ogunbowale']","['Johnny Damon', 'Kareem Abdul-Jabbar', 'Arike Ogunbowale']",True,False,False
+2.2291075959818887e-50,1.3137143436965373,6.896860986547085,223.0,,,,,,,,,,,,
+,,,,26.0,4.0,percent,2.0,"['Tonya Harding', 'Josh Norman']","['Josh Norman', 'Adam Rippon']","['Josh Norman', 'Adam Rippon']","['Chris Mazdzer', 'Mirai Nagasu']","['Chris Mazdzer', 'Mirai Nagasu']",True,False,False
+8.591445030250786e-51,1.3178838666566692,6.924107142857143,224.0,,,,,,,,,,,,
+,,,,27.0,1.0,percent,1.0,['Nikki Glaser'],['Nikki Glaser'],['Nikki Glaser'],['Nikki Glaser'],['Joe Amabile'],False,False,True
+1.2317245517246854e-50,1.309896542575627,6.8933333333333335,225.0,,,,,,,,,,,,
+,,,,27.0,2.0,percent,1.0,['Danelle Umstead'],['Joe Amabile'],['Joe Amabile'],['Nikki Glaser'],['Nikki Glaser'],True,False,False
+4.5575984443916006e-51,1.3144175376225746,6.907079646017699,226.0,,,,,,,,,,,,
+,,,,27.0,3.0,percent,1.0,['Nancy McKeon'],['Joe Amabile'],['Joe Amabile'],['Nikki Glaser'],['Danelle Umstead'],True,False,True
+1.682642781661578e-51,1.3189233537012521,6.920704845814978,227.0,,,,,,,,,,,,
+,,,,27.0,4.0,percent,1.0,['Tinashe'],['Joe Amabile'],['Joe Amabile'],['Nikki Glaser'],['Danelle Umstead'],True,False,True
+6.198484851922188e-52,1.323414140543429,6.934210526315789,228.0,,,,,,,,,,,,
+,,,,27.0,6.0,percent,1.0,['Mary Lou Retton'],['Joe Amabile'],['Joe Amabile'],['Tinashe'],['Nikki Glaser'],True,False,True
+2.2585245102143846e-52,1.3279695102704976,6.951965065502184,229.0,,,,,,,,,,,,
+,,,,27.0,7.0,percent,2.0,"['John Schneider', 'DeMarcus Ware']","['Alexis Ren', 'Joe Amabile']","['Alexis Ren', 'Joe Amabile']","['Nikki Glaser', 'Tinashe']","['Nikki Glaser', 'Tinashe']",True,False,False
+8.651682459810272e-53,1.3320362882903718,6.978260869565218,230.0,,,,,,,,,,,,
+,,,,27.0,8.0,percent,2.0,"['Juan Pablo Di Pace', 'Joe Amabile']","['Alexis Ren', 'Joe Amabile']","['Alexis Ren', 'Joe Amabile']","['Nikki Glaser', 'Tinashe']","['Nikki Glaser', 'Tinashe']",True,False,False
+3.3051242932728505e-53,1.3360961388634134,7.004329004329004,231.0,,,,,,,,,,,,
+,,,,27.0,9.0,percent,3.0,"['Evanna Lynch', 'Milo Manheim', 'Alexis Ren']","['Tinashe', 'Alexis Ren', 'Joe Amabile']","['Tinashe', 'Alexis Ren', 'Joe Amabile']","['Nikki Glaser', 'Tinashe', 'Joe Amabile']","['Nikki Glaser', 'Tinashe', 'Joe Amabile']",True,False,False
+1.5877586627737417e-53,1.338063685261137,7.0,232.0,,,,,,,,,,,,
+,,,,28.0,2.0,rank,2.0,"['Ray Lewis', 'Mary Wilson']","['Mary Wilson', 'Ray Lewis']","['Mary Wilson', 'Ray Lewis']","['Mary Wilson', 'Ray Lewis']","['Mary Wilson', 'Ray Lewis']",False,False,False
+2.315453697553313e-53,1.3300790768046609,6.969957081545064,233.0,,,,,,,,,,,,
+,,,,28.0,4.0,rank,1.0,['Lamar Odom'],['Hannah Brown'],['Karamo Brown'],['Mary Wilson'],['Ray Lewis'],True,True,True
+8.487533835342224e-54,1.334461790433068,6.982905982905983,234.0,,,,,,,,,,,,
+,,,,28.0,6.0,rank,1.0,['Sailor Brinkley-Cook'],['Hannah Brown'],['Hannah Brown'],['Mary Wilson'],['Lamar Odom'],True,False,True
+3.104511440756384e-54,1.3388304466850192,6.995744680851064,235.0,,,,,,,,,,,,
+,,,,28.0,7.0,rank,1.0,['Karamo Brown'],['Hannah Brown'],['Karamo Brown'],['Mary Wilson'],['Sailor Brinkley-Cook'],True,True,True
+1.1331186522361108e-54,1.3431851780879203,7.008474576271187,236.0,,,,,,,,,,,,
+,,,,28.0,8.0,rank,1.0,['Kate Flannery'],['Hannah Brown'],['Karamo Brown'],['Karamo Brown'],['Mary Wilson'],True,True,True
+7.169827727399254e-55,1.3426566361067074,6.9957805907173,237.0,,,,,,,,,,,,
+,,,,28.0,9.0,rank,1.0,['Sean Spicer'],['Hannah Brown'],['Karamo Brown'],['Karamo Brown'],['Mary Wilson'],True,True,True
+4.532115617860933e-55,1.342141585810681,6.983193277310924,238.0,,,,,,,,,,,,
+,,,,28.0,10.0,rank,1.0,['James Van Der Beek'],['Hannah Brown'],['Karamo Brown'],['Karamo Brown'],['Mary Wilson'],True,True,True
+2.861897653599894e-55,1.3416398144657227,6.97071129707113,239.0,,,,,,,,,,,,
+,,,,28.0,11.0,rank,3.0,"['Kel Mitchell', 'Lauren Alaina', 'Ally Brooke']","['Ally Brooke', 'Karamo Brown', 'Hannah Brown']","['Ally Brooke', 'Karamo Brown', 'Hannah Brown']","['Sean Spicer', 'Mary Wilson', 'Karamo Brown']","['Sean Spicer', 'Mary Wilson', 'Karamo Brown']",True,False,False
+1.034074871830944e-55,1.3460010108438547,6.9875,240.0,,,,,,,,,,,,
+,,,,29.0,2.0,rank,1.0,['Charles Oakley'],['Charles Oakley'],['Charles Oakley'],['Charles Oakley'],['Skai Jackson'],False,False,True
+1.5184872795844367e-55,1.3381758139661513,6.95850622406639,241.0,,,,,,,,,,,,
+,,,,29.0,3.0,rank,1.0,['Carole Baskin'],['Jeannie Mai'],['Monica Aldama'],['Charles Oakley'],['Charles Oakley'],True,True,False
+5.584201144553006e-56,1.34236011017229,6.979338842975206,242.0,,,,,,,,,,,,
+,,,,29.0,4.0,rank,1.0,['Anne Heche'],['Jeannie Mai'],['Jeannie Mai'],['Carole Baskin'],['Charles Oakley'],True,False,True
+2.0992078100929e-56,1.3463247773327365,6.987654320987654,243.0,,,,,,,,,,,,
+,,,,29.0,5.0,rank,1.0,['Jesse Metcalfe'],['Jeannie Mai'],['Jeannie Mai'],['Carole Baskin'],['Charles Oakley'],True,False,True
+7.874901604590899e-57,1.3502782703851597,6.995901639344262,244.0,,,,,,,,,,,,
+,,,,29.0,6.0,rank,1.0,['Veron Davis'],['Jeannie Mai'],['Jeannie Mai'],['Carole Baskin'],['Charles Oakley'],True,False,True
+2.9480440792810224e-57,1.3542206807362855,7.004081632653061,245.0,,,,,,,,,,,,
+,,,,29.0,7.0,rank,2.0,"['Monica Aldama', 'Jeannie Mai']","['Monica Aldama', 'Jeannie Mai']","['Monica Aldama', 'Jeannie Mai']","['Veron Davis', 'Carole Baskin']","['Veron Davis', 'Carole Baskin']",True,False,False
+1.1969125874194159e-57,1.3574433896957665,7.032520325203252,246.0,,,,,,,,,,,,
+,,,,29.0,8.0,rank,1.0,['Chrishell Stause'],['Jeannie Mai'],['Monica Aldama'],['Jeannie Mai'],['Monica Aldama'],False,True,True
+1.7752531437094339e-57,1.349658501983318,7.004048582995951,247.0,,,,,,,,,,,,
+,,,,29.0,9.0,rank,1.0,['AJ McLean'],['Jeannie Mai'],['Monica Aldama'],['Jeannie Mai'],['Monica Aldama'],False,True,True
+2.615423515341924e-57,1.3420061956097025,6.975806451612903,248.0,,,,,,,,,,,,
+,,,,29.0,10.0,rank,2.0,"['Skai Jackson', 'Johnny Weir']","['Monica Aldama', 'Jeannie Mai']","['Monica Aldama', 'Jeannie Mai']","['Monica Aldama', 'Jeannie Mai']","['Monica Aldama', 'Jeannie Mai']",False,False,False
+3.8281138959067043e-57,1.3344827485547404,6.947791164658635,249.0,,,,,,,,,,,,
+,,,,29.0,11.0,rank,3.0,"['Justina Machado', 'Nev Schulman', 'Nelly']","['Carole Baskin', 'Monica Aldama', 'Jeannie Mai']","['Carole Baskin', 'Monica Aldama', 'Jeannie Mai']","['Carole Baskin', 'Monica Aldama', 'Jeannie Mai']","['Carole Baskin', 'Monica Aldama', 'Jeannie Mai']",False,False,False
+5.56753794847457e-57,1.327084583464679,6.92,250.0,,,,,,,,,,,,
+,,,,30.0,2.0,rank,1.0,['Martin Kove'],['Martin Kove'],['Martin Kove'],['Martin Kove'],['Martin Kove'],False,False,False
+8.047273768033629e-57,1.3198082605023311,6.892430278884462,251.0,,,,,,,,,,,,
+,,,,30.0,3.0,rank,1.0,['Christine Chiu'],['Amanda Kloots'],['Kenya Moore'],['Martin Kove'],['Martin Kove'],True,True,False
+2.9616357062525793e-57,1.3238777971057045,6.904761904761905,252.0,,,,,,,,,,,,
+,,,,30.0,4.0,rank,2.0,"['Brian Austin Green', 'Matt James']","['Kenya Moore', 'Amanda Kloots']","['Kenya Moore', 'Amanda Kloots']","['Martin Kove', 'Christine Chiu']","['Martin Kove', 'Christine Chiu']",True,False,False
+1.0877973567070377e-57,1.3279350936802412,6.91699604743083,253.0,,,,,,,,,,,,
+,,,,30.0,5.0,rank,1.0,['Melanie C'],['Amanda Kloots'],['Kenya Moore'],['Christine Chiu'],['Matt James'],True,True,True
+4.181878543740948e-58,1.331589879442979,6.940944881889764,254.0,,,,,,,,,,,,
+,,,,30.0,6.0,rank,1.0,['Kenya Moore'],['Amanda Kloots'],['Kenya Moore'],['Christine Chiu'],['Melanie C'],True,True,True
+1.6036115226887824e-58,1.3352395068638534,6.964705882352941,255.0,,,,,,,,,,,,
+,,,,30.0,7.0,rank,1.0,"['Mike ""The Miz"" Mizanin']",['Amanda Kloots'],['Kenya Moore'],['Kenya Moore'],['Christine Chiu'],True,True,True
+5.861676597384505e-59,1.3392539780075616,6.9765625,256.0,,,,,,,,,,,,
+,,,,30.0,8.0,rank,2.0,"['Jimmie Allen', 'Olivia Jade']","['Kenya Moore', 'Amanda Kloots']","['Kenya Moore', 'Amanda Kloots']","['Christine Chiu', 'Kenya Moore']","['Christine Chiu', 'Kenya Moore']",True,False,False
+2.3349655548741323e-59,1.3425421374498883,6.980544747081712,257.0,,,,,,,,,,,,
+,,,,30.0,9.0,rank,2.0,"['Melora Hardin', 'Suni Lee']","['Kenya Moore', 'Amanda Kloots']","['Kenya Moore', 'Amanda Kloots']","['Christine Chiu', 'Kenya Moore']","['Christine Chiu', 'Kenya Moore']",True,False,False
+9.283613876941938e-60,1.3458225173589058,6.984496124031008,258.0,,,,,,,,,,,,
+,,,,30.0,10.0,rank,3.0,"['Cody Rigsby', 'JoJo Siwa', 'Amanda Kloots']","['Christine Chiu', 'Kenya Moore', 'Amanda Kloots']","['Christine Chiu', 'Kenya Moore', 'Amanda Kloots']","['Olivia Jade', 'Christine Chiu', 'Kenya Moore']","['Olivia Jade', 'Christine Chiu', 'Kenya Moore']",True,False,False
+5.032626018651448e-60,1.3465775068740302,6.976833976833976,259.0,,,,,,,,,,,,
+,,,,31.0,1.0,rank,1.0,['Jason Lewis'],['Jason Lewis'],['Jason Lewis'],['Jason Lewis'],['Vinny Guadagnino'],False,False,True
+7.396389700637812e-60,1.3393152611748034,6.95,260.0,,,,,,,,,,,,
+,,,,31.0,2.0,rank,1.0,['Teresa Giudice'],['Gabby Windey'],['Shangela'],['Jason Lewis'],['Jason Lewis'],True,True,False
+2.696311008944831e-60,1.3432625029122858,6.961685823754789,261.0,,,,,,,,,,,,
+,,,,31.0,3.0,rank,1.0,['Cheryl Ladd'],['Gabby Windey'],['Shangela'],['Teresa Giudice'],['Jason Lewis'],True,True,True
+1.0122915436031584e-60,1.346948150211254,6.969465648854962,262.0,,,,,,,,,,,,
+,,,,31.0,4.0,rank,1.0,['Sam Champion'],['Gabby Windey'],['Shangela'],['Teresa Giudice'],['Cheryl Ladd'],True,True,True
+3.7931641390809e-61,1.3506241380615942,6.977186311787072,263.0,,,,,,,,,,,,
+,,,,31.0,5.0,rank,2.0,"['Selma Blair', 'Joseph Baena']","['Shangela', 'Gabby Windey']","['Shangela', 'Gabby Windey']","['Sam Champion', 'Teresa Giudice']","['Sam Champion', 'Teresa Giudice']",True,False,False
+1.5455796498477116e-61,1.3536107763064975,7.003787878787879,264.0,,,,,,,,,,,,
+,,,,31.0,6.0,rank,1.0,['Jessie James Decker'],['Gabby Windey'],['Shangela'],['Teresa Giudice'],['Sam Champion'],True,True,True
+5.777907272263252e-62,1.3572578033649385,7.011320754716981,265.0,,,,,,,,,,,,
+,,,,31.0,7.0,rank,1.0,['Jordin Sparks'],['Gabby Windey'],['Gabby Windey'],['Teresa Giudice'],['Jessie James Decker'],True,False,True
+2.155857941916502e-62,1.360895438097039,7.018796992481203,266.0,,,,,,,,,,,,
+,,,,31.0,8.0,rank,2.0,"[""Heidi D'Amelio"", 'Vinny Guadagnino']","['Shangela', 'Gabby Windey']","['Shangela', 'Gabby Windey']","['Jordin Sparks', 'Teresa Giudice']","['Jordin Sparks', 'Teresa Giudice']",True,False,False
+9.568403413435277e-63,1.3631451278784388,7.048689138576779,267.0,,,,,,,,,,,,
+,,,,31.0,9.0,rank,2.0,"['Trevor Donovan', 'Daniel Durant']","['Shangela', 'Gabby Windey']","['Shangela', 'Gabby Windey']","['Teresa Giudice', 'Vinny Guadagnino']","['Teresa Giudice', 'Vinny Guadagnino']",True,False,False
+3.479675351045543e-63,1.366939585801912,7.067164179104478,268.0,,,,,,,,,,,,
+,,,,31.0,10.0,rank,3.0,"['Wayne Brady', 'Shangela', 'Gabby Windey']","['Vinny Guadagnino', 'Shangela', 'Gabby Windey']","['Vinny Guadagnino', 'Shangela', 'Gabby Windey']","[""Heidi D'Amelio"", 'Teresa Giudice', 'Vinny Guadagnino']","[""Heidi D'Amelio"", 'Teresa Giudice', 'Vinny Guadagnino']",True,False,False
+1.315126414652234e-63,1.3704081939962438,7.089219330855019,269.0,,,,,,,,,,,,
+,,,,32.0,1.0,rank,1.0,['Matt Walsh'],['Matt Walsh'],['Matt Walsh'],['Matt Walsh'],['Harry Jowsey'],False,False,True
+1.9736967207370795e-63,1.3631273847606749,7.062962962962963,270.0,,,,,,,,,,,,
+,,,,32.0,2.0,rank,1.0,['Jamie Lynn Spears'],['Ariana Madix'],['Ariana Madix'],['Matt Walsh'],['Matt Walsh'],True,False,False
+7.060948916710236e-64,1.3670069585458253,7.077490774907749,271.0,,,,,,,,,,,,
+,,,,32.0,3.0,rank,1.0,['Tyson Beckford'],['Ariana Madix'],['Charity Lawson'],['Matt Walsh'],['Jamie Lynn Spears'],True,True,True
+2.5214352974806556e-64,1.370875598690959,7.091911764705882,272.0,,,,,,,,,,,,
+,,,,32.0,4.0,rank,1.0,['Adrian Peterson'],['Ariana Madix'],['Charity Lawson'],['Tyson Beckford'],['Matt Walsh'],True,True,True
+1.013583822529611e-64,1.3738071310030524,7.117216117216117,273.0,,,,,,,,,,,,
+,,,,32.0,5.0,rank,1.0,['Mira Sorvino'],['Ariana Madix'],['Ariana Madix'],['Tyson Beckford'],['Matt Walsh'],True,False,True
+4.061180135609678e-65,1.3767443378947892,7.142335766423358,274.0,,,,,,,,,,,,
+,,,,32.0,6.0,rank,1.0,['Mauricio Umansky'],['Ariana Madix'],['Charity Lawson'],['Tyson Beckford'],['Matt Walsh'],True,True,True
+1.6219833827228135e-65,1.3796868288372393,7.167272727272727,275.0,,,,,,,,,,,,
+,,,,32.0,7.0,rank,1.0,['Lele Pons'],['Ariana Madix'],['Charity Lawson'],['Mauricio Umansky'],['Tyson Beckford'],True,True,True
+5.756409306190918e-66,1.3835116377335126,7.181159420289855,276.0,,,,,,,,,,,,
+,,,,32.0,8.0,rank,1.0,['Barry Williams'],['Ariana Madix'],['Charity Lawson'],['Mauricio Umansky'],['Lele Pons'],True,True,True
+2.039265058607843e-66,1.387325938463266,7.194945848375451,277.0,,,,,,,,,,,,
+,,,,32.0,9.0,rank,1.0,['Harry Jowsey'],['Ariana Madix'],['Ariana Madix'],['Mauricio Umansky'],['Lele Pons'],True,False,True
+7.211327634459759e-67,1.3911298170544404,7.2086330935251794,278.0,,,,,,,,,,,,
+,,,,32.0,11.0,rank,4.0,"['Alyson Hannigan', 'Jason Mraz', 'Charity Lawson', 'Ariana Madix']","['Harry Jowsey', 'Mauricio Umansky', 'Charity Lawson', 'Ariana Madix']","['Harry Jowsey', 'Mauricio Umansky', 'Charity Lawson', 'Ariana Madix']","['Tyson Beckford', 'Lele Pons', 'Harry Jowsey', 'Mauricio Umansky']","['Tyson Beckford', 'Lele Pons', 'Harry Jowsey', 'Mauricio Umansky']",True,False,False
+2.5719869491742296e-67,1.3948450664967007,7.218637992831542,279.0,,,,,,,,,,,,
+,,,,33.0,2.0,rank,2.0,"['Tori Spelling', 'Anna Delvey']","['Anna Delvey', 'Tori Spelling']","['Anna Delvey', 'Tori Spelling']","['Anna Delvey', 'Tori Spelling']","['Anna Delvey', 'Tori Spelling']",False,False,False
+3.946203103435885e-67,1.3875313896447252,7.192857142857143,280.0,,,,,,,,,,,,
+,,,,33.0,3.0,rank,2.0,"['Eric Roberts', 'Reginald VelJohnson']","['Jenn Tran', 'Joey Graziadei']","['Jenn Tran', 'Joey Graziadei']","['Tori Spelling', 'Anna Delvey']","['Tori Spelling', 'Anna Delvey']",True,False,False
+1.3953922014985962e-67,1.391294635900349,7.2064056939501775,281.0,,,,,,,,,,,,
+,,,,33.0,4.0,rank,1.0,['Brooks Nader'],['Joey Graziadei'],['Jenn Tran'],['Anna Delvey'],['Reginald VelJohnson'],True,True,True
+4.996624950266084e-68,1.3949402264445434,7.223404255319149,282.0,,,,,,,,,,,,
+,,,,33.0,5.0,rank,1.0,['Phaedra Parks'],['Joey Graziadei'],['Jenn Tran'],['Brooks Nader'],['Anna Delvey'],True,True,True
+1.8427461203018524e-68,1.3983427840296878,7.229681978798586,283.0,,,,,,,,,,,,
+,,,,33.0,6.0,rank,1.0,['Jenn Tran'],['Joey Graziadei'],['Jenn Tran'],['Phaedra Parks'],['Brooks Nader'],True,True,True
+6.549917019741802e-69,1.401998967531427,7.23943661971831,284.0,,,,,,,,,,,,
+,,,,33.0,7.0,rank,1.0,['Dwight Howard\xa0'],['Joey Graziadei'],['Jenn Tran'],['Jenn Tran'],['Phaedra Parks'],True,True,True
+2.556264022758434e-69,1.4049378770562262,7.242105263157895,285.0,,,,,,,,,,,,
+,,,,33.0,9.0,rank,4.0,"['Chandler Kinney', 'Danny Amendola', 'Stephen Nedoroscik', 'Ilona Maher']","['Brooks Nader', 'Phaedra Parks', 'Jenn Tran', 'Joey Graziadei']","['Brooks Nader', 'Phaedra Parks', 'Jenn Tran', 'Joey Graziadei']","['Anna Delvey', 'Brooks Nader', 'Phaedra Parks', 'Jenn Tran']","['Anna Delvey', 'Brooks Nader', 'Phaedra Parks', 'Jenn Tran']",True,False,False
+1.0845729405963487e-69,1.4072392289884121,7.241258741258742,286.0,,,,,,,,,,,,
+,,,,34.0,2.0,rank,2.0,"['Corey Feldman', 'Baron Davis']","['Baron Davis', 'Corey Feldman']","['Baron Davis', 'Corey Feldman']","['Corey Feldman', 'Baron Davis']","['Corey Feldman', 'Baron Davis']",False,False,False
+1.6832929516109057e-69,1.3999555539847304,7.2160278745644595,287.0,,,,,,,,,,,,
+,,,,34.0,3.0,rank,1.0,['Lauren Jauregui'],['Dylan Efron'],['Dylan Efron'],['Baron Davis'],['Corey Feldman'],True,False,True
+6.566124276980688e-70,1.4028733877870077,7.21875,288.0,,,,,,,,,,,,
+,,,,34.0,4.0,rank,1.0,['Hilaria Baldwin'],['Dylan Efron'],['Dylan Efron'],['Lauren Jauregui'],['Baron Davis'],True,False,True
+2.3418985792992907e-70,1.4064294822763064,7.235294117647059,289.0,,,,,,,,,,,,
+,,,,34.0,6.0,rank,1.0,['Scott Hoying'],['Dylan Efron'],['Dylan Efron'],['Lauren Jauregui'],['Hilaria Baldwin'],True,False,True
+8.337556609958617e-71,1.4099773217792482,7.251724137931035,290.0,,,,,,,,,,,,
+,,,,34.0,7.0,rank,1.0,['Jen Affleck'],['Dylan Efron'],['Dylan Efron'],['Scott Hoying'],['Lauren Jauregui'],True,False,True
+2.9629515206701897e-71,1.4135169551327385,7.268041237113402,291.0,,,,,,,,,,,,
+,,,,34.0,8.0,rank,1.0,['Danielle Fishel'],['Dylan Efron'],['Dylan Efron'],['Jen Affleck'],['Scott Hoying'],True,False,True
+1.0351067239518276e-71,1.4171597048400129,7.280821917808219,292.0,,,,,,,,,,,,
+,,,,34.0,9.0,rank,1.0,['Andy Richter'],['Dylan Efron'],['Whitney Leavitt'],['Jen Affleck'],['Scott Hoying'],True,True,True
+3.6099809985204356e-72,1.4207931469784787,7.293515358361775,293.0,,,,,,,,,,,,
+,,,,34.0,10.0,rank,1.0,['Whitney Leavitt'],['Dylan Efron'],['Dylan Efron'],['Jen Affleck'],['Scott Hoying'],True,False,True
+1.2568585580415423e-72,1.4244173524288166,7.3061224489795915,294.0,,,,,,,,,,,,
+,,,,34.0,11.0,rank,4.0,"['Elaine Hendrix', 'Jordan Chiles', 'Alix Earle', 'Dylan Efron']","['Alix Earle', 'Jen Affleck', 'Whitney Leavitt', 'Dylan Efron']","['Alix Earle', 'Jen Affleck', 'Whitney Leavitt', 'Dylan Efron']","['Lauren Jauregui', 'Scott Hoying', 'Jen Affleck', 'Whitney Leavitt']","['Lauren Jauregui', 'Scott Hoying', 'Jen Affleck', 'Whitney Leavitt']",True,False,False
