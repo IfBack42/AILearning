@@ -1,0 +1,114 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.suo
+*.user
+*.swp
+*.swn
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and runtime files
+*.log
+logs/
+*.pid
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.crt
+
+# Python build/package outputs
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Playwright / browser automation outputs
+trace.zip
+test-results/
+playwright-report/
+blob-report/
+
+# Machine learning model artifacts
+*.pkl
+*.joblib
+*.model
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+
+# Large datasets and course datasets
+**/data/
+**/dataset/
+**/datasets/
+**/VOCdevkit/
+**/flower_datas/
+**/wheatData/
+
+# Generated analysis outputs
+output/
+outputs/
+result/
+results/
+reports/
+figures/
+charts/
+
+# Common generated data/result files
+output.*
+result.*
+*_output.*
+*_result.*
+*_summary.*
+topic_probability*
+perplexity_results.*
+
+# Compressed archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Keep documentation and small examples trackable
+!README.md
+!**/README.md
+!**/sample_data/
+!**/sample_data/**
+!**/examples/
+!**/examples/**
