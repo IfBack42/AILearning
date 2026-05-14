@@ -1,0 +1,19 @@
+# 自动处理文本文件的换行符
+* text=auto
+
+# 明确指定某些文件使用 LF
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# 二进制文件不处理换行符
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pt binary
+*.pkl binary
+*.zip binary
