@@ -1,0 +1,4 @@
+Codex GitHub MCP upload test
+
+This file was created via GitHub MCP on 2026-05-14.
+Purpose: verify that GitHub MCP write access works for IfBack42/AILearning.
