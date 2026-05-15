@@ -166,50 +166,6 @@
 
 这个目录的核心意义是练习“项目化思维”：不是只写一个语法点，而是围绕一个问题完成数据收集、清洗、分析、建模和结果展示。
 
-## 如何运行代码
-
-本仓库主要是学习代码，不是一个单一应用，因此不同文件的运行方式可能不同。
-
-常见运行方式如下：
-
-```bash
-python 文件名.py
-```
-
-例如：
-
-```bash
-python Python_study/初级编程阶段/学生管理系统.py
-```
-
-如果是 Jupyter Notebook 文件，可以使用：
-
-```bash
-jupyter notebook
-```
-
-如果涉及机器学习、深度学习、爬虫或数据分析，可能需要先安装依赖，例如：
-
-```bash
-pip install pandas numpy matplotlib scikit-learn jieba playwright flask torch
-```
-
-Playwright 第一次使用时通常还需要安装浏览器：
-
-```bash
-playwright install
-```
-
-## 建议的 GitHub 上传整理
-
-如果这个仓库要作为正式 GitHub 项目展示，建议后续逐步整理：
-
-- 添加 `.gitignore`，忽略 `.venv/`、`.idea/`、`__pycache__/`、大型数据集和临时输出文件。
-- 把学习代码、数据集、模型文件分开存放，例如 `src/`、`data/`、`models/`、`notebooks/`。
-- 对重要脚本添加文件开头注释，说明这个文件练习了什么。
-- 对比较完整的小项目单独写子 README，例如 Playwright 抓取项目、LDA 主题分析项目、机器学习红酒分类项目。
-- 如果模型文件或数据集很大，不建议直接传到 GitHub，可以使用网盘、Git LFS 或只保留小样例数据。
-
 ## 当前学习收获
 
 通过这个仓库，我已经从 Python 基础语法逐步进入人工智能方向的核心内容。前期重点是把编程基础打牢，中期开始学习数据处理、爬虫和数据库，后期逐渐接触机器学习、深度学习和真实项目实践。
