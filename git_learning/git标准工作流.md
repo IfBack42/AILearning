@@ -194,6 +194,7 @@ git checkout main
 ## 拉取最新 main
 
 ```bash id="16jlwmr"
+git fetch -p
 git pull origin main
 ```
 
