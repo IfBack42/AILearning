@@ -2,142 +2,142 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
+"""
+==============================================
+第 4 章：傅里叶变换与频域滤波
+==============================================
 
-# ----------------------------------------------
-# 1. 显示原图及其频谱（让你看看频率域长什么样）
-# ----------------------------------------------
-def show_spectrum(image_path):
-    # 读图并转为灰度
-    img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
-    if img is None:
-        print("图片路径错误，请检查")
-        return
+这一章解决的问题：
+    除了直接看像素，我们还能不能从“频率”的角度理解图像？
 
-    # 傅里叶变换
-    f = np.fft.fft2(img)  # 二维FFT
-    fshift = np.fft.fftshift(f)  # 低频移到中心
-    magnitude = np.log(1 + np.abs(fshift))  # 取幅度并压缩显示范围
+空间域：
+    直接处理像素位置 (x, y) 上的灰度值。
+    例如：滤波、锐化、边缘检测。
 
-    # 画图
-    plt.figure(figsize=(10, 5))
-    plt.subplot(121), plt.imshow(img, cmap='gray'), plt.title('Original Image')
-    plt.subplot(122), plt.imshow(magnitude, cmap='gray'), plt.title('Frequency Spectrum (center = low freq)')
+频域：
+    把图像拆成很多不同频率的成分。
+    低频通常对应图像的整体亮度和大轮廓；
+    高频通常对应边缘、纹理、细节和噪声。
+
+傅里叶变换的直观理解：
+    一张图像可以看成很多“明暗波纹”的叠加。
+    傅里叶变换就是把图像从“像素视角”转换到“频率视角”。
+
+常见结论：
+    1. 低频在频谱中心，代表整体结构。
+    2. 高频在频谱外围，代表边缘和细节。
+    3. 低通滤波会让图像变模糊。
+    4. 高通滤波会突出边缘、纹理，也可能突出噪声。
+
+工程意义：
+    1. 理解 JPEG 压缩、DCT、频率成分。
+    2. 去除周期性噪声。
+    3. 从频域角度理解模糊、锐化和边缘。
+==============================================
+"""
+
+
+def show_images(images, titles):
+    """并排显示多张灰度图。"""
+    plt.figure(figsize=(5 * len(images), 5))
+    for i, (image, title) in enumerate(zip(images, titles), start=1):
+        plt.subplot(1, len(images), i)
+        plt.imshow(image, cmap="gray")
+        plt.title(title)
+        plt.axis("off")
+    plt.tight_layout()
     plt.show()
 
 
-# ----------------------------------------------
-# 2. 低通滤波实验：只保留中心低频，去掉高频
-#    效果：图像模糊，但整体轮廓保留
-# ----------------------------------------------
-def lowpass_filter(image_path, radius=30):
-    img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
-    if img is None:
-        print("图片路径错误")
-        return
+def fft_spectrum(image):
+    """
+    计算图像的频谱图。
 
-    # 傅里叶变换
-    f = np.fft.fft2(img)
+    步骤：
+        1. np.fft.fft2 做二维傅里叶变换。
+        2. np.fft.fftshift 把低频移动到图像中心。
+        3. abs 取幅度。
+        4. log 压缩显示范围，否则频谱中心会太亮。
+    """
+    f = np.fft.fft2(image)
     fshift = np.fft.fftshift(f)
+    spectrum = np.log(1 + np.abs(fshift))
+    return fshift, spectrum
 
-    # 生成低通掩膜：中心一个圆内为1，其余为0
-    rows, cols = img.shape
+
+def make_lowpass_mask(shape, radius):
+    """
+    创建理想低通滤波掩膜。
+
+    mask 中心圆区域为 1，表示保留低频；
+    其他区域为 0，表示去掉高频。
+    """
+    rows, cols = shape
     crow, ccol = rows // 2, cols // 2
+
     mask = np.zeros((rows, cols), np.uint8)
-    cv2.circle(mask, (ccol, crow), radius, 1, -1)  # 白色圆形区域=低频保留
-
-    # 应用掩膜（频域乘法）
-    fshift_filtered = fshift * mask
-    # 逆变换回空间域
-    f_ishift = np.fft.ifftshift(fshift_filtered)
-    img_filtered = np.abs(np.fft.ifft2(f_ishift))
-
-    # 显示结果
-    plt.figure(figsize=(12, 4))
-    plt.subplot(131), plt.imshow(img, cmap='gray'), plt.title('Original')
-    plt.subplot(132), plt.imshow(mask, cmap='gray'), plt.title('Lowpass Mask (white=keep)')
-    plt.subplot(133), plt.imshow(img_filtered, cmap='gray'), plt.title(f'Lowpass Result (radius={radius})')
-    plt.show()
+    cv2.circle(mask, (ccol, crow), radius, 1, -1)
+    return mask
 
 
-# ----------------------------------------------
-# 3. 高通滤波实验：只保留高频，去掉中心低频部分
-#    效果：只剩边缘、纹理、噪声
-# ----------------------------------------------
-def highpass_filter(image_path, radius=30):
-    img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
-    if img is None:
-        print("图片路径错误")
-        return
+def lowpass_filter(image, radius=30):
+    """
+    低通滤波。
 
-    f = np.fft.fft2(img)
-    fshift = np.fft.fftshift(f)
-
-    # 生成高通掩膜：中心圆内为0，其余为1（与低通相反）
-    rows, cols = img.shape
-    crow, ccol = rows // 2, cols // 2
-    mask = np.ones((rows, cols), np.uint8)
-    cv2.circle(mask, (ccol, crow), radius, 0, -1)  # 中心圆形区域设为0（去掉低频）
+    效果：
+        保留低频，去掉高频。
+        图像会变模糊，但整体轮廓还在。
+    """
+    fshift, _ = fft_spectrum(image)
+    mask = make_lowpass_mask(image.shape, radius)
 
     fshift_filtered = fshift * mask
     f_ishift = np.fft.ifftshift(fshift_filtered)
-    img_filtered = np.abs(np.fft.ifft2(f_ishift))
+    filtered = np.abs(np.fft.ifft2(f_ishift))
 
-    # 显示
-    plt.figure(figsize=(12, 4))
-    plt.subplot(131), plt.imshow(img, cmap='gray'), plt.title('Original')
-    plt.subplot(132), plt.imshow(mask, cmap='gray'), plt.title('Highpass Mask (black=removed)')
-    plt.subplot(133), plt.imshow(img_filtered, cmap='gray'), plt.title(f'Highpass Result (radius={radius})')
-    plt.show()
+    filtered = cv2.normalize(filtered, None, 0, 255, cv2.NORM_MINMAX)
+    filtered = filtered.astype(np.uint8)
+    return mask, filtered
 
 
-# ----------------------------------------------
-# 额外：能量集中展示（自动计算低频圆内能量占比）
-# 不需要你改代码，直接运行会打印百分比
-# ----------------------------------------------
-def energy_concentration(image_path, radius=30):
-    img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
-    if img is None:
-        print("图片路径错误")
-        return
+def highpass_filter(image, radius=30):
+    """
+    高通滤波。
 
-    f = np.fft.fft2(img)
-    fshift = np.fft.fftshift(f)
-    energy = np.abs(fshift) ** 2  # 每个频率分量的能量
+    效果：
+        去掉中心低频，保留外围高频。
+        结果通常表现为边缘、纹理和噪声。
+    """
+    fshift, _ = fft_spectrum(image)
+    low_mask = make_lowpass_mask(image.shape, radius)
+    high_mask = 1 - low_mask
 
-    total_energy = np.sum(energy)
+    fshift_filtered = fshift * high_mask
+    f_ishift = np.fft.ifftshift(fshift_filtered)
+    filtered = np.abs(np.fft.ifft2(f_ishift))
 
-    # 计算半径为radius的圆内能量
-    rows, cols = img.shape
-    crow, ccol = rows // 2, cols // 2
-    y, x = np.ogrid[:rows, :cols]
-    mask_circle = (x - ccol) ** 2 + (y - crow) ** 2 <= radius ** 2
-    energy_in_circle = np.sum(energy[mask_circle])
-
-    percent = 100 * energy_in_circle / total_energy
-    print(f"半径为 {radius} 像素的低频圆内包含的能量占总能量的比例: {percent:.2f}%")
-
-    # 显示低频频谱区域（白色部分）
-    plt.imshow(mask_circle, cmap='gray')
-    plt.title(f"Low-frequency region (radius={radius})")
-    plt.show()
+    filtered = cv2.normalize(filtered, None, 0, 255, cv2.NORM_MINMAX)
+    filtered = filtered.astype(np.uint8)
+    return high_mask, filtered
 
 
-# ==============================================
-# 如何使用：
-# 1. 把下面的 'your_image.jpg' 换成你自己的图片路径
-# 2. 依次调用函数，观察结果
-# ==============================================
 if __name__ == "__main__":
-    image_path = "naixu.jpg"  # <--- 改成你的图片路径
+    img_path = "naixu.jpg"
+    img_gray = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
 
-    # 实验1：先看频谱
-    show_spectrum(image_path)
+    if img_gray is None:
+        print("图片路径错误，请检查 img_path")
+        exit()
 
-    # 实验2：低通滤波（试着改 radius = 10, 50，看模糊程度变化）
-    lowpass_filter(image_path, radius=30)
+    print("shape:", img_gray.shape)
+    print("dtype:", img_gray.dtype)
+    print("min/max:", img_gray.min(), img_gray.max())
 
-    # 实验3：高通滤波（边缘提取效果）
-    highpass_filter(image_path, radius=30)
+    # 简单演示：查看频谱 + 低通滤波。
+    _, spectrum = fft_spectrum(img_gray)
+    low_mask, low_result = lowpass_filter(img_gray, radius=30)
 
-    # 实验4：看能量集中程度
-    energy_concentration(image_path, radius=30)
+    show_images(
+        [img_gray, spectrum, low_mask * 255, low_result],
+        ["Original", "FFT Spectrum", "Lowpass Mask", "Lowpass Result"]
+    )

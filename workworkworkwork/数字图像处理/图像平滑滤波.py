@@ -2,117 +2,157 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-# ==============================================
-# 辅助函数：显示原图和处理结果
-# ==============================================
-def show_images(original, processed, title1="Original", title2="Processed"):
-    plt.figure(figsize=(10,5))
-    plt.subplot(121), plt.imshow(original, cmap='gray'), plt.title(title1)
-    plt.subplot(122), plt.imshow(processed, cmap='gray'), plt.title(title2)
+"""
+==============================================
+第 3 章：图像平滑滤波
+==============================================
+
+这一章解决的问题：
+    图像中有噪声时，怎样让图像变得更平滑、更干净？
+
+什么是噪声：
+    噪声可以理解为图像中不属于真实场景的随机干扰。
+    比如低光照拍摄产生的颗粒感，或者图像中随机出现的黑白点。
+
+平滑滤波的基本思想：
+    一个像素不要只看自己，而是参考周围邻域像素。
+    如果周围大多数像素都比较接近，那么孤立的异常点就可以被削弱。
+
+常见方法：
+    1. 均值滤波：
+        用邻域平均值替代中心像素。
+        简单、快，但容易模糊边缘。
+
+    2. 中值滤波：
+        用邻域中位数替代中心像素。
+        对椒盐噪声非常有效，且相对保护边缘。
+
+    3. 高斯滤波：
+        距离中心越近的像素权重越大。
+        比均值滤波自然，常作为边缘检测前的去噪步骤。
+
+工程意义：
+    1. Canny 边缘检测前通常先高斯滤波。
+    2. 阈值分割前先去噪，可以减少二值图中的小噪点。
+    3. 工业检测、医学图像、监控图像中都经常需要去噪。
+==============================================
+"""
+
+
+def show_images(images, titles):
+    """并排显示多张灰度图。"""
+    plt.figure(figsize=(5 * len(images), 5))
+    for i, (image, title) in enumerate(zip(images, titles), start=1):
+        plt.subplot(1, len(images), i)
+        plt.imshow(image, cmap="gray")
+        plt.title(title)
+        plt.axis("off")
+    plt.tight_layout()
     plt.show()
 
-# ==============================================
-# 以下三个函数用于去噪演示，调用前需要先施加椒盐噪声
-# ==============================================
 
-# 椒盐噪声攻击函数
 def salt_pepper_noise(image, prob=0.02):
     """
-    添加椒盐噪声
-    prob: 噪声比例（每个像素被替换为椒或盐的概率）
+    给图像添加椒盐噪声。
+
+    prob:
+        噪声比例。值越大，随机黑白点越多。
+
+    椒盐噪声特点：
+        一部分像素突然变成 0，另一部分像素突然变成 255。
     """
     output = image.copy()
-    # 椒盐噪声：随机将一些像素设成 0（胡椒）或 255（盐）
     rand = np.random.rand(*image.shape)
-    output[rand < prob/2] = 0
-    output[rand > 1 - prob/2] = 255
+    output[rand < prob / 2] = 0
+    output[rand > 1 - prob / 2] = 255
     return output
 
-# 高斯噪声攻击函数
+
 def gaussian_noise(image, mean=0, sigma=25):
     """
-    添加高斯噪声
-    mean: 噪声均值
-    sigma: 噪声标准差，控制噪声强度
+    给图像添加高斯噪声。
+
+    mean:
+        噪声均值。
+
+    sigma:
+        噪声标准差。越大，噪声越明显。
+
+    高斯噪声特点：
+        像素值在原来的基础上随机上下波动。
     """
-    output = image.astype(np.float64)
-    # 生成高斯噪声
+    image_float = image.astype(np.float32)
     noise = np.random.normal(mean, sigma, image.shape)
-    # 添加噪声并裁剪到 [0, 255]
-    noisy = output + noise
+    noisy = image_float + noise
     noisy = np.clip(noisy, 0, 255).astype(np.uint8)
     return noisy
 
-# 3. 均值滤波（平滑去噪）
+
 def mean_filter(image, ksize=3):
     """
-    均值滤波：用窗口内所有像素的平均值替代中心像素。
-    优点：简单、快速；缺点：模糊边缘。
-    适用：高斯噪声、轻度颗粒噪声。
+    均值滤波。
+
+    原理：
+        用 ksize x ksize 邻域内所有像素的平均值替代中心像素。
+
+    优点：
+        简单、速度快。
+
+    缺点：
+        容易把边缘也一起模糊掉。
     """
     return cv2.blur(image, (ksize, ksize))
 
-# 4. 中值滤波（保护边缘的去噪）
+
 def median_filter(image, ksize=3):
     """
-    中值滤波：用窗口内所有像素的中位数替代中心像素。
-    优点：对椒盐噪声效果极好，且几乎不模糊边缘。
-    缺点：对高斯噪声效果不如均值滤波。
+    中值滤波。
+
+    原理：
+        对邻域像素排序，取中间值替代中心像素。
+
+    优点：
+        对椒盐噪声特别有效。
+
+    注意：
+        ksize 必须是大于 1 的奇数，比如 3、5、7。
     """
     return cv2.medianBlur(image, ksize)
 
-# 5. 高斯滤波（保留边缘的平滑）
+
 def gaussian_filter(image, ksize=3, sigma=0):
     """
-    高斯滤波：根据高斯函数给邻域像素加权平均，中心权重大，边缘权重小。
-    优点：平滑噪声的同时，比均值滤波更保留边缘。
-    适用：高斯噪声（常见于低光照图像）。
+    高斯滤波。
+
+    原理：
+        使用高斯核做加权平均，越靠近中心的像素权重越大。
+
+    适合：
+        处理较自然的随机噪声，也常作为边缘检测前的预处理。
     """
     return cv2.GaussianBlur(image, (ksize, ksize), sigma)
 
-# ==============================================
-# 主程序：依次演示每个功能
-# ==============================================
-if __name__ == "__main__":
 
-    img_path = "naixu.jpg"
+if __name__ == "__main__":
+    img_path = "./output/adaptive_threshold.jpg"
     img_gray = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
+
     if img_gray is None:
-        print("图片路径错误，请检查")
+        print("图片路径错误，请检查 img_path")
         exit()
 
-    # ==========================================
-    # 演示1：椒盐噪声 + 三种滤波对比
-    # ==========================================
-    noisy_sp = salt_pepper_noise(img_gray, prob=0.05)
+    print("shape:", img_gray.shape)
+    print("dtype:", img_gray.dtype)
+    print("min/max:", img_gray.min(), img_gray.max())
 
-    mean_sp = mean_filter(noisy_sp, ksize=3)
-    median_sp = median_filter(noisy_sp, ksize=3)
-    gaussian_sp = gaussian_filter(noisy_sp, ksize=3, sigma=1)
-
-    plt.figure(figsize=(16, 8))
-    plt.subplot(241), plt.imshow(img_gray, cmap='gray'), plt.title("Original")
-    plt.subplot(242), plt.imshow(noisy_sp, cmap='gray'), plt.title("Salt-Pepper Noise")
-    plt.subplot(243), plt.imshow(mean_sp, cmap='gray'), plt.title("Mean Filter")
-    plt.subplot(244), plt.imshow(median_sp, cmap='gray'), plt.title("Median Filter (Best)")
-    plt.subplot(245), plt.imshow(gaussian_sp, cmap='gray'), plt.title("Gaussian Filter")
-    plt.tight_layout()
-    plt.show()
-
-    # ==========================================
-    # 演示2：高斯噪声 + 三种滤波对比
-    # ==========================================
-    noisy_gauss = gaussian_noise(img_gray, mean=0, sigma=25)
-
-    mean_gauss = mean_filter(noisy_gauss, ksize=5)
-    median_gauss = median_filter(noisy_gauss, ksize=5)
-    gaussian_gauss = gaussian_filter(noisy_gauss, ksize=5, sigma=1)
-
-    plt.figure(figsize=(16, 8))
-    plt.subplot(241), plt.imshow(img_gray, cmap='gray'), plt.title("Original")
-    plt.subplot(242), plt.imshow(noisy_gauss, cmap='gray'), plt.title("Gaussian Noise")
-    plt.subplot(243), plt.imshow(mean_gauss, cmap='gray'), plt.title("Mean Filter")
-    plt.subplot(244), plt.imshow(median_gauss, cmap='gray'), plt.title("Median Filter")
-    plt.subplot(245), plt.imshow(gaussian_gauss, cmap='gray'), plt.title("Gaussian Filter")
-    plt.tight_layout()
-    plt.show()
+    # 简单演示：椒盐噪声 + 中值滤波。
+    # noisy = salt_pepper_noise(img_gray, prob=0.05)
+    # denoised = median_filter(noisy, ksize=3)
+    denoised = median_filter(img_gray, ksize=3)
+    cv2.imwrite('./1.jpg',denoised)
+    show_images(
+        # [img_gray, noisy, denoised],
+        [img_gray, denoised],
+        # ["Original", "Salt-Pepper Noise", "Median Filter"]
+        ["Original","Median Filter"]
+    )
