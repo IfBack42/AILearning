@@ -164,7 +164,6 @@ plt.show()
 print(f"测试集中实际差评数：{sum(y_test == 0)}，好评数：{sum(y_test == 1)}")
 
 # ----------------------------- 10. 展示前5条分类结果 -----------------------------
-# ----------------------------- 10. 展示前5条分类结果 -----------------------------
 print("\n" + "=" * 60)
 print("           📊 模型预测结果详情（前5条样本）")
 print("=" * 60)
@@ -193,5 +192,3 @@ for i in range(min(5, X_test.shape[0])):
     print(
         f"{i + 1:<4} {label_map[true_label]:<12} {label_map[pred_label]:<12} {result_status:<12} {raw_text_sample[:30]}...")
 print("=" * 60)
-
-
